@@ -1,0 +1,3 @@
+dataset,rows,sift_nonmissing,polyphen_nonmissing,both_nonmissing,sift_coverage,polyphen_coverage,both_coverage
+final_v4_before_polyfix,1434,1416,253,253,0.9874476987447699,0.17642956764295675,0.17642956764295675
+final_v4_after_polyfix,1458,1431,1400,1400,0.9814814814814815,0.9602194787379973,0.9602194787379973

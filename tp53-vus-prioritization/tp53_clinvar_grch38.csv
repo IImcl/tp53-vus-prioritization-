@@ -1,0 +1,2699 @@
+Chromosome,Position,Ref,Alt,clinical_significance,clin_group,vep_row
+17,7674221,G,A,Pathogenic,pathogenic,17 7674221 . G A . . .
+17,7674191,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674191 . C T . . .
+17,7674230,C,A,Pathogenic,pathogenic,17 7674230 . C A . . .
+17,7674208,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674208 . A G . . .
+17,7676154,G,C,Benign,benign,17 7676154 . G C . . .
+17,7674216,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674216 . C A . . .
+17,7675143,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675143 . C A . . .
+17,7674238,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674238 . C T . . .
+17,7674229,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674229 . C T . . .
+17,7674220,C,T,Pathogenic,pathogenic,17 7674220 . C T . . .
+17,7675214,A,G,Pathogenic,pathogenic,17 7675214 . A G . . .
+17,7673806,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673806 . C A . . .
+17,7674241,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674241 . G A . . .
+17,7676011,T,A,Pathogenic,pathogenic,17 7676011 . T A . . .
+17,7673776,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673776 . G A . . .
+17,7674230,C,T,Pathogenic,pathogenic,17 7674230 . C T . . .
+17,7673802,C,T,Pathogenic,pathogenic,17 7673802 . C T . . .
+17,7673554,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7673554 . C A . . .
+17,7673781,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673781 . C G . . .
+17,7675161,G,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675161 . G T . . .
+17,7675161,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675161 . G A . . .
+17,7676264,C,A,Uncertain significance,VUS,17 7676264 . C A . . .
+17,7674193,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674193 . A T . . .
+17,7675088,C,T,Pathogenic,pathogenic,17 7675088 . C T . . .
+17,7670678,A,G,Likely pathogenic,likely_pathogenic,17 7670678 . A G . . .
+17,7675200,C,G,Likely pathogenic,likely_pathogenic,17 7675200 . C G . . .
+17,7673745,T,A,Uncertain significance,VUS,17 7673745 . T A . . .
+17,7670699,C,T,"Pathogenic/Likely pathogenic/Pathogenic, low penetrance",likely_pathogenic,17 7670699 . C T . . .
+17,7674965,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674965 . G A . . .
+17,7674872,T,G,Pathogenic,pathogenic,17 7674872 . T G . . .
+17,7673766,T,A,Pathogenic,pathogenic,17 7673766 . T A . . .
+17,7668434,T,G,Benign,benign,17 7668434 . T G . . .
+17,7675070,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7675070 . C A . . .
+17,7676564,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7676564 . C G . . .
+17,7670669,G,T,Pathogenic,pathogenic,17 7670669 . G T . . .
+17,7676230,G,A,Benign,benign,17 7676230 . G A . . .
+17,7674945,G,A,Pathogenic,pathogenic,17 7674945 . G A . . .
+17,7674894,G,A,Pathogenic,pathogenic,17 7674894 . G A . . .
+17,7674892,T,C,Benign,benign,17 7674892 . T C . . .
+17,7673803,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673803 . G A . . .
+17,7673610,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673610 . T C . . .
+17,7670658,T,C,Uncertain significance,VUS,17 7670658 . T C . . .
+17,7670616,G,A,Likely benign,likely_benign,17 7670616 . G A . . .
+17,7674859,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674859 . C T . . .
+17,7675212,A,G,Uncertain significance,VUS,17 7675212 . A G . . .
+17,7673728,C,A,Pathogenic,pathogenic,17 7673728 . C A . . .
+17,7673523,A,G,Benign/Likely benign,likely_benign,17 7673523 . A G . . .
+17,7674944,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674944 . C A . . .
+17,7674227,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674227 . T C . . .
+17,7673733,T,C,Likely pathogenic,likely_pathogenic,17 7673733 . T C . . .
+17,7687373,T,G,Uncertain significance,VUS,17 7687373 . T G . . .
+17,7676196,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676196 . G C . . .
+17,7676121,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676121 . G A . . .
+17,7676567,C,T,Benign,benign,17 7676567 . C T . . .
+17,7676040,C,T,Likely benign,likely_benign,17 7676040 . C T . . .
+17,7675146,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675146 . G A . . .
+17,7675145,C,T,Uncertain significance,VUS,17 7675145 . C T . . .
+17,7675140,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675140 . G A . . .
+17,7675127,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675127 . A C . . .
+17,7675124,T,C,Pathogenic,pathogenic,17 7675124 . T C . . .
+17,7675077,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675077 . G A . . .
+17,7674959,G,C,Likely benign,likely_benign,17 7674959 . G C . . .
+17,7674951,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674951 . G A . . .
+17,7674927,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674927 . G A . . .
+17,7674872,T,C,Pathogenic,pathogenic,17 7674872 . T C . . .
+17,7674262,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674262 . T C . . .
+17,7674259,T,C,Benign,benign,17 7674259 . T C . . .
+17,7674226,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674226 . A C . . .
+17,7673820,C,T,Uncertain significance,VUS,17 7673820 . C T . . .
+17,7673773,G,A,Likely benign,likely_benign,17 7673773 . G A . . .
+17,7673751,C,T,Benign,benign,17 7673751 . C T . . .
+17,7673743,C,A,Likely benign,likely_benign,17 7673743 . C A . . .
+17,7676387,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676387 . C T . . .
+17,7676261,C,T,Benign,benign,17 7676261 . C T . . .
+17,7673735,A,G,Benign/Likely benign,likely_benign,17 7673735 . A G . . .
+17,7674865,C,A,Benign/Likely benign,likely_benign,17 7674865 . C A . . .
+17,7673734,G,A,Likely benign,likely_benign,17 7673734 . G A . . .
+17,7673559,C,T,Benign/Likely benign,likely_benign,17 7673559 . C T . . .
+17,7675226,G,A,not provided,other,17 7675226 . G A . . .
+17,7675152,C,T,Uncertain significance,VUS,17 7675152 . C T . . .
+17,7675150,G,A,Benign/Likely benign,likely_benign,17 7675150 . G A . . .
+17,7674824,C,A,Likely benign,likely_benign,17 7674824 . C A . . .
+17,7674828,T,C,Benign/Likely benign,likely_benign,17 7674828 . T C . . .
+17,7674926,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674926 . C T . . .
+17,7674893,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674893 . C T . . .
+17,7670613,A,C,Benign,benign,17 7670613 . A C . . .
+17,7673312,A,C,Benign/Likely benign,likely_benign,17 7673312 . A C . . .
+17,7676224,C,G,Benign,benign,17 7676224 . C G . . .
+17,7675104,T,C,Uncertain significance,VUS,17 7675104 . T C . . .
+17,7674949,A,G,Benign/Likely benign,likely_benign,17 7674949 . A G . . .
+17,7676483,G,C,Benign,benign,17 7676483 . G C . . .
+17,7674164,G,A,Benign/Likely benign,likely_benign,17 7674164 . G A . . .
+17,7676574,A,T,Likely benign,likely_benign,17 7676574 . A T . . .
+17,7676050,A,G,Benign,benign,17 7676050 . A G . . .
+17,7675190,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675190 . C T . . .
+17,7673776,G,C,Pathogenic,pathogenic,17 7673776 . G C . . .
+17,7676119,C,T,Likely benign,likely_benign,17 7676119 . C T . . .
+17,7676041,G,T,Uncertain significance,VUS,17 7676041 . G T . . .
+17,7674889,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674889 . A C . . .
+17,7674197,T,C,Uncertain significance,VUS,17 7674197 . T C . . .
+17,7676225,G,T,Likely benign,likely_benign,17 7676225 . G T . . .
+17,7676011,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676011 . T C . . .
+17,7676005,C,T,Likely benign,likely_benign,17 7676005 . C T . . .
+17,7673593,G,C,Benign,benign,17 7673593 . G C . . .
+17,7676055,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676055 . C T . . .
+17,7673778,T,C,Pathogenic,pathogenic,17 7673778 . T C . . .
+17,7670706,G,A,Likely benign,likely_benign,17 7670706 . G A . . .
+17,7674268,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674268 . A G . . .
+17,7673836,C,T,Likely benign,likely_benign,17 7673836 . C T . . .
+17,7676032,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7676032 . A C . . .
+17,7670627,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670627 . C T . . .
+17,7669692,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7669692 . T C . . .
+17,7675058,C,T,Likely benign,likely_benign,17 7675058 . C T . . .
+17,7673609,C,T,Pathogenic,pathogenic,17 7673609 . C T . . .
+17,7669628,T,G,Likely benign,likely_benign,17 7669628 . T G . . .
+17,7676244,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676244 . T C . . .
+17,7673728,C,T,Benign,benign,17 7673728 . C T . . .
+17,7676148,G,A,Likely benign,likely_benign,17 7676148 . G A . . .
+17,7675101,C,T,Likely benign,likely_benign,17 7675101 . C T . . .
+17,7669671,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7669671 . C T . . .
+17,7676262,G,T,Benign,benign,17 7676262 . G T . . .
+17,7675208,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7675208 . C T . . .
+17,7673821,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673821 . G A . . .
+17,7673761,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673761 . C T . . .
+17,7674218,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674218 . T A . . .
+17,7670694,C,G,Likely benign,likely_benign,17 7670694 . C G . . .
+17,7676121,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676121 . G T . . .
+17,7675139,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675139 . C T . . .
+17,7676113,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676113 . C T . . .
+17,7675221,T,A,Pathogenic,pathogenic,17 7675221 . T A . . .
+17,7670630,C,G,Benign,benign,17 7670630 . C G . . .
+17,7674887,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7674887 . C G . . .
+17,7675178,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7675178 . A G . . .
+17,7670637,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670637 . C T . . .
+17,7674193,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674193 . A C . . .
+17,7673704,G,A,Pathogenic,pathogenic,17 7673704 . G A . . .
+17,7670716,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7670716 . C T . . .
+17,7674257,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674257 . A C . . .
+17,7676041,G,A,Uncertain significance,VUS,17 7676041 . G A . . .
+17,7674217,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674217 . C T . . .
+17,7670711,C,T,Benign,benign,17 7670711 . C T . . .
+17,7675070,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675070 . C T . . .
+17,7673772,C,T,Uncertain significance,VUS,17 7673772 . C T . . .
+17,7673713,T,C,Likely benign,likely_benign,17 7673713 . T C . . .
+17,7670596,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7670596 . T C . . .
+17,7676152,C,T,Benign,benign,17 7676152 . C T . . .
+17,7676049,T,G,Uncertain significance,VUS,17 7676049 . T G . . .
+17,7676047,C,T,Likely benign,likely_benign,17 7676047 . C T . . .
+17,7670700,G,A,Pathogenic,pathogenic,17 7670700 . G A . . .
+17,7670630,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7670630 . C A . . .
+17,7676264,C,G,Likely benign,likely_benign,17 7676264 . C G . . .
+17,7675071,G,A,Likely pathogenic,likely_pathogenic,17 7675071 . G A . . .
+17,7675185,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675185 . C T . . .
+17,7676576,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7676576 . C G . . .
+17,7676049,T,C,Uncertain significance,VUS,17 7676049 . T C . . .
+17,7673710,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673710 . T C . . .
+17,7674252,C,T,Pathogenic,pathogenic,17 7674252 . C T . . .
+17,7675157,G,A,Pathogenic,pathogenic,17 7675157 . G A . . .
+17,7670699,C,A,Likely pathogenic,likely_pathogenic,17 7670699 . C A . . .
+17,7670694,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670694 . C T . . .
+17,7676155,G,C,Likely benign,likely_benign,17 7676155 . G C . . .
+17,7676198,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676198 . G T . . .
+17,7673833,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673833 . T C . . .
+17,7676250,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7676250 . A G . . .
+17,7669626,C,A,Uncertain significance,VUS,17 7669626 . C A . . .
+17,7674866,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674866 . G A . . .
+17,7673781,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7673781 . C A . . .
+17,7673823,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673823 . C T . . .
+17,7674249,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674249 . A C . . .
+17,7675131,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675131 . C T . . .
+17,7674241,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674241 . G C . . .
+17,7676154,G,G,Benign,benign,17 7676154 . G G . . .
+17,7670699,C,G,Likely pathogenic,likely_pathogenic,17 7670699 . C G . . .
+17,7675994,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675994 . C T . . .
+17,7669641,T,C,Likely benign,likely_benign,17 7669641 . T C . . .
+17,7670685,G,A,Pathogenic,pathogenic,17 7670685 . G A . . .
+17,7670695,G,A,Benign/Likely benign,likely_benign,17 7670695 . G A . . .
+17,7670709,C,G,Uncertain significance,VUS,17 7670709 . C G . . .
+17,7670732,G,A,Benign/Likely benign,likely_benign,17 7670732 . G A . . .
+17,7673522,C,G,Benign/Likely benign,likely_benign,17 7673522 . C G . . .
+17,7673775,C,A,Uncertain significance,VUS,17 7673775 . C A . . .
+17,7673778,T,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673778 . T A . . .
+17,7674169,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674169 . G A . . .
+17,7674211,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674211 . A C . . .
+17,7674212,T,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674212 . T G . . .
+17,7674235,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674235 . A G . . .
+17,7674250,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674250 . C T . . .
+17,7674254,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674254 . T C . . .
+17,7674256,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674256 . T G . . .
+17,7674841,C,G,Benign/Likely benign,likely_benign,17 7674841 . C G . . .
+17,7674885,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674885 . C T . . .
+17,7674924,C,T,Uncertain significance,VUS,17 7674924 . C T . . .
+17,7674926,C,A,Uncertain significance,VUS,17 7674926 . C A . . .
+17,7674956,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674956 . T C . . .
+17,7675088,C,A,Likely pathogenic,likely_pathogenic,17 7675088 . C A . . .
+17,7675119,G,A,Pathogenic,pathogenic,17 7675119 . G A . . .
+17,7675137,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7675137 . C G . . .
+17,7675232,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675232 . G A . . .
+17,7675988,A,G,Uncertain significance,VUS,17 7675988 . A G . . .
+17,7675999,A,T,Likely benign,likely_benign,17 7675999 . A T . . .
+17,7676025,T,C,Likely benign,likely_benign,17 7676025 . T C . . .
+17,7676079,A,T,Uncertain significance,VUS,17 7676079 . A T . . .
+17,7676080,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7676080 . C G . . .
+17,7676103,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676103 . G A . . .
+17,7676124,G,A,Likely benign,likely_benign,17 7676124 . G A . . .
+17,7676181,G,A,Benign,benign,17 7676181 . G A . . .
+17,7676263,G,A,Uncertain significance,VUS,17 7676263 . G A . . .
+17,7676281,G,A,Benign/Likely benign,likely_benign,17 7676281 . G A . . .
+17,7676577,T,G,Benign/Likely benign,likely_benign,17 7676577 . T G . . .
+17,7674882,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674882 . C T . . .
+17,7669642,G,A,Benign/Likely benign,likely_benign,17 7669642 . G A . . .
+17,7669654,G,A,Benign/Likely benign,likely_benign,17 7669654 . G A . . .
+17,7669656,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7669656 . G A . . .
+17,7669656,G,T,Likely benign,likely_benign,17 7669656 . G T . . .
+17,7670631,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670631 . C T . . .
+17,7670707,C,T,Benign/Likely benign,likely_benign,17 7670707 . C T . . .
+17,7670709,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670709 . C T . . .
+17,7670712,G,A,Likely benign,likely_benign,17 7670712 . G A . . .
+17,7673585,A,T,Likely benign,likely_benign,17 7673585 . A T . . .
+17,7673604,C,T,Benign/Likely benign,likely_benign,17 7673604 . C T . . .
+17,7673613,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673613 . G A . . .
+17,7673717,T,C,Benign/Likely benign,likely_benign,17 7673717 . T C . . .
+17,7673729,G,A,Benign/Likely benign,likely_benign,17 7673729 . G A . . .
+17,7673764,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673764 . C T . . .
+17,7673768,T,G,Benign/Likely benign,likely_benign,17 7673768 . T G . . .
+17,7673783,C,T,Likely benign,likely_benign,17 7673783 . C T . . .
+17,7673790,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673790 . C T . . .
+17,7673793,G,C,Pathogenic,pathogenic,17 7673793 . G C . . .
+17,7673806,C,T,Pathogenic,pathogenic,17 7673806 . C T . . .
+17,7674181,C,G,Uncertain significance,VUS,17 7674181 . C G . . .
+17,7674195,T,C,Likely benign,likely_benign,17 7674195 . T C . . .
+17,7674222,G,A,Benign/Likely benign,likely_benign,17 7674222 . G A . . .
+17,7674223,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674223 . T A . . .
+17,7674227,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674227 . T G . . .
+17,7674236,T,G,Uncertain significance,VUS,17 7674236 . T G . . .
+17,7674267,G,A,Likely benign,likely_benign,17 7674267 . G A . . .
+17,7674865,C,T,Benign/Likely benign,likely_benign,17 7674865 . C T . . .
+17,7674870,C,T,Uncertain significance,VUS,17 7674870 . C T . . .
+17,7674874,G,T,Benign/Likely benign,likely_benign,17 7674874 . G T . . .
+17,7674877,C,T,Benign/Likely benign,likely_benign,17 7674877 . C T . . .
+17,7674913,C,T,Benign/Likely benign,likely_benign,17 7674913 . C T . . .
+17,7674916,A,T,Pathogenic,pathogenic,17 7674916 . A T . . .
+17,7674919,C,T,Benign/Likely benign,likely_benign,17 7674919 . C T . . .
+17,7674953,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674953 . T A . . .
+17,7674953,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674953 . T C . . .
+17,7675054,A,G,Likely benign,likely_benign,17 7675054 . A G . . .
+17,7675057,G,A,Benign/Likely benign,likely_benign,17 7675057 . G A . . .
+17,7675085,C,T,Pathogenic,pathogenic,17 7675085 . C T . . .
+17,7675102,C,T,Benign/Likely benign,likely_benign,17 7675102 . C T . . .
+17,7675103,G,A,Likely benign,likely_benign,17 7675103 . G A . . .
+17,7675125,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675125 . A C . . .
+17,7675138,G,A,Benign/Likely benign,likely_benign,17 7675138 . G A . . .
+17,7675143,C,T,Likely benign,likely_benign,17 7675143 . C T . . .
+17,7675144,G,A,Benign/Likely benign,likely_benign,17 7675144 . G A . . .
+17,7675147,G,T,Benign/Likely benign,likely_benign,17 7675147 . G T . . .
+17,7675148,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7675148 . G C . . .
+17,7675176,A,C,Uncertain significance,VUS,17 7675176 . A C . . .
+17,7675179,G,A,Likely benign,likely_benign,17 7675179 . G A . . .
+17,7675180,C,T,Benign/Likely benign,likely_benign,17 7675180 . C T . . .
+17,7675181,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675181 . T G . . .
+17,7675185,C,A,Uncertain significance,VUS,17 7675185 . C A . . .
+17,7675193,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7675193 . G T . . .
+17,7675199,G,A,Likely pathogenic,likely_pathogenic,17 7675199 . G A . . .
+17,7675204,T,C,Benign/Likely benign,likely_benign,17 7675204 . T C . . .
+17,7675204,T,G,Uncertain significance,VUS,17 7675204 . T G . . .
+17,7675222,G,A,Benign/Likely benign,likely_benign,17 7675222 . G A . . .
+17,7675238,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675238 . T C . . .
+17,7675995,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675995 . G A . . .
+17,7676015,T,A,Benign/Likely benign,likely_benign,17 7676015 . T A . . .
+17,7676064,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676064 . G A . . .
+17,7676102,G,A,Benign/Likely benign,likely_benign,17 7676102 . G A . . .
+17,7676114,A,G,Benign/Likely benign,likely_benign,17 7676114 . A G . . .
+17,7676114,A,T,Likely benign,likely_benign,17 7676114 . A T . . .
+17,7676120,C,T,Benign/Likely benign,likely_benign,17 7676120 . C T . . .
+17,7676123,C,T,Benign/Likely benign,likely_benign,17 7676123 . C T . . .
+17,7676135,T,C,Benign/Likely benign,likely_benign,17 7676135 . T C . . .
+17,7676147,G,A,Benign/Likely benign,likely_benign,17 7676147 . G A . . .
+17,7676153,G,A,Benign/Likely benign,likely_benign,17 7676153 . G A . . .
+17,7676154,G,T,Benign,benign,17 7676154 . G T . . .
+17,7676159,A,G,Benign/Likely benign,likely_benign,17 7676159 . A G . . .
+17,7676165,C,T,Benign/Likely benign,likely_benign,17 7676165 . C T . . .
+17,7676168,T,C,Benign/Likely benign,likely_benign,17 7676168 . T C . . .
+17,7676189,T,G,Benign/Likely benign,likely_benign,17 7676189 . T G . . .
+17,7676220,A,T,Uncertain significance,VUS,17 7676220 . A T . . .
+17,7676222,A,G,Benign/Likely benign,likely_benign,17 7676222 . A G . . .
+17,7676224,C,T,Benign,benign,17 7676224 . C T . . .
+17,7676228,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676228 . C T . . .
+17,7676246,A,G,Benign/Likely benign,likely_benign,17 7676246 . A G . . .
+17,7676267,G,C,Benign/Likely benign,likely_benign,17 7676267 . G C . . .
+17,7676269,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676269 . G C . . .
+17,7676269,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676269 . G T . . .
+17,7676275,G,A,Benign,benign,17 7676275 . G A . . .
+17,7676395,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7676395 . T A . . .
+17,7676529,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676529 . T C . . .
+17,7676532,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676532 . G A . . .
+17,7676535,T,C,Benign/Likely benign,likely_benign,17 7676535 . T C . . .
+17,7676553,C,G,Benign/Likely benign,likely_benign,17 7676553 . C G . . .
+17,7676565,G,A,Benign/Likely benign,likely_benign,17 7676565 . G A . . .
+17,7676587,T,C,Uncertain significance,VUS,17 7676587 . T C . . .
+17,7676589,C,T,Benign/Likely benign,likely_benign,17 7676589 . C T . . .
+17,7669689,G,A,Uncertain significance,VUS,17 7669689 . G A . . .
+17,7670622,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7670622 . T C . . .
+17,7674187,T,C,Uncertain significance,VUS,17 7674187 . T C . . .
+17,7674260,T,A,Uncertain significance,VUS,17 7674260 . T A . . .
+17,7674942,C,T,Likely pathogenic,likely_pathogenic,17 7674942 . C T . . .
+17,7674980,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674980 . A T . . .
+17,7669655,C,A,Likely benign,likely_benign,17 7669655 . C A . . .
+17,7670684,C,G,Pathogenic,pathogenic,17 7670684 . C G . . .
+17,7673555,C,A,Pathogenic,pathogenic,17 7673555 . C A . . .
+17,7673564,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673564 . G A . . .
+17,7673696,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673696 . C G . . .
+17,7673716,C,G,Uncertain significance,VUS,17 7673716 . C G . . .
+17,7673752,G,A,Likely benign,likely_benign,17 7673752 . G A . . .
+17,7673769,G,A,Likely benign,likely_benign,17 7673769 . G A . . .
+17,7673796,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673796 . C T . . .
+17,7673837,A,G,Uncertain significance,VUS,17 7673837 . A G . . .
+17,7674257,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674257 . A G . . .
+17,7674858,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674858 . C T . . .
+17,7674942,C,A,Uncertain significance,VUS,17 7674942 . C A . . .
+17,7674944,C,T,Uncertain significance,VUS,17 7674944 . C T . . .
+17,7674947,A,G,Pathogenic,pathogenic,17 7674947 . A G . . .
+17,7674979,C,G,Benign/Likely benign,likely_benign,17 7674979 . C G . . .
+17,7675162,T,C,Benign/Likely benign,likely_benign,17 7675162 . T C . . .
+17,7675224,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675224 . G A . . .
+17,7675995,G,T,Pathogenic,pathogenic,17 7675995 . G T . . .
+17,7676099,G,A,Benign/Likely benign,likely_benign,17 7676099 . G A . . .
+17,7676201,T,C,Benign/Likely benign,likely_benign,17 7676201 . T C . . .
+17,7676220,A,G,Likely benign,likely_benign,17 7676220 . A G . . .
+17,7676388,G,A,Benign/Likely benign,likely_benign,17 7676388 . G A . . .
+17,7676568,G,A,Benign/Likely benign,likely_benign,17 7676568 . G A . . .
+17,7670677,C,T,Benign/Likely benign,likely_benign,17 7670677 . C T . . .
+17,7670686,G,A,Benign/Likely benign,likely_benign,17 7670686 . G A . . .
+17,7673596,T,G,Uncertain significance,VUS,17 7673596 . T G . . .
+17,7674231,G,A,Benign/Likely benign,likely_benign,17 7674231 . G A . . .
+17,7674263,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674263 . A C . . .
+17,7674326,C,G,Benign,benign,17 7674326 . C G . . .
+17,7675092,T,C,Uncertain significance,VUS,17 7675092 . T C . . .
+17,7675108,G,A,Benign/Likely benign,likely_benign,17 7675108 . G A . . .
+17,7675232,G,C,Pathogenic,pathogenic,17 7675232 . G C . . .
+17,7676162,A,G,Benign/Likely benign,likely_benign,17 7676162 . A G . . .
+17,7676278,G,A,Benign/Likely benign,likely_benign,17 7676278 . G A . . .
+17,7673394,C,T,Likely benign,likely_benign,17 7673394 . C T . . .
+17,7687108,C,T,Likely benign,likely_benign,17 7687108 . C T . . .
+17,7676167,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676167 . C A . . .
+17,7675095,C,T,Pathogenic,pathogenic,17 7675095 . C T . . .
+17,7669671,C,G,Benign,benign,17 7669671 . C G . . .
+17,7669676,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7669676 . T C . . .
+17,7669691,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7669691 . C T . . .
+17,7670610,T,C,Uncertain significance,VUS,17 7670610 . T C . . .
+17,7670621,C,T,Uncertain significance,VUS,17 7670621 . C T . . .
+17,7670630,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670630 . C T . . .
+17,7670636,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7670636 . T A . . .
+17,7670643,C,G,Likely benign,likely_benign,17 7670643 . C G . . .
+17,7670649,G,T,Benign,benign,17 7670649 . G T . . .
+17,7670684,C,T,Likely benign,likely_benign,17 7670684 . C T . . .
+17,7670716,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7670716 . C G . . .
+17,7673552,C,A,Pathogenic,pathogenic,17 7673552 . C A . . .
+17,7673564,G,T,Uncertain significance,VUS,17 7673564 . G T . . .
+17,7673579,G,T,Benign,benign,17 7673579 . G T . . .
+17,7673582,G,T,Likely benign,likely_benign,17 7673582 . G T . . .
+17,7673598,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7673598 . G T . . .
+17,7673698,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673698 . T C . . .
+17,7673712,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673712 . C T . . .
+17,7673730,T,C,Uncertain significance,VUS,17 7673730 . T C . . .
+17,7673743,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673743 . C T . . .
+17,7673753,G,A,Benign/Likely benign,likely_benign,17 7673753 . G A . . .
+17,7673787,G,A,Pathogenic,pathogenic,17 7673787 . G A . . .
+17,7673793,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7673793 . G T . . .
+17,7673802,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673802 . C G . . .
+17,7673805,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7673805 . A C . . .
+17,7673823,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7673823 . C A . . .
+17,7674179,A,C,Likely pathogenic,likely_pathogenic,17 7674179 . A C . . .
+17,7674184,G,T,Likely benign,likely_benign,17 7674184 . G T . . .
+17,7674194,G,A,Benign/Likely benign,likely_benign,17 7674194 . G A . . .
+17,7674199,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674199 . A T . . .
+17,7674220,C,A,Pathogenic,pathogenic,17 7674220 . C A . . .
+17,7674248,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674248 . T C . . .
+17,7674295,G,C,Likely benign,likely_benign,17 7674295 . G C . . .
+17,7674863,G,A,Uncertain significance,VUS,17 7674863 . G A . . .
+17,7674891,G,T,Uncertain significance,VUS,17 7674891 . G T . . .
+17,7674893,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674893 . C G . . .
+17,7674927,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674927 . G C . . .
+17,7674944,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674944 . C G . . .
+17,7674945,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674945 . G C . . .
+17,7674954,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674954 . G A . . .
+17,7674962,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674962 . G C . . .
+17,7674963,G,T,Uncertain significance,VUS,17 7674963 . G T . . .
+17,7675054,A,T,Likely benign,likely_benign,17 7675054 . A T . . .
+17,7675069,G,A,Benign/Likely benign,likely_benign,17 7675069 . G A . . .
+17,7675071,G,T,Uncertain significance,VUS,17 7675071 . G T . . .
+17,7675075,A,G,Benign/Likely benign,likely_benign,17 7675075 . A G . . .
+17,7675132,C,T,Likely benign,likely_benign,17 7675132 . C T . . .
+17,7675153,G,A,Benign/Likely benign,likely_benign,17 7675153 . G A . . .
+17,7675156,C,T,Benign/Likely benign,likely_benign,17 7675156 . C T . . .
+17,7675201,C,G,Benign/Likely benign,likely_benign,17 7675201 . C G . . .
+17,7675211,A,C,Likely pathogenic,likely_pathogenic,17 7675211 . A C . . .
+17,7675999,A,C,Uncertain significance,VUS,17 7675999 . A C . . .
+17,7676018,C,T,Benign/Likely benign,likely_benign,17 7676018 . C T . . .
+17,7676033,G,T,Benign/Likely benign,likely_benign,17 7676033 . G T . . .
+17,7676040,C,G,Pathogenic,pathogenic,17 7676040 . C G . . .
+17,7676048,G,A,Benign/Likely benign,likely_benign,17 7676048 . G A . . .
+17,7676072,G,A,Benign/Likely benign,likely_benign,17 7676072 . G A . . .
+17,7676084,A,C,Benign/Likely benign,likely_benign,17 7676084 . A C . . .
+17,7676087,T,C,Benign/Likely benign,likely_benign,17 7676087 . T C . . .
+17,7676092,G,A,Benign/Likely benign,likely_benign,17 7676092 . G A . . .
+17,7676093,G,A,Likely benign,likely_benign,17 7676093 . G A . . .
+17,7676096,C,T,Pathogenic,pathogenic,17 7676096 . C T . . .
+17,7676105,G,A,Benign/Likely benign,likely_benign,17 7676105 . G A . . .
+17,7676136,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676136 . G C . . .
+17,7676155,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676155 . G T . . .
+17,7676163,G,C,Uncertain significance,VUS,17 7676163 . G C . . .
+17,7676181,G,C,Likely benign,likely_benign,17 7676181 . G C . . .
+17,7676182,C,T,Likely benign,likely_benign,17 7676182 . C T . . .
+17,7676211,C,T,Pathogenic,pathogenic,17 7676211 . C T . . .
+17,7676223,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676223 . T C . . .
+17,7676225,G,A,Benign/Likely benign,likely_benign,17 7676225 . G A . . .
+17,7676233,A,G,Uncertain significance,VUS,17 7676233 . A G . . .
+17,7676387,C,A,Uncertain significance,VUS,17 7676387 . C A . . .
+17,7676537,A,G,Uncertain significance,VUS,17 7676537 . A G . . .
+17,7676541,T,C,Benign/Likely benign,likely_benign,17 7676541 . T C . . .
+17,7676567,C,G,Likely benign,likely_benign,17 7676567 . C G . . .
+17,7676572,G,A,Likely benign,likely_benign,17 7676572 . G A . . .
+17,7676581,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676581 . T C . . .
+17,7676583,C,T,Benign/Likely benign,likely_benign,17 7676583 . C T . . .
+17,7670601,T,C,Likely benign,likely_benign,17 7670601 . T C . . .
+17,7670700,G,C,Likely pathogenic,likely_pathogenic,17 7670700 . G C . . .
+17,7673775,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673775 . C T . . .
+17,7674210,G,A,Benign/Likely benign,likely_benign,17 7674210 . G A . . .
+17,7674220,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674220 . C G . . .
+17,7674291,C,A,Pathogenic,pathogenic,17 7674291 . C A . . .
+17,7674879,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674879 . C T . . .
+17,7675151,C,T,Uncertain significance,VUS,17 7675151 . C T . . .
+17,7675994,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675994 . C A . . .
+17,7676066,T,A,Uncertain significance,VUS,17 7676066 . T A . . .
+17,7676090,C,A,Benign/Likely benign,likely_benign,17 7676090 . C A . . .
+17,7676157,G,C,Uncertain significance,VUS,17 7676157 . G C . . .
+17,7676214,T,C,Uncertain significance,VUS,17 7676214 . T C . . .
+17,7676276,T,A,Likely benign,likely_benign,17 7676276 . T A . . .
+17,7676557,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676557 . G A . . .
+17,7676584,G,A,Likely benign,likely_benign,17 7676584 . G A . . .
+17,7669593,C,A,Uncertain significance,VUS,17 7669593 . C A . . .
+17,7669655,C,T,Likely benign,likely_benign,17 7669655 . C T . . .
+17,7673547,A,C,Likely pathogenic,likely_pathogenic,17 7673547 . A C . . .
+17,7673826,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673826 . A G . . .
+17,7674265,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674265 . T C . . .
+17,7674876,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674876 . G A . . .
+17,7675074,C,T,Likely pathogenic,likely_pathogenic,17 7675074 . C T . . .
+17,7675089,G,A,Uncertain significance,VUS,17 7675089 . G A . . .
+17,7675122,T,C,Pathogenic,pathogenic,17 7675122 . T C . . .
+17,7675139,C,G,Pathogenic,pathogenic,17 7675139 . C G . . .
+17,7675219,G,T,Uncertain significance,VUS,17 7675219 . G T . . .
+17,7676235,A,G,Uncertain significance,VUS,17 7676235 . A G . . .
+17,7676274,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676274 . T C . . .
+17,7687390,G,A,Uncertain significance,VUS,17 7687390 . G A . . .
+17,7670626,C,T,Benign/Likely benign,likely_benign,17 7670626 . C T . . .
+17,7674797,T,C,Benign,benign,17 7674797 . T C . . .
+17,7675045,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7675045 . C T . . .
+17,7676301,G,T,Benign,benign,17 7676301 . G T . . .
+17,7688850,C,G,Benign,benign,17 7688850 . C G . . .
+17,7689055,C,G,Benign/Likely benign,likely_benign,17 7689055 . C G . . .
+17,7689242,C,T,Benign/Likely benign,likely_benign,17 7689242 . C T . . .
+17,7674229,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7674229 . C G . . .
+17,7674888,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674888 . T C . . .
+17,7675236,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675236 . A C . . .
+17,7687396,C,T,Uncertain significance,VUS,17 7687396 . C T . . .
+17,7668819,C,T,Uncertain significance,VUS,17 7668819 . C T . . .
+17,7668855,G,A,Uncertain significance,VUS,17 7668855 . G A . . .
+17,7668862,G,A,Uncertain significance,VUS,17 7668862 . G A . . .
+17,7669262,A,G,Uncertain significance,VUS,17 7669262 . A G . . .
+17,7669510,C,T,Uncertain significance,VUS,17 7669510 . C T . . .
+17,7688679,C,T,Benign/Likely benign,likely_benign,17 7688679 . C T . . .
+17,7668632,C,G,Uncertain significance,VUS,17 7668632 . C G . . .
+17,7668783,C,T,Benign,benign,17 7668783 . C T . . .
+17,7668836,G,A,Benign,benign,17 7668836 . G A . . .
+17,7668996,G,T,Benign,benign,17 7668996 . G T . . .
+17,7669124,C,T,Benign,benign,17 7669124 . C T . . .
+17,7669282,G,A,Uncertain significance,VUS,17 7669282 . G A . . .
+17,7687442,G,A,Uncertain significance,VUS,17 7687442 . G A . . .
+17,7668673,T,C,Likely benign,likely_benign,17 7668673 . T C . . .
+17,7668874,G,T,Uncertain significance,VUS,17 7668874 . G T . . .
+17,7668983,G,A,Uncertain significance,VUS,17 7668983 . G A . . .
+17,7669061,C,A,Uncertain significance,VUS,17 7669061 . C A . . .
+17,7669263,C,A,Uncertain significance,VUS,17 7669263 . C A . . .
+17,7669404,C,T,Benign,benign,17 7669404 . C T . . .
+17,7687450,G,C,Uncertain significance,VUS,17 7687450 . G C . . .
+17,7688835,G,A,Uncertain significance,VUS,17 7688835 . G A . . .
+17,7668449,A,C,Uncertain significance,VUS,17 7668449 . A C . . .
+17,7668539,G,A,Benign/Likely benign,likely_benign,17 7668539 . G A . . .
+17,7668803,G,T,Uncertain significance,VUS,17 7668803 . G T . . .
+17,7669044,C,A,Uncertain significance,VUS,17 7669044 . C A . . .
+17,7669227,G,A,Uncertain significance,VUS,17 7669227 . G A . . .
+17,7687421,G,T,Uncertain significance,VUS,17 7687421 . G T . . .
+17,7668388,C,G,Likely benign,likely_benign,17 7668388 . C G . . .
+17,7688404,G,C,Benign/Likely benign,likely_benign,17 7688404 . G C . . .
+17,7688443,G,A,Benign/Likely benign,likely_benign,17 7688443 . G A . . .
+17,7673291,C,T,Likely benign,likely_benign,17 7673291 . C T . . .
+17,7673301,C,T,Likely benign,likely_benign,17 7673301 . C T . . .
+17,7673308,T,G,Likely benign,likely_benign,17 7673308 . T G . . .
+17,7674327,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674327 . G A . . .
+17,7675977,C,T,Likely benign,likely_benign,17 7675977 . C T . . .
+17,7676300,A,T,Likely benign,likely_benign,17 7676300 . A T . . .
+17,7676507,A,G,Benign/Likely benign,likely_benign,17 7676507 . A G . . .
+17,7676512,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7676512 . T G . . .
+17,7674232,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674232 . C T . . .
+17,7674217,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674217 . C G . . .
+17,7675094,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675094 . A C . . .
+17,7675094,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675094 . A G . . .
+17,7675208,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675208 . C A . . .
+17,7675209,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675209 . A G . . .
+17,7675207,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7675207 . G C . . .
+17,7675209,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675209 . A T . . .
+17,7675209,A,C,Pathogenic,pathogenic,17 7675209 . A C . . .
+17,7675189,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675189 . G C . . .
+17,7675191,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7675191 . A G . . .
+17,7675190,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7675190 . C A . . .
+17,7675085,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675085 . C A . . .
+17,7675086,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675086 . A T . . .
+17,7675086,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675086 . A C . . .
+17,7675084,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7675084 . G C . . .
+17,7675086,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7675086 . A G . . .
+17,7674250,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674250 . C A . . .
+17,7674250,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674250 . C G . . .
+17,7674251,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674251 . A G . . .
+17,7674251,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674251 . A C . . .
+17,7674238,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674238 . C A . . .
+17,7674239,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674239 . A T . . .
+17,7674237,G,C,Pathogenic,pathogenic,17 7674237 . G C . . .
+17,7674239,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674239 . A C . . .
+17,7673796,C,A,Pathogenic,pathogenic,17 7673796 . C A . . .
+17,7673796,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673796 . C G . . .
+17,7673797,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7673797 . A G . . .
+17,7673779,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673779 . C A . . .
+17,7673779,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673779 . C T . . .
+17,7673777,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7673777 . G C . . .
+17,7673779,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673779 . C G . . .
+17,7673778,T,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673778 . T G . . .
+17,7673763,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673763 . T C . . .
+17,7673764,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673764 . C G . . .
+17,7673763,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7673763 . T A . . .
+17,7673763,T,G,Likely pathogenic,likely_pathogenic,17 7673763 . T G . . .
+17,7673811,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673811 . A G . . .
+17,7673812,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7673812 . A T . . .
+17,7673811,A,C,Likely pathogenic,likely_pathogenic,17 7673811 . A C . . .
+17,7673812,A,C,Pathogenic,pathogenic,17 7673812 . A C . . .
+17,7674233,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674233 . C A . . .
+17,7674233,C,T,Pathogenic,pathogenic,17 7674233 . C T . . .
+17,7674232,C,A,Likely pathogenic,likely_pathogenic,17 7674232 . C A . . .
+17,7674233,C,G,Uncertain significance,VUS,17 7674233 . C G . . .
+17,7674229,C,A,Pathogenic,pathogenic,17 7674229 . C A . . .
+17,7674230,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7674230 . C G . . .
+17,7673824,C,G,Pathogenic,pathogenic,17 7673824 . C G . . .
+17,7675076,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7675076 . T C . . .
+17,7675075,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675075 . A C . . .
+17,7675076,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7675076 . T A . . .
+17,7675077,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7675077 . G T . . .
+17,7675077,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675077 . G C . . .
+17,7675076,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675076 . T G . . .
+17,7674953,T,G,Pathogenic,pathogenic,17 7674953 . T G . . .
+17,7674954,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674954 . G C . . .
+17,7674954,G,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674954 . G T . . .
+17,7674890,T,C,Pathogenic,pathogenic,17 7674890 . T C . . .
+17,7674890,T,A,Likely pathogenic,likely_pathogenic,17 7674890 . T A . . .
+17,7674948,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674948 . T A . . .
+17,7674947,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674947 . A T . . .
+17,7674947,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674947 . A C . . .
+17,7674946,G,C,Uncertain significance,VUS,17 7674946 . G C . . .
+17,7674200,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674200 . T A . . .
+17,7674199,A,C,Uncertain significance,VUS,17 7674199 . A C . . .
+17,7674199,A,G,Uncertain significance,VUS,17 7674199 . A G . . .
+17,7675216,C,G,Likely pathogenic,likely_pathogenic,17 7675216 . C G . . .
+17,7675217,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675217 . T C . . .
+17,7675218,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7675218 . T C . . .
+17,7675217,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675217 . T G . . .
+17,7675218,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675218 . T G . . .
+17,7675217,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7675217 . T A . . .
+17,7676037,A,G,Pathogenic,pathogenic,17 7676037 . A G . . .
+17,7676037,A,C,Likely pathogenic,likely_pathogenic,17 7676037 . A C . . .
+17,7676037,A,T,Pathogenic,pathogenic,17 7676037 . A T . . .
+17,7674950,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674950 . A C . . .
+17,7674950,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674950 . A T . . .
+17,7674950,A,G,Uncertain significance,VUS,17 7674950 . A G . . .
+17,7674253,A,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674253 . A T . . .
+17,7674247,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674247 . T C . . .
+17,7674247,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674247 . T G . . .
+17,7675160,G,T,Uncertain significance,VUS,17 7675160 . G T . . .
+17,7675160,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675160 . G C . . .
+17,7675161,G,C,Pathogenic,pathogenic,17 7675161 . G C . . .
+17,7673788,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673788 . G A . . .
+17,7673788,G,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673788 . G T . . .
+17,7673787,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7673787 . G C . . .
+17,7673788,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7673788 . G C . . .
+17,7673787,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7673787 . G T . . .
+17,7675181,T,A,Uncertain significance,VUS,17 7675181 . T A . . .
+17,7675180,C,A,Uncertain significance,VUS,17 7675180 . C A . . .
+17,7675089,G,C,Pathogenic,pathogenic,17 7675089 . G C . . .
+17,7674893,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674893 . C A . . .
+17,7674894,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674894 . G C . . .
+17,7674221,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674221 . G C . . .
+17,7674217,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674217 . C A . . .
+17,7674218,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674218 . T C . . .
+17,7673802,C,A,Pathogenic,pathogenic,17 7673802 . C A . . .
+17,7673803,G,T,Pathogenic,pathogenic,17 7673803 . G T . . .
+17,7673781,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673781 . C T . . .
+17,7673782,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673782 . T C . . .
+17,7673775,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673775 . C G . . .
+17,7674887,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674887 . C A . . .
+17,7674886,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674886 . A C . . .
+17,7674887,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674887 . C T . . .
+17,7674241,G,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674241 . G T . . .
+17,7674242,A,G,Uncertain significance,VUS,17 7674242 . A G . . .
+17,7674242,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674242 . A C . . .
+17,7675996,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675996 . T G . . .
+17,7675995,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675995 . G C . . .
+17,7675095,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675095 . C A . . .
+17,7675094,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675094 . A T . . .
+17,7674885,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674885 . C A . . .
+17,7674884,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674884 . A C . . .
+17,7674884,A,T,Uncertain significance,VUS,17 7674884 . A T . . .
+17,7673805,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7673805 . A T . . .
+17,7673800,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7673800 . C A . . .
+17,7673799,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7673799 . A T . . .
+17,7673799,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7673799 . A C . . .
+17,7673799,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7673799 . A G . . .
+17,7673800,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673800 . C G . . .
+17,7675125,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675125 . A T . . .
+17,7675125,A,G,Pathogenic,pathogenic,17 7675125 . A G . . .
+17,7674917,T,C,Pathogenic,pathogenic,17 7674917 . T C . . .
+17,7674917,T,G,Uncertain significance,VUS,17 7674917 . T G . . .
+17,7674918,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674918 . A T . . .
+17,7674918,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674918 . A G . . .
+17,7674918,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674918 . A C . . .
+17,7674873,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674873 . A G . . .
+17,7674873,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674873 . A T . . .
+17,7674873,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674873 . A C . . .
+17,7674262,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674262 . T G . . .
+17,7674263,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674263 . A G . . .
+17,7674263,A,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674263 . A T . . .
+17,7674256,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674256 . T C . . .
+17,7674257,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674257 . A T . . .
+17,7669596,G,A,Likely benign,likely_benign,17 7669596 . G A . . .
+17,7669603,A,T,Benign/Likely benign,likely_benign,17 7669603 . A T . . .
+17,7670593,G,A,Likely benign,likely_benign,17 7670593 . G A . . .
+17,7670606,C,G,Likely benign,likely_benign,17 7670606 . C G . . .
+17,7673534,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673534 . C G . . .
+17,7674171,G,A,Benign/Likely benign,likely_benign,17 7674171 . G A . . .
+17,7674309,C,T,Benign/Likely benign,likely_benign,17 7674309 . C T . . .
+17,7675129,G,T,Benign/Likely benign,likely_benign,17 7675129 . G T . . .
+17,7675135,G,A,Likely benign,likely_benign,17 7675135 . G A . . .
+17,7675141,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7675141 . G T . . .
+17,7676102,G,T,Benign/Likely benign,likely_benign,17 7676102 . G T . . .
+17,7676605,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676605 . C T . . .
+17,7670644,A,G,Likely benign,likely_benign,17 7670644 . A G . . .
+17,7670727,G,A,Likely benign,likely_benign,17 7670727 . G A . . .
+17,7673595,G,A,Benign/Likely benign,likely_benign,17 7673595 . G A . . .
+17,7673789,A,G,Benign/Likely benign,likely_benign,17 7673789 . A G . . .
+17,7674246,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674246 . G C . . .
+17,7674844,A,C,Likely benign,likely_benign,17 7674844 . A C . . .
+17,7675255,G,A,Likely benign,likely_benign,17 7675255 . G A . . .
+17,7676283,G,A,Likely benign,likely_benign,17 7676283 . G A . . .
+17,7676289,A,G,Likely benign,likely_benign,17 7676289 . A G . . .
+17,7676417,G,A,Likely benign,likely_benign,17 7676417 . G A . . .
+17,7673621,C,G,Likely benign,likely_benign,17 7673621 . C G . . .
+17,7673622,A,G,Likely benign,likely_benign,17 7673622 . A G . . .
+17,7673692,C,T,Likely benign,likely_benign,17 7673692 . C T . . .
+17,7674291,C,T,Pathogenic,pathogenic,17 7674291 . C T . . .
+17,7674850,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674850 . A G . . .
+17,7674967,C,T,Likely benign,likely_benign,17 7674967 . C T . . .
+17,7675253,G,A,Benign/Likely benign,likely_benign,17 7675253 . G A . . .
+17,7675978,C,T,Likely benign,likely_benign,17 7675978 . C T . . .
+17,7675981,C,T,Likely benign,likely_benign,17 7675981 . C T . . .
+17,7676606,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676606 . G A . . .
+17,7676610,G,A,Likely benign,likely_benign,17 7676610 . G A . . .
+17,7676614,G,C,Likely benign,likely_benign,17 7676614 . G C . . .
+17,7669594,A,G,Likely benign,likely_benign,17 7669594 . A G . . .
+17,7669693,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7669693 . G A . . .
+17,7673544,G,A,Likely benign,likely_benign,17 7673544 . G A . . .
+17,7673619,G,A,Likely benign,likely_benign,17 7673619 . G A . . .
+17,7673684,T,C,Likely benign,likely_benign,17 7673684 . T C . . .
+17,7673686,G,C,Likely benign,likely_benign,17 7673686 . G C . . .
+17,7673694,T,G,Likely benign,likely_benign,17 7673694 . T G . . .
+17,7673720,G,C,Likely benign,likely_benign,17 7673720 . G C . . .
+17,7673740,C,A,Pathogenic,pathogenic,17 7673740 . C A . . .
+17,7676044,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7676044 . A C . . .
+17,7676213,T,C,Likely benign,likely_benign,17 7676213 . T C . . .
+17,7676367,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7676367 . A G . . .
+17,7669657,G,A,Likely benign,likely_benign,17 7669657 . G A . . .
+17,7673527,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673527 . C T . . .
+17,7673609,C,G,Pathogenic,pathogenic,17 7673609 . C G . . .
+17,7673841,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673841 . C T . . .
+17,7673577,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7673577 . C A . . .
+17,7673596,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673596 . T C . . .
+17,7674227,T,A,Uncertain significance,VUS,17 7674227 . T A . . .
+17,7674868,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674868 . C T . . .
+17,7673715,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673715 . C T . . .
+17,7674957,G,A,Pathogenic,pathogenic,17 7674957 . G A . . .
+17,7673839,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673839 . T C . . .
+17,7674190,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674190 . T C . . .
+17,7674203,T,C,Likely benign,likely_benign,17 7674203 . T C . . .
+17,7675056,C,T,Likely benign,likely_benign,17 7675056 . C T . . .
+17,7675075,A,T,Pathogenic,pathogenic,17 7675075 . A T . . .
+17,7675148,G,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675148 . G T . . .
+17,7674236,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674236 . T C . . .
+17,7676040,C,A,Pathogenic,pathogenic,17 7676040 . C A . . .
+17,7676237,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676237 . C T . . .
+17,7676266,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7676266 . A T . . .
+17,7674867,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674867 . G A . . .
+17,7674900,T,C,Uncertain significance,VUS,17 7674900 . T C . . .
+17,7674903,T,A,Uncertain significance,VUS,17 7674903 . T A . . .
+17,7675082,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675082 . G A . . .
+17,7676048,G,T,Pathogenic,pathogenic,17 7676048 . G T . . .
+17,7676050,A,T,Uncertain significance,VUS,17 7676050 . A T . . .
+17,7676056,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676056 . C G . . .
+17,7676234,C,T,Likely benign,likely_benign,17 7676234 . C T . . .
+17,7676399,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676399 . G T . . .
+17,7676550,A,G,Benign/Likely benign,likely_benign,17 7676550 . A G . . .
+17,7669640,A,G,Benign,benign,17 7669640 . A G . . .
+17,7670599,G,T,Likely benign,likely_benign,17 7670599 . G T . . .
+17,7670667,A,C,Uncertain significance,VUS,17 7670667 . A C . . .
+17,7673613,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7673613 . G T . . .
+17,7673725,G,A,Benign/Likely benign,likely_benign,17 7673725 . G A . . .
+17,7673777,G,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673777 . G T . . .
+17,7673809,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673809 . C T . . .
+17,7673828,T,C,Likely benign,likely_benign,17 7673828 . T C . . .
+17,7674216,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7674216 . C G . . .
+17,7674885,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7674885 . C G . . .
+17,7674980,A,C,Benign/Likely benign,likely_benign,17 7674980 . A C . . .
+17,7675990,T,C,Uncertain significance,VUS,17 7675990 . T C . . .
+17,7676039,A,G,Benign/Likely benign,likely_benign,17 7676039 . A G . . .
+17,7676175,C,G,Uncertain significance,VUS,17 7676175 . C G . . .
+17,7676230,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676230 . G T . . .
+17,7676577,T,C,Benign/Likely benign,likely_benign,17 7676577 . T C . . .
+17,7676584,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676584 . G C . . .
+17,7673587,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673587 . G A . . .
+17,7673604,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673604 . C G . . .
+17,7673745,T,C,Likely benign,likely_benign,17 7673745 . T C . . .
+17,7674223,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674223 . T C . . .
+17,7675061,T,C,Uncertain significance,VUS,17 7675061 . T C . . .
+17,7676131,G,A,Uncertain significance,VUS,17 7676131 . G A . . .
+17,7676159,A,T,Benign/Likely benign,likely_benign,17 7676159 . A T . . .
+17,7676195,T,C,Benign/Likely benign,likely_benign,17 7676195 . T C . . .
+17,7676558,G,A,Uncertain significance,VUS,17 7676558 . G A . . .
+17,7670669,G,A,Uncertain significance,VUS,17 7670669 . G A . . .
+17,7670696,A,G,Uncertain significance,VUS,17 7670696 . A G . . .
+17,7673536,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673536 . T C . . .
+17,7673558,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673558 . C G . . .
+17,7673736,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673736 . G A . . .
+17,7673759,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673759 . C G . . .
+17,7673767,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673767 . C T . . .
+17,7673784,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673784 . C T . . .
+17,7673791,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7673791 . A G . . .
+17,7674214,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674214 . G A . . .
+17,7674253,A,C,Uncertain significance,VUS,17 7674253 . A C . . .
+17,7674277,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674277 . C T . . .
+17,7674278,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674278 . A G . . .
+17,7674897,A,T,Uncertain significance,VUS,17 7674897 . A T . . .
+17,7674962,G,A,Likely pathogenic,likely_pathogenic,17 7674962 . G A . . .
+17,7674971,C,T,Uncertain significance,VUS,17 7674971 . C T . . .
+17,7675066,G,C,Uncertain significance,VUS,17 7675066 . G C . . .
+17,7675080,G,T,Uncertain significance,VUS,17 7675080 . G T . . .
+17,7675091,C,T,Likely benign,likely_benign,17 7675091 . C T . . .
+17,7675130,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7675130 . G T . . .
+17,7675155,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675155 . G A . . .
+17,7675213,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7675213 . C T . . .
+17,7676011,T,G,Uncertain significance,VUS,17 7676011 . T G . . .
+17,7676016,G,A,Likely benign,likely_benign,17 7676016 . G A . . .
+17,7676043,A,G,Uncertain significance,VUS,17 7676043 . A G . . .
+17,7676210,C,T,Pathogenic,pathogenic,17 7676210 . C T . . .
+17,7676564,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676564 . C T . . .
+17,7669630,T,C,Benign/Likely benign,likely_benign,17 7669630 . T C . . .
+17,7670709,C,A,Likely pathogenic,likely_pathogenic,17 7670709 . C A . . .
+17,7673535,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673535 . C T . . .
+17,7673598,G,C,Likely benign,likely_benign,17 7673598 . G C . . .
+17,7673699,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673699 . A C . . .
+17,7673700,C,G,Likely pathogenic,likely_pathogenic,17 7673700 . C G . . .
+17,7673737,G,A,Likely benign,likely_benign,17 7673737 . G A . . .
+17,7673794,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673794 . C G . . .
+17,7673820,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673820 . C G . . .
+17,7673835,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7673835 . C A . . .
+17,7674226,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674226 . A G . . .
+17,7674860,T,G,Uncertain significance,VUS,17 7674860 . T G . . .
+17,7674888,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674888 . T G . . .
+17,7675052,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675052 . C T . . .
+17,7675097,A,C,Uncertain significance,VUS,17 7675097 . A C . . .
+17,7675098,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7675098 . C A . . .
+17,7675109,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7675109 . T C . . .
+17,7675120,C,G,Uncertain significance,VUS,17 7675120 . C G . . .
+17,7675142,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7675142 . A G . . .
+17,7675170,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7675170 . C A . . .
+17,7675174,C,T,Pathogenic,pathogenic,17 7675174 . C T . . .
+17,7675220,T,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675220 . T A . . .
+17,7675223,A,G,Pathogenic,pathogenic,17 7675223 . A G . . .
+17,7675236,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675236 . A T . . .
+17,7676056,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676056 . C T . . .
+17,7676381,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676381 . C G . . .
+17,7676405,T,C,Likely pathogenic,likely_pathogenic,17 7676405 . T C . . .
+17,7687459,T,C,Uncertain significance,VUS,17 7687459 . T C . . .
+17,7689680,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7689680 . G A . . .
+17,7670694,C,A,Pathogenic,pathogenic,17 7670694 . C A . . .
+17,7669676,T,G,Uncertain significance,VUS,17 7669676 . T G . . .
+17,7674211,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674211 . A G . . .
+17,7674914,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674914 . A G . . .
+17,7675992,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7675992 . A G . . .
+17,7676599,G,A,Uncertain significance,VUS,17 7676599 . G A . . .
+17,7675327,C,T,Benign,benign,17 7675327 . C T . . .
+17,7675134,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7675134 . T C . . .
+17,7673579,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673579 . G A . . .
+17,7674239,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674239 . A G . . .
+17,7674935,C,A,Likely pathogenic,likely_pathogenic,17 7674935 . C A . . .
+17,7676241,A,T,Likely pathogenic,likely_pathogenic,17 7676241 . A T . . .
+17,7669626,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7669626 . C T . . .
+17,7670677,C,G,Benign/Likely benign,likely_benign,17 7670677 . C G . . .
+17,7670713,G,C,Uncertain significance,VUS,17 7670713 . G C . . .
+17,7673586,G,T,Benign/Likely benign,likely_benign,17 7673586 . G T . . .
+17,7673603,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673603 . G A . . .
+17,7673770,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7673770 . T A . . .
+17,7673838,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673838 . C T . . .
+17,7674178,G,T,Uncertain significance,VUS,17 7674178 . G T . . .
+17,7674193,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674193 . A G . . .
+17,7674232,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674232 . C G . . .
+17,7674243,A,C,Uncertain significance,VUS,17 7674243 . A C . . .
+17,7674916,A,G,Benign/Likely benign,likely_benign,17 7674916 . A G . . .
+17,7675136,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675136 . G A . . .
+17,7675235,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7675235 . T C . . .
+17,7676028,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7676028 . A G . . .
+17,7676124,G,C,Uncertain significance,VUS,17 7676124 . G C . . .
+17,7676140,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676140 . G T . . .
+17,7676177,G,C,Benign/Likely benign,likely_benign,17 7676177 . G C . . .
+17,7676513,C,T,Likely benign,likely_benign,17 7676513 . C T . . .
+17,7669609,T,A,Uncertain significance,VUS,17 7669609 . T A . . .
+17,7670599,G,A,Likely benign,likely_benign,17 7670599 . G A . . .
+17,7670624,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670624 . C T . . .
+17,7670657,T,C,Uncertain significance,VUS,17 7670657 . T C . . .
+17,7673751,C,G,Uncertain significance,VUS,17 7673751 . C G . . .
+17,7674286,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674286 . C A . . .
+17,7674292,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674292 . T C . . .
+17,7675044,G,C,Likely benign,likely_benign,17 7675044 . G C . . .
+17,7675082,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675082 . G C . . .
+17,7675149,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7675149 . T C . . .
+17,7675997,G,T,Pathogenic,pathogenic,17 7675997 . G T . . .
+17,7676565,G,C,Benign/Likely benign,likely_benign,17 7676565 . G C . . .
+17,7670649,G,A,Likely pathogenic,likely_pathogenic,17 7670649 . G A . . .
+17,7673553,T,C,Benign/Likely benign,likely_benign,17 7673553 . T C . . .
+17,7673592,G,C,Likely benign,likely_benign,17 7673592 . G C . . .
+17,7673785,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673785 . C T . . .
+17,7675049,T,C,Uncertain significance,VUS,17 7675049 . T C . . .
+17,7675096,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675096 . A C . . .
+17,7676080,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7676080 . C A . . .
+17,7676569,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676569 . C T . . .
+17,7669640,A,C,Uncertain significance,VUS,17 7669640 . A C . . .
+17,7670625,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7670625 . T A . . .
+17,7670720,A,G,Likely benign,likely_benign,17 7670720 . A G . . .
+17,7670721,G,T,Likely benign,likely_benign,17 7670721 . G T . . .
+17,7673528,T,C,Likely benign,likely_benign,17 7673528 . T C . . .
+17,7673703,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673703 . C T . . .
+17,7673771,G,C,Likely benign,likely_benign,17 7673771 . G C . . .
+17,7673790,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7673790 . C A . . .
+17,7673824,C,T,Pathogenic,pathogenic,17 7673824 . C T . . .
+17,7674190,T,G,Uncertain significance,VUS,17 7674190 . T G . . .
+17,7674271,G,A,Uncertain significance,VUS,17 7674271 . G A . . .
+17,7674925,A,G,Benign/Likely benign,likely_benign,17 7674925 . A G . . .
+17,7675224,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7675224 . G C . . .
+17,7675226,G,C,Uncertain significance,VUS,17 7675226 . G C . . .
+17,7675238,T,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675238 . T A . . .
+17,7676047,C,G,Uncertain significance,VUS,17 7676047 . C G . . .
+17,7676258,G,A,Likely benign,likely_benign,17 7676258 . G A . . .
+17,7669611,A,C,Uncertain significance,VUS,17 7669611 . A C . . .
+17,7669638,A,G,Likely benign,likely_benign,17 7669638 . A G . . .
+17,7670631,C,A,Uncertain significance,VUS,17 7670631 . C A . . .
+17,7670655,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7670655 . C A . . .
+17,7670671,C,T,Benign/Likely benign,likely_benign,17 7670671 . C T . . .
+17,7670701,C,T,Likely benign,likely_benign,17 7670701 . C T . . .
+17,7673608,G,C,Likely benign,likely_benign,17 7673608 . G C . . .
+17,7669631,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7669631 . G C . . .
+17,7673772,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673772 . C G . . .
+17,7669642,G,T,Benign/Likely benign,likely_benign,17 7669642 . G T . . .
+17,7674226,A,T,Likely pathogenic,likely_pathogenic,17 7674226 . A T . . .
+17,7669687,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7669687 . G C . . .
+17,7674288,A,G,Likely benign,likely_benign,17 7674288 . A G . . .
+17,7674861,C,T,Uncertain significance,VUS,17 7674861 . C T . . .
+17,7670628,C,G,Uncertain significance,VUS,17 7670628 . C G . . .
+17,7674946,G,T,Likely benign,likely_benign,17 7674946 . G T . . .
+17,7670647,C,T,Benign/Likely benign,likely_benign,17 7670647 . C T . . .
+17,7675079,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675079 . T G . . .
+17,7670668,G,C,Benign/Likely benign,likely_benign,17 7670668 . G C . . .
+17,7670695,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7670695 . G C . . .
+17,7673554,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673554 . C T . . .
+17,7675169,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675169 . T G . . .
+17,7675178,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675178 . A T . . .
+17,7669658,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7669658 . G C . . .
+17,7669687,G,A,Benign/Likely benign,likely_benign,17 7669687 . G A . . .
+17,7675204,T,A,Uncertain significance,VUS,17 7675204 . T A . . .
+17,7675206,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7675206 . G C . . .
+17,7675228,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7675228 . A G . . .
+17,7670624,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7670624 . C A . . .
+17,7673795,A,C,Likely pathogenic,likely_pathogenic,17 7673795 . A C . . .
+17,7675240,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7675240 . T A . . .
+17,7676209,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7676209 . A G . . .
+17,7676381,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676381 . C A . . .
+17,7670661,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7670661 . G A . . .
+17,7676400,A,G,Benign/Likely benign,likely_benign,17 7676400 . A G . . .
+17,7674290,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674290 . C T . . .
+17,7676556,A,C,Benign/Likely benign,likely_benign,17 7676556 . A C . . .
+17,7674883,C,T,Benign/Likely benign,likely_benign,17 7674883 . C T . . .
+17,7673708,A,G,Benign/Likely benign,likely_benign,17 7673708 . A G . . .
+17,7674924,C,G,Uncertain significance,VUS,17 7674924 . C G . . .
+17,7674964,G,A,Benign/Likely benign,likely_benign,17 7674964 . G A . . .
+17,7675083,G,T,Uncertain significance,VUS,17 7675083 . G T . . .
+17,7673829,A,G,Uncertain significance,VUS,17 7673829 . A G . . .
+17,7674187,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674187 . T A . . .
+17,7675099,C,T,Likely benign,likely_benign,17 7675099 . C T . . .
+17,7675152,C,G,Uncertain significance,VUS,17 7675152 . C G . . .
+17,7674225,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674225 . C T . . .
+17,7675166,G,A,Uncertain significance,VUS,17 7675166 . G A . . .
+17,7675184,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675184 . A C . . .
+17,7674251,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674251 . A T . . .
+17,7674253,A,G,Uncertain significance,VUS,17 7674253 . A G . . .
+17,7675207,G,A,Benign/Likely benign,likely_benign,17 7675207 . G A . . .
+17,7674269,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674269 . T G . . .
+17,7674282,A,C,Likely benign,likely_benign,17 7674282 . A C . . .
+17,7675212,A,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675212 . A T . . .
+17,7675230,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7675230 . G T . . .
+17,7674901,G,A,Benign/Likely benign,likely_benign,17 7674901 . G A . . .
+17,7676014,C,G,Uncertain significance,VUS,17 7676014 . C G . . .
+17,7675120,C,T,Benign/Likely benign,likely_benign,17 7675120 . C T . . .
+17,7676024,A,G,Benign/Likely benign,likely_benign,17 7676024 . A G . . .
+17,7676094,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676094 . G A . . .
+17,7676106,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676106 . G A . . .
+17,7675158,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675158 . G A . . .
+17,7675198,G,A,Likely benign,likely_benign,17 7675198 . G A . . .
+17,7676155,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676155 . G A . . .
+17,7675237,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675237 . C T . . .
+17,7675992,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675992 . A C . . .
+17,7675994,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675994 . C G . . .
+17,7676020,C,T,Uncertain significance,VUS,17 7676020 . C T . . .
+17,7676271,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676271 . G T . . .
+17,7676198,G,A,Benign/Likely benign,likely_benign,17 7676198 . G A . . .
+17,7676574,A,C,Likely benign,likely_benign,17 7676574 . A C . . .
+17,7676248,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676248 . C T . . .
+17,7676385,A,C,Benign/Likely benign,likely_benign,17 7676385 . A C . . .
+17,7669668,G,A,Uncertain significance,VUS,17 7669668 . G A . . .
+17,7670671,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7670671 . C G . . .
+17,7670705,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670705 . C T . . .
+17,7670717,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7670717 . T C . . .
+17,7673530,A,G,Uncertain significance,VUS,17 7673530 . A G . . .
+17,7673555,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673555 . C T . . .
+17,7673601,G,T,Likely benign,likely_benign,17 7673601 . G T . . .
+17,7673606,G,A,Benign/Likely benign,likely_benign,17 7673606 . G A . . .
+17,7673609,C,A,Pathogenic,pathogenic,17 7673609 . C A . . .
+17,7673611,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7673611 . A G . . .
+17,7673718,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673718 . G A . . .
+17,7673749,T,C,Uncertain significance,VUS,17 7673749 . T C . . .
+17,7673822,T,A,Benign/Likely benign,likely_benign,17 7673822 . T A . . .
+17,7673831,A,T,Uncertain significance,VUS,17 7673831 . A T . . .
+17,7674191,C,A,Pathogenic,pathogenic,17 7674191 . C A . . .
+17,7674210,G,C,Uncertain significance,VUS,17 7674210 . G C . . .
+17,7674246,G,A,Benign/Likely benign,likely_benign,17 7674246 . G A . . .
+17,7674294,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674294 . G C . . .
+17,7674924,C,A,Uncertain significance,VUS,17 7674924 . C A . . .
+17,7674942,C,G,Uncertain significance,VUS,17 7674942 . C G . . .
+17,7675064,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675064 . G A . . .
+17,7675078,G,A,Likely benign,likely_benign,17 7675078 . G A . . .
+17,7675080,G,C,Pathogenic,pathogenic,17 7675080 . G C . . .
+17,7675119,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7675119 . G T . . .
+17,7675142,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675142 . A T . . .
+17,7675227,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7675227 . C T . . .
+17,7675989,C,T,Likely pathogenic,likely_pathogenic,17 7675989 . C T . . .
+17,7676001,G,A,Uncertain significance,VUS,17 7676001 . G A . . .
+17,7676026,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676026 . G T . . .
+17,7676125,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676125 . G C . . .
+17,7676137,C,T,Uncertain significance,VUS,17 7676137 . C T . . .
+17,7676171,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676171 . C T . . .
+17,7676176,T,G,Benign/Likely benign,likely_benign,17 7676176 . T G . . .
+17,7676384,G,A,Likely benign,likely_benign,17 7676384 . G A . . .
+17,7676398,G,A,Uncertain significance,VUS,17 7676398 . G A . . .
+17,7676557,G,C,Uncertain significance,VUS,17 7676557 . G C . . .
+17,7675112,T,G,Uncertain significance,VUS,17 7675112 . T G . . .
+17,7676167,C,G,Uncertain significance,VUS,17 7676167 . C G . . .
+17,7667908,C,A,Benign,benign,17 7667908 . C A . . .
+17,7675103,G,C,Uncertain significance,VUS,17 7675103 . G C . . .
+17,7676591,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676591 . C T . . .
+17,7675048,C,T,Uncertain significance,VUS,17 7675048 . C T . . .
+17,7673248,A,G,Likely benign,likely_benign,17 7673248 . A G . . .
+17,7673250,C,T,Likely benign,likely_benign,17 7673250 . C T . . .
+17,7673307,T,C,Likely benign,likely_benign,17 7673307 . T C . . .
+17,7673319,T,G,Likely benign,likely_benign,17 7673319 . T G . . .
+17,7673336,G,C,Likely benign,likely_benign,17 7673336 . G C . . .
+17,7673520,C,A,Likely benign,likely_benign,17 7673520 . C A . . .
+17,7673625,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7673625 . G T . . .
+17,7673872,T,C,Likely benign,likely_benign,17 7673872 . T C . . .
+17,7673895,C,T,Likely benign,likely_benign,17 7673895 . C T . . .
+17,7673896,C,T,Likely benign,likely_benign,17 7673896 . C T . . .
+17,7673897,C,T,Likely benign,likely_benign,17 7673897 . C T . . .
+17,7673899,T,C,Likely benign,likely_benign,17 7673899 . T C . . .
+17,7674195,T,A,Likely benign,likely_benign,17 7674195 . T A . . .
+17,7674843,C,T,Likely benign,likely_benign,17 7674843 . C T . . .
+17,7674844,A,G,Benign/Likely benign,likely_benign,17 7674844 . A G . . .
+17,7674845,G,C,Likely benign,likely_benign,17 7674845 . G C . . .
+17,7674986,T,G,Likely benign,likely_benign,17 7674986 . T G . . .
+17,7675256,A,G,Likely benign,likely_benign,17 7675256 . A G . . .
+17,7676370,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7676370 . C G . . .
+17,7676415,G,T,Likely benign,likely_benign,17 7676415 . G T . . .
+17,7676457,C,T,Likely benign,likely_benign,17 7676457 . C T . . .
+17,7676465,G,C,Likely benign,likely_benign,17 7676465 . G C . . .
+17,7676499,C,T,Likely benign,likely_benign,17 7676499 . C T . . .
+17,7676522,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676522 . G A . . .
+17,7669664,G,A,Uncertain significance,VUS,17 7669664 . G A . . .
+17,7670632,T,C,Benign/Likely benign,likely_benign,17 7670632 . T C . . .
+17,7673222,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673222 . C T . . .
+17,7673251,G,A,Likely benign,likely_benign,17 7673251 . G A . . .
+17,7673287,G,A,Likely benign,likely_benign,17 7673287 . G A . . .
+17,7673312,A,G,Likely benign,likely_benign,17 7673312 . A G . . .
+17,7673575,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673575 . G A . . .
+17,7673903,A,C,Likely benign,likely_benign,17 7673903 . A C . . .
+17,7674840,C,T,Likely benign,likely_benign,17 7674840 . C T . . .
+17,7674880,C,A,Benign/Likely benign,likely_benign,17 7674880 . C A . . .
+17,7673223,G,A,Likely benign,likely_benign,17 7673223 . G A . . .
+17,7675114,T,C,Benign/Likely benign,likely_benign,17 7675114 . T C . . .
+17,7675210,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7675210 . A G . . .
+17,7673225,C,T,Likely benign,likely_benign,17 7673225 . C T . . .
+17,7676421,A,C,Benign/Likely benign,likely_benign,17 7676421 . A C . . .
+17,7673322,T,C,Likely benign,likely_benign,17 7673322 . T C . . .
+17,7673337,G,A,Likely benign,likely_benign,17 7673337 . G A . . .
+17,7676459,C,A,Likely benign,likely_benign,17 7676459 . C A . . .
+17,7673346,A,T,Likely benign,likely_benign,17 7673346 . A T . . .
+17,7673765,C,T,Benign/Likely benign,likely_benign,17 7673765 . C T . . .
+17,7676477,T,C,Likely benign,likely_benign,17 7676477 . T C . . .
+17,7673774,C,T,Benign/Likely benign,likely_benign,17 7673774 . C T . . .
+17,7673870,A,G,Benign/Likely benign,likely_benign,17 7673870 . A G . . .
+17,7676484,G,A,Likely benign,likely_benign,17 7676484 . G A . . .
+17,7674167,A,C,Likely benign,likely_benign,17 7674167 . A C . . .
+17,7674293,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674293 . A G . . .
+17,7674295,G,T,Likely benign,likely_benign,17 7674295 . G T . . .
+17,7675033,C,T,Likely benign,likely_benign,17 7675033 . C T . . .
+17,7676443,C,T,Likely benign,likely_benign,17 7676443 . C T . . .
+17,7676444,G,A,Likely benign,likely_benign,17 7676444 . G A . . .
+17,7676445,C,A,Likely benign,likely_benign,17 7676445 . C A . . .
+17,7676452,C,A,Likely benign,likely_benign,17 7676452 . C A . . .
+17,7676486,G,A,Likely benign,likely_benign,17 7676486 . G A . . .
+17,7676494,G,C,Likely benign,likely_benign,17 7676494 . G C . . .
+17,7669614,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7669614 . C T . . .
+17,7670594,G,A,Likely benign,likely_benign,17 7670594 . G A . . .
+17,7673226,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673226 . G A . . .
+17,7673228,G,C,Likely benign,likely_benign,17 7673228 . G C . . .
+17,7673245,A,G,Likely benign,likely_benign,17 7673245 . A G . . .
+17,7673290,C,T,Likely benign,likely_benign,17 7673290 . C T . . .
+17,7673291,C,G,Likely benign,likely_benign,17 7673291 . C G . . .
+17,7673848,T,C,Benign/Likely benign,likely_benign,17 7673848 . T C . . .
+17,7673889,A,C,Likely benign,likely_benign,17 7673889 . A C . . .
+17,7674303,A,G,Likely benign,likely_benign,17 7674303 . A G . . .
+17,7676035,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676035 . C T . . .
+17,7676258,G,C,Benign/Likely benign,likely_benign,17 7676258 . G C . . .
+17,7676280,T,A,Likely benign,likely_benign,17 7676280 . T A . . .
+17,7676420,G,T,Likely benign,likely_benign,17 7676420 . G T . . .
+17,7676430,C,T,Likely benign,likely_benign,17 7676430 . C T . . .
+17,7676462,C,G,Likely benign,likely_benign,17 7676462 . C G . . .
+17,7676480,G,A,Likely benign,likely_benign,17 7676480 . G A . . .
+17,7676483,G,T,Benign,benign,17 7676483 . G T . . .
+17,7673789,A,T,Pathogenic,pathogenic,17 7673789 . A T . . .
+17,7674972,C,G,Pathogenic,pathogenic,17 7674972 . C G . . .
+17,7675029,G,A,Benign,benign,17 7675029 . G A . . .
+17,7676051,G,C,Pathogenic,pathogenic,17 7676051 . G C . . .
+17,7676368,A,G,Likely benign,likely_benign,17 7676368 . A G . . .
+17,7673700,C,A,Likely pathogenic,likely_pathogenic,17 7673700 . C A . . .
+17,7676568,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676568 . G C . . .
+17,7674180,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674180 . C A . . .
+17,7673755,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7673755 . G C . . .
+17,7674205,G,T,Uncertain significance,VUS,17 7674205 . G T . . .
+17,7674857,A,T,Likely pathogenic,likely_pathogenic,17 7674857 . A T . . .
+17,7673531,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673531 . G A . . .
+17,7675040,C,T,Likely benign,likely_benign,17 7675040 . C T . . .
+17,7675162,T,G,Benign/Likely benign,likely_benign,17 7675162 . T G . . .
+17,7674175,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674175 . C T . . .
+17,7675243,G,A,Likely benign,likely_benign,17 7675243 . G A . . .
+17,7676397,A,G,Likely benign,likely_benign,17 7676397 . A G . . .
+17,7670698,G,A,Benign/Likely benign,likely_benign,17 7670698 . G A . . .
+17,7675093,C,T,Benign/Likely benign,likely_benign,17 7675093 . C T . . .
+17,7676156,G,A,Likely benign,likely_benign,17 7676156 . G A . . .
+17,7676636,A,C,Likely benign,likely_benign,17 7676636 . A C . . .
+17,7669660,G,T,Benign/Likely benign,likely_benign,17 7669660 . G T . . .
+17,7673750,G,T,Likely benign,likely_benign,17 7673750 . G T . . .
+17,7674285,G,T,Likely benign,likely_benign,17 7674285 . G T . . .
+17,7676093,G,T,Likely benign,likely_benign,17 7676093 . G T . . .
+17,7676586,C,T,Benign/Likely benign,likely_benign,17 7676586 . C T . . .
+17,7687368,G,A,Likely benign,likely_benign,17 7687368 . G A . . .
+17,7670645,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7670645 . G A . . .
+17,7673581,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673581 . G A . . .
+17,7673616,A,G,Likely benign,likely_benign,17 7673616 . A G . . .
+17,7674900,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674900 . T G . . .
+17,7675113,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675113 . G A . . .
+17,7675115,G,A,Uncertain significance,VUS,17 7675115 . G A . . .
+17,7675139,C,A,Pathogenic,pathogenic,17 7675139 . C A . . .
+17,7675173,C,T,Uncertain significance,VUS,17 7675173 . C T . . .
+17,7675199,G,T,Uncertain significance,VUS,17 7675199 . G T . . .
+17,7675992,A,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675992 . A T . . .
+17,7676140,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676140 . G A . . .
+17,7676163,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676163 . G A . . .
+17,7673693,T,G,Likely benign,likely_benign,17 7673693 . T G . . .
+17,7673704,G,T,Benign/Likely benign,likely_benign,17 7673704 . G T . . .
+17,7673833,T,G,Uncertain significance,VUS,17 7673833 . T G . . .
+17,7676411,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7676411 . A G . . .
+17,7673597,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7673597 . T G . . .
+17,7673612,G,C,Likely benign,likely_benign,17 7673612 . G C . . .
+17,7674889,A,G,Benign/Likely benign,likely_benign,17 7674889 . A G . . .
+17,7674966,C,A,Uncertain significance,VUS,17 7674966 . C A . . .
+17,7675097,A,G,Uncertain significance,VUS,17 7675097 . A G . . .
+17,7675215,T,C,Uncertain significance,VUS,17 7675215 . T C . . .
+17,7676076,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676076 . G A . . .
+17,7676169,G,T,Uncertain significance,VUS,17 7676169 . G T . . .
+17,7670602,C,T,Likely benign,likely_benign,17 7670602 . C T . . .
+17,7670613,A,G,Uncertain significance,VUS,17 7670613 . A G . . .
+17,7673534,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673534 . C T . . .
+17,7673726,C,T,Benign/Likely benign,likely_benign,17 7673726 . C T . . .
+17,7674197,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674197 . T G . . .
+17,7674211,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674211 . A T . . .
+17,7674878,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674878 . A C . . .
+17,7674977,A,G,Likely benign,likely_benign,17 7674977 . A G . . .
+17,7676100,G,A,Uncertain significance,VUS,17 7676100 . G A . . .
+17,7676399,G,A,Uncertain significance,VUS,17 7676399 . G A . . .
+17,7676560,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676560 . G A . . .
+17,7676570,T,G,Uncertain significance,VUS,17 7676570 . T G . . .
+17,7673850,G,C,Likely benign,likely_benign,17 7673850 . G C . . .
+17,7676287,A,G,Likely benign,likely_benign,17 7676287 . A G . . .
+17,7673831,A,G,Benign/Likely benign,likely_benign,17 7673831 . A G . . .
+17,7669645,T,C,Benign/Likely benign,likely_benign,17 7669645 . T C . . .
+17,7673773,G,C,Uncertain significance,VUS,17 7673773 . G C . . .
+17,7674178,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674178 . G A . . .
+17,7675078,G,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675078 . G T . . .
+17,7675170,C,T,Uncertain significance,VUS,17 7675170 . C T . . .
+17,7676073,G,C,Uncertain significance,VUS,17 7676073 . G C . . .
+17,7676259,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676259 . G A . . .
+17,7676560,G,T,Uncertain significance,VUS,17 7676560 . G T . . .
+17,7674935,C,T,Uncertain significance,VUS,17 7674935 . C T . . .
+17,7676127,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676127 . G A . . .
+17,7676164,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676164 . C T . . .
+17,7676218,C,A,Pathogenic,pathogenic,17 7676218 . C A . . .
+17,7676253,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676253 . G A . . .
+17,7676377,C,T,Uncertain significance,VUS,17 7676377 . C T . . .
+17,7673578,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673578 . T C . . .
+17,7673845,G,C,Likely benign,likely_benign,17 7673845 . G C . . .
+17,7674869,T,G,Uncertain significance,VUS,17 7674869 . T G . . .
+17,7674940,C,T,Likely benign,likely_benign,17 7674940 . C T . . .
+17,7675106,A,C,Uncertain significance,VUS,17 7675106 . A C . . .
+17,7675205,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675205 . T G . . .
+17,7676059,G,A,Pathogenic,pathogenic,17 7676059 . G A . . .
+17,7676065,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7676065 . T A . . .
+17,7676073,G,A,Uncertain significance,VUS,17 7676073 . G A . . .
+17,7676150,C,T,Likely benign,likely_benign,17 7676150 . C T . . .
+17,7676158,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676158 . G A . . .
+17,7676158,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676158 . G C . . .
+17,7676217,T,C,Uncertain significance,VUS,17 7676217 . T C . . .
+17,7669662,T,C,Uncertain significance,VUS,17 7669662 . T C . . .
+17,7669673,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7669673 . T C . . .
+17,7670618,G,A,Uncertain significance,VUS,17 7670618 . G A . . .
+17,7673805,A,G,Uncertain significance,VUS,17 7673805 . A G . . .
+17,7673806,C,G,Pathogenic,pathogenic,17 7673806 . C G . . .
+17,7674277,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7674277 . C G . . .
+17,7675234,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675234 . G C . . .
+17,7675989,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7675989 . C G . . .
+17,7676555,G,C,Uncertain significance,VUS,17 7676555 . G C . . .
+17,7670640,T,C,Uncertain significance,VUS,17 7670640 . T C . . .
+17,7673232,A,T,Uncertain significance,VUS,17 7673232 . A T . . .
+17,7674245,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674245 . T C . . .
+17,7674908,T,C,Uncertain significance,VUS,17 7674908 . T C . . .
+17,7675195,C,A,Uncertain significance,VUS,17 7675195 . C A . . .
+17,7676185,C,A,Pathogenic,pathogenic,17 7676185 . C A . . .
+17,7669644,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7669644 . G A . . .
+17,7673801,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7673801 . A G . . .
+17,7675123,G,C,Pathogenic,pathogenic,17 7675123 . G C . . .
+17,7674853,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674853 . C A . . .
+17,7669618,G,C,Uncertain significance,VUS,17 7669618 . G C . . .
+17,7669666,C,T,Benign/Likely benign,likely_benign,17 7669666 . C T . . .
+17,7669672,C,T,Benign/Likely benign,likely_benign,17 7669672 . C T . . .
+17,7669681,C,T,Likely benign,likely_benign,17 7669681 . C T . . .
+17,7670648,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7670648 . T C . . .
+17,7670696,A,C,Uncertain significance,VUS,17 7670696 . A C . . .
+17,7673558,C,A,Uncertain significance,VUS,17 7673558 . C A . . .
+17,7673577,C,T,Benign/Likely benign,likely_benign,17 7673577 . C T . . .
+17,7673747,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673747 . C G . . .
+17,7673752,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7673752 . G C . . .
+17,7674886,A,G,Benign/Likely benign,likely_benign,17 7674886 . A G . . .
+17,7674906,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674906 . T C . . .
+17,7676006,A,C,Likely benign,likely_benign,17 7676006 . A C . . .
+17,7676052,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7676052 . C A . . .
+17,7676107,C,G,Uncertain significance,VUS,17 7676107 . C G . . .
+17,7676160,G,A,Uncertain significance,VUS,17 7676160 . G A . . .
+17,7676268,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676268 . G C . . .
+17,7673358,G,A,Likely benign,likely_benign,17 7673358 . G A . . .
+17,7674299,T,C,Likely benign,likely_benign,17 7674299 . T C . . .
+17,7674985,G,T,Likely benign,likely_benign,17 7674985 . G T . . .
+17,7676434,T,C,Likely benign,likely_benign,17 7676434 . T C . . .
+17,7676487,G,T,Likely benign,likely_benign,17 7676487 . G T . . .
+17,7670597,G,C,Likely benign,likely_benign,17 7670597 . G C . . .
+17,7673204,T,C,Likely benign,likely_benign,17 7673204 . T C . . .
+17,7673217,A,G,Likely benign,likely_benign,17 7673217 . A G . . .
+17,7673225,C,A,Likely benign,likely_benign,17 7673225 . C A . . .
+17,7673246,C,T,Likely benign,likely_benign,17 7673246 . C T . . .
+17,7673303,C,G,Likely benign,likely_benign,17 7673303 . C G . . .
+17,7673901,T,G,Likely benign,likely_benign,17 7673901 . T G . . .
+17,7673218,C,T,Likely benign,likely_benign,17 7673218 . C T . . .
+17,7673359,G,A,Likely benign,likely_benign,17 7673359 . G A . . .
+17,7673871,G,A,Likely benign,likely_benign,17 7673871 . G A . . .
+17,7676467,G,A,Likely benign,likely_benign,17 7676467 . G A . . .
+17,7673884,G,C,Likely benign,likely_benign,17 7673884 . G C . . .
+17,7673893,G,A,Likely benign,likely_benign,17 7673893 . G A . . .
+17,7674858,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674858 . C A . . .
+17,7673895,C,A,Likely benign,likely_benign,17 7673895 . C A . . .
+17,7675976,C,T,Likely benign,likely_benign,17 7675976 . C T . . .
+17,7674983,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674983 . C T . . .
+17,7676433,A,G,Likely benign,likely_benign,17 7676433 . A G . . .
+17,7676435,G,A,Likely benign,likely_benign,17 7676435 . G A . . .
+17,7676446,T,G,Likely benign,likely_benign,17 7676446 . T G . . .
+17,7676450,C,T,Likely benign,likely_benign,17 7676450 . C T . . .
+17,7676489,G,C,Likely benign,likely_benign,17 7676489 . G C . . .
+17,7670698,G,C,Likely benign,likely_benign,17 7670698 . G C . . .
+17,7673751,C,A,Uncertain significance,VUS,17 7673751 . C A . . .
+17,7673696,C,A,Uncertain significance,VUS,17 7673696 . C A . . .
+17,7673700,C,T,Pathogenic,pathogenic,17 7673700 . C T . . .
+17,7673699,A,T,Likely pathogenic,likely_pathogenic,17 7673699 . A T . . .
+17,7670664,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7670664 . C A . . .
+17,7670673,C,A,Pathogenic,pathogenic,17 7670673 . C A . . .
+17,7673764,C,A,Pathogenic,pathogenic,17 7673764 . C A . . .
+17,7673780,T,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673780 . T G . . .
+17,7673803,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673803 . G C . . .
+17,7673812,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7673812 . A G . . .
+17,7674188,C,A,Uncertain significance,VUS,17 7674188 . C A . . .
+17,7674252,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674252 . C A . . .
+17,7674268,A,C,Pathogenic,pathogenic,17 7674268 . A C . . .
+17,7674870,C,A,Pathogenic,pathogenic,17 7674870 . C A . . .
+17,7674871,A,T,Pathogenic,pathogenic,17 7674871 . A T . . .
+17,7674936,C,A,Pathogenic,pathogenic,17 7674936 . C A . . .
+17,7674939,C,A,Pathogenic,pathogenic,17 7674939 . C A . . .
+17,7674941,A,T,Uncertain significance,VUS,17 7674941 . A T . . .
+17,7675064,G,C,Pathogenic,pathogenic,17 7675064 . G C . . .
+17,7675074,C,A,Pathogenic,pathogenic,17 7675074 . C A . . .
+17,7675101,C,A,Pathogenic,pathogenic,17 7675101 . C A . . .
+17,7675115,G,C,Pathogenic,pathogenic,17 7675115 . G C . . .
+17,7675145,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675145 . C G . . .
+17,7675175,C,T,Pathogenic,pathogenic,17 7675175 . C T . . .
+17,7675182,G,A,Pathogenic,pathogenic,17 7675182 . G A . . .
+17,7675197,T,A,Pathogenic,pathogenic,17 7675197 . T A . . .
+17,7675216,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675216 . C A . . .
+17,7676028,A,T,Pathogenic,pathogenic,17 7676028 . A T . . .
+17,7676031,A,C,Pathogenic,pathogenic,17 7676031 . A C . . .
+17,7676043,A,C,Likely pathogenic,likely_pathogenic,17 7676043 . A C . . .
+17,7676055,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7676055 . C A . . .
+17,7676071,G,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676071 . G A . . .
+17,7676176,T,A,Pathogenic,pathogenic,17 7676176 . T A . . .
+17,7673534,C,A,Pathogenic,pathogenic,17 7673534 . C A . . .
+17,7673838,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673838 . C A . . .
+17,7674180,C,T,Pathogenic,pathogenic,17 7674180 . C T . . .
+17,7674972,C,T,Pathogenic,pathogenic,17 7674972 . C T . . .
+17,7674974,A,C,Uncertain significance,VUS,17 7674974 . A C . . .
+17,7675989,C,A,Uncertain significance,VUS,17 7675989 . C A . . .
+17,7675993,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675993 . C T . . .
+17,7669692,T,G,-,other,17 7669692 . T G . . .
+17,7673533,A,C,Likely pathogenic,likely_pathogenic,17 7673533 . A C . . .
+17,7673839,T,A,Likely pathogenic,likely_pathogenic,17 7673839 . T A . . .
+17,7673839,T,G,Pathogenic,pathogenic,17 7673839 . T G . . .
+17,7674292,T,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674292 . T A . . .
+17,7674292,T,G,-,other,17 7674292 . T G . . .
+17,7674857,A,C,Pathogenic,pathogenic,17 7674857 . A C . . .
+17,7674859,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674859 . C A . . .
+17,7675051,A,T,Pathogenic,pathogenic,17 7675051 . A T . . .
+17,7675053,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7675053 . C G . . .
+17,7675993,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675993 . C A . . .
+17,7669611,A,T,Uncertain significance,VUS,17 7669611 . A T . . .
+17,7669639,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7669639 . C T . . .
+17,7669671,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7669671 . C A . . .
+17,7669687,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7669687 . G T . . .
+17,7670664,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7670664 . C G . . .
+17,7670670,C,T,Uncertain significance,VUS,17 7670670 . C T . . .
+17,7670673,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670673 . C T . . .
+17,7673539,A,G,Uncertain significance,VUS,17 7673539 . A G . . .
+17,7673542,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673542 . G A . . .
+17,7673545,A,G,Uncertain significance,VUS,17 7673545 . A G . . .
+17,7673600,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673600 . T C . . .
+17,7673608,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673608 . G A . . .
+17,7673729,G,T,Uncertain significance,VUS,17 7673729 . G T . . .
+17,7673790,C,G,Uncertain significance,VUS,17 7673790 . C G . . .
+17,7673815,T,G,Uncertain significance,VUS,17 7673815 . T G . . .
+17,7673830,G,T,Uncertain significance,VUS,17 7673830 . G T . . .
+17,7674202,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674202 . A C . . .
+17,7674238,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7674238 . C G . . .
+17,7674287,C,T,Uncertain significance,VUS,17 7674287 . C T . . .
+17,7674890,T,G,Uncertain significance,VUS,17 7674890 . T G . . .
+17,7674923,A,T,Uncertain significance,VUS,17 7674923 . A T . . .
+17,7674963,G,A,Uncertain significance,VUS,17 7674963 . G A . . .
+17,7675083,G,A,Uncertain significance,VUS,17 7675083 . G A . . .
+17,7675112,T,C,Uncertain significance,VUS,17 7675112 . T C . . .
+17,7675151,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7675151 . C A . . .
+17,7675154,G,A,Uncertain significance,VUS,17 7675154 . G A . . .
+17,7675194,T,C,Uncertain significance,VUS,17 7675194 . T C . . .
+17,7675197,T,C,Uncertain significance,VUS,17 7675197 . T C . . .
+17,7675232,G,T,Pathogenic,pathogenic,17 7675232 . G T . . .
+17,7676023,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7676023 . A C . . .
+17,7676050,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7676050 . A C . . .
+17,7676068,T,G,Uncertain significance,VUS,17 7676068 . T G . . .
+17,7676112,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676112 . G A . . .
+17,7676133,G,C,Uncertain significance,VUS,17 7676133 . G C . . .
+17,7676232,G,T,Uncertain significance,VUS,17 7676232 . G T . . .
+17,7676236,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676236 . G C . . .
+17,7676242,A,T,Uncertain significance,VUS,17 7676242 . A T . . .
+17,7676251,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676251 . T C . . .
+17,7676271,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676271 . G A . . .
+17,7676382,C,T,Uncertain significance,VUS,17 7676382 . C T . . .
+17,7676391,G,C,Uncertain significance,VUS,17 7676391 . G C . . .
+17,7676398,G,C,Uncertain significance,VUS,17 7676398 . G C . . .
+17,7676547,C,G,Uncertain significance,VUS,17 7676547 . C G . . .
+17,7676560,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676560 . G C . . .
+17,7676573,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676573 . G T . . .
+17,7675048,C,G,Uncertain significance,VUS,17 7675048 . C G . . .
+17,7676273,C,T,Pathogenic,pathogenic,17 7676273 . C T . . .
+17,7670604,C,T,Uncertain significance,VUS,17 7670604 . C T . . .
+17,7673530,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7673530 . A C . . .
+17,7675047,G,T,Likely benign,likely_benign,17 7675047 . G T . . .
+17,7675993,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675993 . C G . . .
+17,7676273,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676273 . C A . . .
+17,7673844,A,C,Likely benign,likely_benign,17 7673844 . A C . . .
+17,7674855,A,G,Uncertain significance,VUS,17 7674855 . A G . . .
+17,7675052,C,A,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675052 . C A . . .
+17,7676283,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676283 . G C . . .
+17,7673777,G,A,Benign/Likely benign,likely_benign,17 7673777 . G A . . .
+17,7674639,C,A,Benign,benign,17 7674639 . C A . . .
+17,7675322,A,G,Benign/Likely benign,likely_benign,17 7675322 . A G . . .
+17,7676799,C,G,Likely benign,likely_benign,17 7676799 . C G . . .
+17,7675353,C,T,Likely benign,likely_benign,17 7675353 . C T . . .
+17,7675519,A,G,Benign,benign,17 7675519 . A G . . .
+17,7676038,G,A,Benign/Likely benign,likely_benign,17 7676038 . G A . . .
+17,7676243,A,G,Likely benign,likely_benign,17 7676243 . A G . . .
+17,7669660,G,A,Benign/Likely benign,likely_benign,17 7669660 . G A . . .
+17,7673580,G,A,Benign/Likely benign,likely_benign,17 7673580 . G A . . .
+17,7673586,G,C,Likely benign,likely_benign,17 7673586 . G C . . .
+17,7673847,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7673847 . A G . . .
+17,7676282,G,A,Likely benign,likely_benign,17 7676282 . G A . . .
+17,7669624,C,A,Likely benign,likely_benign,17 7669624 . C A . . .
+17,7673753,G,C,Likely benign,likely_benign,17 7673753 . G C . . .
+17,7674915,A,G,Likely benign,likely_benign,17 7674915 . A G . . .
+17,7675063,T,C,Benign/Likely benign,likely_benign,17 7675063 . T C . . .
+17,7676033,G,C,Benign/Likely benign,likely_benign,17 7676033 . G C . . .
+17,7676069,C,T,Benign/Likely benign,likely_benign,17 7676069 . C T . . .
+17,7676535,T,A,Benign/Likely benign,likely_benign,17 7676535 . T A . . .
+17,7676538,A,G,Benign/Likely benign,likely_benign,17 7676538 . A G . . .
+17,7669697,G,A,Likely benign,likely_benign,17 7669697 . G A . . .
+17,7676514,C,A,Likely benign,likely_benign,17 7676514 . C A . . .
+17,7674173,C,A,Likely benign,likely_benign,17 7674173 . C A . . .
+17,7674975,A,G,Likely benign,likely_benign,17 7674975 . A G . . .
+17,7675986,C,A,Likely benign,likely_benign,17 7675986 . C A . . .
+17,7676276,T,C,Likely benign,likely_benign,17 7676276 . T C . . .
+17,7676374,G,C,Likely benign,likely_benign,17 7676374 . G C . . .
+17,7670713,G,A,Benign/Likely benign,likely_benign,17 7670713 . G A . . .
+17,7673720,G,A,Benign/Likely benign,likely_benign,17 7673720 . G A . . .
+17,7673768,T,C,Benign/Likely benign,likely_benign,17 7673768 . T C . . .
+17,7674255,G,A,Benign/Likely benign,likely_benign,17 7674255 . G A . . .
+17,7676057,C,T,Likely benign,likely_benign,17 7676057 . C T . . .
+17,7676087,T,A,Likely benign,likely_benign,17 7676087 . T A . . .
+17,7676126,T,C,Likely benign,likely_benign,17 7676126 . T C . . .
+17,7676174,T,C,Likely benign,likely_benign,17 7676174 . T C . . .
+17,7676252,T,C,Likely benign,likely_benign,17 7676252 . T C . . .
+17,7673618,A,G,Likely benign,likely_benign,17 7673618 . A G . . .
+17,7687372,C,A,Uncertain significance,VUS,17 7687372 . C A . . .
+17,7687391,C,A,Likely benign,likely_benign,17 7687391 . C A . . .
+17,7675184,A,G,Pathogenic,pathogenic,17 7675184 . A G . . .
+17,7670579,T,A,Benign/Likely benign,likely_benign,17 7670579 . T A . . .
+17,7669614,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7669614 . C G . . .
+17,7669623,G,T,Uncertain significance,VUS,17 7669623 . G T . . .
+17,7669634,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7669634 . T C . . .
+17,7669661,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7669661 . G A . . .
+17,7670620,C,T,Benign/Likely benign,likely_benign,17 7670620 . C T . . .
+17,7670656,C,A,Uncertain significance,VUS,17 7670656 . C A . . .
+17,7670679,G,A,Benign/Likely benign,likely_benign,17 7670679 . G A . . .
+17,7670690,A,T,Uncertain significance,VUS,17 7670690 . A T . . .
+17,7670693,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7670693 . T C . . .
+17,7673537,G,T,Uncertain significance,VUS,17 7673537 . G T . . .
+17,7673560,A,G,Uncertain significance,VUS,17 7673560 . A G . . .
+17,7673582,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673582 . G A . . .
+17,7673707,T,A,Pathogenic,pathogenic,17 7673707 . T A . . .
+17,7673741,C,T,Likely benign,likely_benign,17 7673741 . C T . . .
+17,7673755,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673755 . G A . . .
+17,7673794,C,T,Uncertain significance,VUS,17 7673794 . C T . . .
+17,7673816,G,A,Likely benign,likely_benign,17 7673816 . G A . . .
+17,7673818,T,A,Uncertain significance,VUS,17 7673818 . T A . . .
+17,7673819,C,T,Benign/Likely benign,likely_benign,17 7673819 . C T . . .
+17,7673825,C,A,Likely benign,likely_benign,17 7673825 . C A . . .
+17,7673832,T,C,Likely benign,likely_benign,17 7673832 . T C . . .
+17,7674194,G,C,Uncertain significance,VUS,17 7674194 . G C . . .
+17,7674206,T,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674206 . T C . . .
+17,7674207,G,T,Benign/Likely benign,likely_benign,17 7674207 . G T . . .
+17,7674245,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674245 . T G . . .
+17,7674860,T,C,Uncertain significance,VUS,17 7674860 . T C . . .
+17,7674875,G,A,Uncertain significance,VUS,17 7674875 . G A . . .
+17,7674883,C,G,Benign/Likely benign,likely_benign,17 7674883 . C G . . .
+17,7674894,G,T,Likely benign,likely_benign,17 7674894 . G T . . .
+17,7674898,A,C,Benign/Likely benign,likely_benign,17 7674898 . A C . . .
+17,7674909,C,G,Uncertain significance,VUS,17 7674909 . C G . . .
+17,7674926,C,G,Uncertain significance,VUS,17 7674926 . C G . . .
+17,7674941,A,C,Uncertain significance,VUS,17 7674941 . A C . . .
+17,7674949,A,T,Likely benign,likely_benign,17 7674949 . A T . . .
+17,7674952,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674952 . A T . . .
+17,7675070,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675070 . C G . . .
+17,7675081,G,C,Benign/Likely benign,likely_benign,17 7675081 . G C . . .
+17,7675098,C,T,Uncertain significance,VUS,17 7675098 . C T . . .
+17,7675102,C,A,Likely benign,likely_benign,17 7675102 . C A . . .
+17,7675156,C,G,Likely benign,likely_benign,17 7675156 . C G . . .
+17,7675157,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675157 . G C . . .
+17,7675174,C,A,Uncertain significance,VUS,17 7675174 . C A . . .
+17,7675188,G,A,Uncertain significance,VUS,17 7675188 . G A . . .
+17,7675223,A,T,Pathogenic,pathogenic,17 7675223 . A T . . .
+17,7675227,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7675227 . C A . . .
+17,7675229,G,A,Uncertain significance,VUS,17 7675229 . G A . . .
+17,7675233,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675233 . A T . . .
+17,7676031,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7676031 . A G . . .
+17,7676041,G,C,Likely pathogenic,likely_pathogenic,17 7676041 . G C . . .
+17,7676060,G,C,Pathogenic,pathogenic,17 7676060 . G C . . .
+17,7676066,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676066 . T C . . .
+17,7676077,G,A,Uncertain significance,VUS,17 7676077 . G A . . .
+17,7676104,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676104 . G T . . .
+17,7676176,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676176 . T C . . .
+17,7676186,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7676186 . A T . . .
+17,7676190,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676190 . G A . . .
+17,7676193,C,T,Likely benign,likely_benign,17 7676193 . C T . . .
+17,7676229,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676229 . G C . . .
+17,7676262,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676262 . G A . . .
+17,7676267,G,A,Benign/Likely benign,likely_benign,17 7676267 . G A . . .
+17,7676268,G,A,Uncertain significance,VUS,17 7676268 . G A . . .
+17,7676393,T,C,Likely benign,likely_benign,17 7676393 . T C . . .
+17,7676536,G,A,Uncertain significance,VUS,17 7676536 . G A . . .
+17,7676553,C,T,Benign/Likely benign,likely_benign,17 7676553 . C T . . .
+17,7676566,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7676566 . A C . . .
+17,7676568,G,T,Uncertain significance,VUS,17 7676568 . G T . . .
+17,7673612,G,A,Likely benign,likely_benign,17 7673612 . G A . . .
+17,7669646,T,G,Uncertain significance,VUS,17 7669646 . T G . . .
+17,7669672,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7669672 . C A . . .
+17,7670609,C,G,Uncertain significance,VUS,17 7670609 . C G . . .
+17,7670619,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7670619 . C A . . .
+17,7670661,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7670661 . G C . . .
+17,7670664,C,T,Uncertain significance,VUS,17 7670664 . C T . . .
+17,7670705,C,G,Uncertain significance,VUS,17 7670705 . C G . . .
+17,7673567,T,A,Pathogenic,pathogenic,17 7673567 . T A . . .
+17,7673578,T,A,Uncertain significance,VUS,17 7673578 . T A . . .
+17,7673587,G,C,Uncertain significance,VUS,17 7673587 . G C . . .
+17,7673807,C,A,Uncertain significance,VUS,17 7673807 . C A . . .
+17,7673820,C,A,Uncertain significance,VUS,17 7673820 . C A . . .
+17,7674196,G,A,Uncertain significance,VUS,17 7674196 . G A . . .
+17,7674202,A,T,Pathogenic,pathogenic,17 7674202 . A T . . .
+17,7674205,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674205 . G A . . .
+17,7674234,C,T,Uncertain significance,VUS,17 7674234 . C T . . .
+17,7674268,A,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674268 . A T . . .
+17,7674272,T,C,Uncertain significance,VUS,17 7674272 . T C . . .
+17,7674289,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674289 . A T . . .
+17,7674916,A,C,Pathogenic,pathogenic,17 7674916 . A C . . .
+17,7674959,G,T,Uncertain significance,VUS,17 7674959 . G T . . .
+17,7675053,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7675053 . C T . . .
+17,7675097,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675097 . A T . . .
+17,7675107,T,C,Uncertain significance,VUS,17 7675107 . T C . . .
+17,7675140,G,C,Pathogenic,pathogenic,17 7675140 . G C . . .
+17,7675172,A,G,Uncertain significance,VUS,17 7675172 . A G . . .
+17,7675187,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675187 . G A . . .
+17,7676008,A,G,Uncertain significance,VUS,17 7676008 . A G . . .
+17,7676019,C,A,Uncertain significance,VUS,17 7676019 . C A . . .
+17,7676038,G,T,Uncertain significance,VUS,17 7676038 . G T . . .
+17,7676098,A,G,Uncertain significance,VUS,17 7676098 . A G . . .
+17,7676137,C,A,Uncertain significance,VUS,17 7676137 . C A . . .
+17,7676145,G,A,Uncertain significance,VUS,17 7676145 . G A . . .
+17,7676154,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676154 . G A . . .
+17,7676170,G,A,Uncertain significance,VUS,17 7676170 . G A . . .
+17,7676185,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676185 . C T . . .
+17,7676218,C,T,Uncertain significance,VUS,17 7676218 . C T . . .
+17,7676240,C,A,Uncertain significance,VUS,17 7676240 . C A . . .
+17,7676247,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676247 . T C . . .
+17,7676392,T,G,Uncertain significance,VUS,17 7676392 . T G . . .
+17,7676548,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676548 . T C . . .
+17,7676588,C,G,Uncertain significance,VUS,17 7676588 . C G . . .
+17,7676588,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676588 . C T . . .
+17,7673617,G,T,Likely benign,likely_benign,17 7673617 . G T . . .
+17,7673843,C,T,Uncertain significance,VUS,17 7673843 . C T . . .
+17,7674853,C,T,Uncertain significance,VUS,17 7674853 . C T . . .
+17,7676381,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676381 . C T . . .
+17,7675210,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675210 . A T . . .
+17,7668477,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7668477 . G A . . .
+17,7668848,A,G,Uncertain significance,VUS,17 7668848 . A G . . .
+17,7668849,A,G,Uncertain significance,VUS,17 7668849 . A G . . .
+17,7669200,G,T,Likely benign,likely_benign,17 7669200 . G T . . .
+17,7669252,A,G,Likely benign,likely_benign,17 7669252 . A G . . .
+17,7669281,C,T,Benign,benign,17 7669281 . C T . . .
+17,7669441,G,A,Uncertain significance,VUS,17 7669441 . G A . . .
+17,7669465,C,T,Uncertain significance,VUS,17 7669465 . C T . . .
+17,7676616,C,T,Uncertain significance,VUS,17 7676616 . C T . . .
+17,7687471,G,A,Uncertain significance,VUS,17 7687471 . G A . . .
+17,7675142,A,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675142 . A C . . .
+17,7676010,T,A,Uncertain significance,VUS,17 7676010 . T A . . .
+17,7667874,G,C,Likely benign,likely_benign,17 7667874 . G C . . .
+17,7667880,G,A,Likely benign,likely_benign,17 7667880 . G A . . .
+17,7667888,G,A,Likely benign,likely_benign,17 7667888 . G A . . .
+17,7667899,A,C,Likely benign,likely_benign,17 7667899 . A C . . .
+17,7667901,C,T,Likely benign,likely_benign,17 7667901 . C T . . .
+17,7667904,C,T,Likely benign,likely_benign,17 7667904 . C T . . .
+17,7667906,C,A,Likely benign,likely_benign,17 7667906 . C A . . .
+17,7667906,C,T,Likely benign,likely_benign,17 7667906 . C T . . .
+17,7667909,C,T,Likely benign,likely_benign,17 7667909 . C T . . .
+17,7667910,C,A,Likely benign,likely_benign,17 7667910 . C A . . .
+17,7667914,C,T,Uncertain significance,VUS,17 7667914 . C T . . .
+17,7667923,T,G,Uncertain significance,VUS,17 7667923 . T G . . .
+17,7667926,C,T,Likely benign,likely_benign,17 7667926 . C T . . .
+17,7667929,C,T,Likely benign,likely_benign,17 7667929 . C T . . .
+17,7667933,C,T,Likely benign,likely_benign,17 7667933 . C T . . .
+17,7669678,G,A,Likely benign,likely_benign,17 7669678 . G A . . .
+17,7669689,G,T,Uncertain significance,VUS,17 7669689 . G T . . .
+17,7670612,G,C,Uncertain significance,VUS,17 7670612 . G C . . .
+17,7673537,G,A,Pathogenic,pathogenic,17 7673537 . G A . . .
+17,7673584,G,C,Uncertain significance,VUS,17 7673584 . G C . . .
+17,7673727,T,C,Uncertain significance,VUS,17 7673727 . T C . . .
+17,7673729,G,C,Uncertain significance,VUS,17 7673729 . G C . . .
+17,7673744,T,C,Benign/Likely benign,likely_benign,17 7673744 . T C . . .
+17,7673759,C,A,Uncertain significance,VUS,17 7673759 . C A . . .
+17,7673766,T,C,Uncertain significance,VUS,17 7673766 . T C . . .
+17,7673782,T,G,Benign/Likely benign,likely_benign,17 7673782 . T G . . .
+17,7674201,G,A,Likely benign,likely_benign,17 7674201 . G A . . .
+17,7674221,G,T,Likely benign,likely_benign,17 7674221 . G T . . .
+17,7674260,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674260 . T C . . .
+17,7674270,G,T,Likely benign,likely_benign,17 7674270 . G T . . .
+17,7674271,G,C,Uncertain significance,VUS,17 7674271 . G C . . .
+17,7674279,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674279 . G C . . .
+17,7674912,C,G,Uncertain significance,VUS,17 7674912 . C G . . .
+17,7674932,T,C,Uncertain significance,VUS,17 7674932 . T C . . .
+17,7674955,C,A,Uncertain significance,VUS,17 7674955 . C A . . .
+17,7675105,C,A,Uncertain significance,VUS,17 7675105 . C A . . .
+17,7675219,G,A,Benign/Likely benign,likely_benign,17 7675219 . G A . . .
+17,7675234,G,A,Likely benign,likely_benign,17 7675234 . G A . . .
+17,7676116,G,A,Uncertain significance,VUS,17 7676116 . G A . . .
+17,7676150,C,A,Likely benign,likely_benign,17 7676150 . C A . . .
+17,7676164,C,G,Uncertain significance,VUS,17 7676164 . C G . . .
+17,7676238,A,C,Uncertain significance,VUS,17 7676238 . A C . . .
+17,7676402,G,T,Uncertain significance,VUS,17 7676402 . G T . . .
+17,7676590,T,C,Uncertain significance,VUS,17 7676590 . T C . . .
+17,7676605,C,A,Likely benign,likely_benign,17 7676605 . C A . . .
+17,7673249,T,C,Likely benign,likely_benign,17 7673249 . T C . . .
+17,7673351,A,G,Likely benign,likely_benign,17 7673351 . A G . . .
+17,7673531,G,C,Uncertain significance,VUS,17 7673531 . G C . . .
+17,7676462,C,T,Uncertain significance,VUS,17 7676462 . C T . . .
+17,7676473,G,A,Likely benign,likely_benign,17 7676473 . G A . . .
+17,7676475,G,T,Likely benign,likely_benign,17 7676475 . G T . . .
+17,7673236,G,A,Likely benign,likely_benign,17 7673236 . G A . . .
+17,7673258,A,T,Likely benign,likely_benign,17 7673258 . A T . . .
+17,7673295,T,A,Likely benign,likely_benign,17 7673295 . T A . . .
+17,7673350,T,C,Likely benign,likely_benign,17 7673350 . T C . . .
+17,7673850,G,A,Likely benign,likely_benign,17 7673850 . G A . . .
+17,7673851,G,A,Likely benign,likely_benign,17 7673851 . G A . . .
+17,7674295,G,A,Uncertain significance,VUS,17 7674295 . G A . . .
+17,7669703,G,A,Likely benign,likely_benign,17 7669703 . G A . . .
+17,7670589,A,C,Likely benign,likely_benign,17 7670589 . A C . . .
+17,7673240,G,A,Likely benign,likely_benign,17 7673240 . G A . . .
+17,7673332,G,A,Likely benign,likely_benign,17 7673332 . G A . . .
+17,7673340,C,T,Likely benign,likely_benign,17 7673340 . C T . . .
+17,7673346,A,G,Likely benign,likely_benign,17 7673346 . A G . . .
+17,7673918,T,A,Likely benign,likely_benign,17 7673918 . T A . . .
+17,7675249,G,A,Likely benign,likely_benign,17 7675249 . G A . . .
+17,7675250,A,C,Likely benign,likely_benign,17 7675250 . A C . . .
+17,7676491,T,C,Likely benign,likely_benign,17 7676491 . T C . . .
+17,7676493,G,C,Likely benign,likely_benign,17 7676493 . G C . . .
+17,7676509,G,A,Likely benign,likely_benign,17 7676509 . G A . . .
+17,7673268,T,C,Likely benign,likely_benign,17 7673268 . T C . . .
+17,7673883,G,A,Likely benign,likely_benign,17 7673883 . G A . . .
+17,7676275,G,C,Uncertain significance,VUS,17 7676275 . G C . . .
+17,7676497,T,G,Likely benign,likely_benign,17 7676497 . T G . . .
+17,7670620,C,A,Uncertain significance,VUS,17 7670620 . C A . . .
+17,7670708,C,T,Uncertain significance,VUS,17 7670708 . C T . . .
+17,7674286,C,G,Uncertain significance,VUS,17 7674286 . C G . . .
+17,7674920,T,C,Uncertain significance,VUS,17 7674920 . T C . . .
+17,7675078,G,C,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675078 . G C . . .
+17,7675128,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7675128 . T A . . .
+17,7676013,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676013 . G C . . .
+17,7676058,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7676058 . T A . . .
+17,7676187,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676187 . T C . . .
+17,7676197,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7676197 . G T . . .
+17,7673543,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673543 . T C . . .
+17,7674969,G,C,Uncertain significance,VUS,17 7674969 . G C . . .
+17,7675122,T,A,Pathogenic,pathogenic,17 7675122 . T A . . .
+17,7675233,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675233 . A G . . .
+17,7676109,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676109 . G A . . .
+17,7676256,T,G,Uncertain significance,VUS,17 7676256 . T G . . .
+17,7676269,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676269 . G A . . .
+17,7676380,A,T,Pathogenic,pathogenic,17 7676380 . A T . . .
+17,7670679,G,C,Uncertain significance,VUS,17 7670679 . G C . . .
+17,7670693,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7670693 . T A . . .
+17,7673767,C,G,Uncertain significance,VUS,17 7673767 . C G . . .
+17,7673797,A,T,Uncertain significance,VUS,17 7673797 . A T . . .
+17,7673824,C,A,Pathogenic,pathogenic,17 7673824 . C A . . .
+17,7673826,A,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673826 . A T . . .
+17,7674242,A,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674242 . A T . . .
+17,7674275,T,C,Uncertain significance,VUS,17 7674275 . T C . . .
+17,7674279,G,T,Uncertain significance,VUS,17 7674279 . G T . . .
+17,7674875,G,C,Uncertain significance,VUS,17 7674875 . G C . . .
+17,7674905,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674905 . C T . . .
+17,7675082,G,T,Uncertain significance,VUS,17 7675082 . G T . . .
+17,7673770,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673770 . T C . . .
+17,7674225,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674225 . C A . . .
+17,7675092,T,A,Uncertain significance,VUS,17 7675092 . T A . . .
+17,7676567,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7676567 . C A . . .
+17,7674974,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7674974 . A G . . .
+17,7669662,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7669662 . T G . . .
+17,7669650,T,C,Uncertain significance,VUS,17 7669650 . T C . . .
+17,7674921,C,A,Pathogenic,pathogenic,17 7674921 . C A . . .
+17,7676097,C,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676097 . C T . . .
+17,7673780,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7673780 . T A . . .
+17,7674955,C,G,Likely benign,likely_benign,17 7674955 . C G . . .
+17,7675212,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675212 . A C . . .
+17,7676604,C,A,Uncertain significance,VUS,17 7676604 . C A . . .
+17,7673584,G,A,Uncertain significance,VUS,17 7673584 . G A . . .
+17,7673740,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673740 . C T . . .
+17,7673746,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7673746 . T C . . .
+17,7673825,C,T,Uncertain significance,VUS,17 7673825 . C T . . .
+17,7675148,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675148 . G A . . .
+17,7675203,G,C,Uncertain significance,VUS,17 7675203 . G C . . .
+17,7675239,G,C,Uncertain significance,VUS,17 7675239 . G C . . .
+17,7676029,A,C,Uncertain significance,VUS,17 7676029 . A C . . .
+17,7673795,A,T,Pathogenic,pathogenic,17 7673795 . A T . . .
+17,7669612,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7669612 . G C . . .
+17,7670682,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7670682 . C G . . .
+17,7670689,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670689 . C T . . .
+17,7670700,G,T,Likely pathogenic,likely_pathogenic,17 7670700 . G T . . .
+17,7673540,G,A,Uncertain significance,VUS,17 7673540 . G A . . .
+17,7673550,T,A,Uncertain significance,VUS,17 7673550 . T A . . .
+17,7673696,C,T,Uncertain significance,VUS,17 7673696 . C T . . .
+17,7673709,G,A,Uncertain significance,VUS,17 7673709 . G A . . .
+17,7673711,G,C,Uncertain significance,VUS,17 7673711 . G C . . .
+17,7673745,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7673745 . T G . . .
+17,7673758,T,C,Uncertain significance,VUS,17 7673758 . T C . . .
+17,7674278,A,C,Uncertain significance,VUS,17 7674278 . A C . . .
+17,7674899,G,C,Uncertain significance,VUS,17 7674899 . G C . . .
+17,7674936,C,T,Uncertain significance,VUS,17 7674936 . C T . . .
+17,7674960,G,A,Uncertain significance,VUS,17 7674960 . G A . . .
+17,7674963,G,C,Uncertain significance,VUS,17 7674963 . G C . . .
+17,7675050,C,T,Uncertain significance,VUS,17 7675050 . C T . . .
+17,7675136,G,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7675136 . G T . . .
+17,7675178,A,C,Uncertain significance,VUS,17 7675178 . A C . . .
+17,7675210,A,C,Uncertain significance,VUS,17 7675210 . A C . . .
+17,7675998,C,G,Uncertain significance,VUS,17 7675998 . C G . . .
+17,7676080,C,T,Uncertain significance,VUS,17 7676080 . C T . . .
+17,7676125,G,A,Uncertain significance,VUS,17 7676125 . G A . . .
+17,7676376,C,T,Uncertain significance,VUS,17 7676376 . C T . . .
+17,7676552,T,G,Uncertain significance,VUS,17 7676552 . T G . . .
+17,7688649,A,G,Uncertain significance,VUS,17 7688649 . A G . . .
+17,7670606,C,T,Uncertain significance,VUS,17 7670606 . C T . . .
+17,7670645,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7670645 . G C . . .
+17,7673716,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673716 . C T . . .
+17,7674244,C,A,Uncertain significance,VUS,17 7674244 . C A . . .
+17,7674908,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674908 . T A . . .
+17,7674956,T,G,Uncertain significance,VUS,17 7674956 . T G . . .
+17,7676077,G,C,Uncertain significance,VUS,17 7676077 . G C . . .
+17,7676254,C,T,Uncertain significance,VUS,17 7676254 . C T . . .
+17,7676272,A,T,Uncertain significance,VUS,17 7676272 . A T . . .
+17,7676518,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676518 . C T . . .
+17,7669673,T,A,Uncertain significance,VUS,17 7669673 . T A . . .
+17,7670649,G,C,Uncertain significance,VUS,17 7670649 . G C . . .
+17,7670684,C,A,Uncertain significance,VUS,17 7670684 . C A . . .
+17,7673749,T,G,Uncertain significance,VUS,17 7673749 . T G . . .
+17,7674176,C,T,Uncertain significance,VUS,17 7674176 . C T . . .
+17,7674209,G,A,Uncertain significance,VUS,17 7674209 . G A . . .
+17,7674856,G,A,Uncertain significance,VUS,17 7674856 . G A . . .
+17,7674891,G,A,Uncertain significance,VUS,17 7674891 . G A . . .
+17,7674933,T,C,Uncertain significance,VUS,17 7674933 . T C . . .
+17,7675047,G,A,Uncertain significance,VUS,17 7675047 . G A . . .
+17,7675090,C,G,Uncertain significance,VUS,17 7675090 . C G . . .
+17,7675157,G,T,Uncertain significance,VUS,17 7675157 . G T . . .
+17,7675200,C,T,Uncertain significance,VUS,17 7675200 . C T . . .
+17,7675220,T,C,Uncertain significance,VUS,17 7675220 . T C . . .
+17,7675235,T,G,Uncertain significance,VUS,17 7675235 . T G . . .
+17,7676019,C,G,Uncertain significance,VUS,17 7676019 . C G . . .
+17,7676043,A,T,Uncertain significance,VUS,17 7676043 . A T . . .
+17,7676068,T,C,Uncertain significance,VUS,17 7676068 . T C . . .
+17,7675140,G,T,Pathogenic,pathogenic,17 7675140 . G T . . .
+17,7676404,C,T,Likely pathogenic,likely_pathogenic,17 7676404 . C T . . .
+17,7673570,T,A,Pathogenic,pathogenic,17 7673570 . T A . . .
+17,7674261,G,C,Pathogenic,pathogenic,17 7674261 . G C . . .
+17,7676048,G,C,Pathogenic,pathogenic,17 7676048 . G C . . .
+17,7670704,A,C,Likely benign,likely_benign,17 7670704 . A C . . .
+17,7670721,G,A,Likely benign,likely_benign,17 7670721 . G A . . .
+17,7673792,G,A,Likely benign,likely_benign,17 7673792 . G A . . .
+17,7674258,G,A,Benign/Likely benign,likely_benign,17 7674258 . G A . . .
+17,7675245,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675245 . A T . . .
+17,7676090,C,T,Likely benign,likely_benign,17 7676090 . C T . . .
+17,7676180,A,G,Likely benign,likely_benign,17 7676180 . A G . . .
+17,7676228,C,A,Likely benign,likely_benign,17 7676228 . C A . . .
+17,7676555,G,A,Benign/Likely benign,likely_benign,17 7676555 . G A . . .
+17,7676583,C,A,Benign/Likely benign,likely_benign,17 7676583 . C A . . .
+17,7670668,G,A,Likely benign,likely_benign,17 7670668 . G A . . .
+17,7670725,C,G,Likely benign,likely_benign,17 7670725 . C G . . .
+17,7674231,G,T,Likely benign,likely_benign,17 7674231 . G T . . .
+17,7674264,G,A,Benign/Likely benign,likely_benign,17 7674264 . G A . . .
+17,7674880,C,G,Likely benign,likely_benign,17 7674880 . C G . . .
+17,7674961,A,C,Likely benign,likely_benign,17 7674961 . A C . . .
+17,7676015,T,C,Benign/Likely benign,likely_benign,17 7676015 . T C . . .
+17,7676372,T,C,Likely benign,likely_benign,17 7676372 . T C . . .
+17,7676511,A,C,Likely benign,likely_benign,17 7676511 . A C . . .
+17,7669684,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7669684 . C T . . .
+17,7669698,A,T,Likely benign,likely_benign,17 7669698 . A T . . .
+17,7670600,G,T,Likely benign,likely_benign,17 7670600 . G T . . .
+17,7670614,G,A,Benign/Likely benign,likely_benign,17 7670614 . G A . . .
+17,7670723,A,C,Likely benign,likely_benign,17 7670723 . A C . . .
+17,7673738,C,T,Likely benign,likely_benign,17 7673738 . C T . . .
+17,7673804,C,T,Benign/Likely benign,likely_benign,17 7673804 . C T . . .
+17,7674173,C,G,Likely benign,likely_benign,17 7674173 . C G . . .
+17,7674907,G,A,Likely benign,likely_benign,17 7674907 . G A . . .
+17,7674958,A,C,Likely benign,likely_benign,17 7674958 . A C . . .
+17,7676003,C,A,Benign/Likely benign,likely_benign,17 7676003 . C A . . .
+17,7676204,A,C,Likely benign,likely_benign,17 7676204 . A C . . .
+17,7676559,G,A,Benign/Likely benign,likely_benign,17 7676559 . G A . . .
+17,7676580,C,T,Likely benign,likely_benign,17 7676580 . C T . . .
+17,7670683,T,C,Benign/Likely benign,likely_benign,17 7670683 . T C . . .
+17,7673617,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673617 . G A . . .
+17,7673798,A,C,Benign/Likely benign,likely_benign,17 7673798 . A C . . .
+17,7673843,C,G,Likely benign,likely_benign,17 7673843 . C G . . .
+17,7674851,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7674851 . A C . . .
+17,7675147,G,A,Benign/Likely benign,likely_benign,17 7675147 . G A . . .
+17,7675159,G,A,Likely benign,likely_benign,17 7675159 . G A . . .
+17,7675231,G,T,Likely benign,likely_benign,17 7675231 . G T . . .
+17,7675244,A,C,Likely benign,likely_benign,17 7675244 . A C . . .
+17,7676003,C,T,Likely benign,likely_benign,17 7676003 . C T . . .
+17,7676021,A,G,Benign/Likely benign,likely_benign,17 7676021 . A G . . .
+17,7676108,T,A,Benign/Likely benign,likely_benign,17 7676108 . T A . . .
+17,7676240,C,T,Likely benign,likely_benign,17 7676240 . C T . . .
+17,7676373,T,C,Likely benign,likely_benign,17 7676373 . T C . . .
+17,7676583,C,G,Likely benign,likely_benign,17 7676583 . C G . . .
+17,7669703,G,C,Uncertain significance,VUS,17 7669703 . G C . . .
+17,7670633,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7670633 . G C . . .
+17,7673580,G,C,Likely benign,likely_benign,17 7673580 . G C . . .
+17,7675081,G,A,Likely benign,likely_benign,17 7675081 . G A . . .
+17,7676132,A,C,Benign/Likely benign,likely_benign,17 7676132 . A C . . .
+17,7676143,C,T,Uncertain significance,VUS,17 7676143 . C T . . .
+17,7673754,A,G,Likely benign,likely_benign,17 7673754 . A G . . .
+17,7676549,G,T,Uncertain significance,VUS,17 7676549 . G T . . .
+17,7673809,C,A,Pathogenic,pathogenic,17 7673809 . C A . . .
+17,7670717,T,G,-,other,17 7670717 . T G . . .
+17,7676404,C,A,-,other,17 7676404 . C A . . .
+17,7674390,G,A,Likely benign,likely_benign,17 7674390 . G A . . .
+17,7674973,T,G,Pathogenic,pathogenic,17 7674973 . T G . . .
+17,7673533,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7673533 . A G . . .
+17,7674811,C,T,Benign/Likely benign,likely_benign,17 7674811 . C T . . .
+17,7670625,T,C,Uncertain significance,VUS,17 7670625 . T C . . .
+17,7674857,A,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674857 . A G . . .
+17,7675237,C,A,Pathogenic,pathogenic,17 7675237 . C A . . .
+17,7676963,G,A,Likely benign,likely_benign,17 7676963 . G A . . .
+17,7674291,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674291 . C G . . .
+17,7670717,T,A,-,other,17 7670717 . T A . . .
+17,7673030,C,T,Benign,benign,17 7673030 . C T . . .
+17,7675397,T,C,Benign,benign,17 7675397 . T C . . .
+17,7670716,C,A,-,other,17 7670716 . C A . . .
+17,7674089,A,C,Benign,benign,17 7674089 . A C . . .
+17,7674109,G,A,Benign,benign,17 7674109 . G A . . .
+17,7675361,A,G,Benign,benign,17 7675361 . A G . . .
+17,7673183,G,A,Benign,benign,17 7673183 . G A . . .
+17,7669692,T,A,-,other,17 7669692 . T A . . .
+17,7669739,G,A,Benign,benign,17 7669739 . G A . . .
+17,7669911,C,T,Benign,benign,17 7669911 . C T . . .
+17,7676324,C,T,Uncertain significance,VUS,17 7676324 . C T . . .
+17,7672958,T,A,Benign,benign,17 7672958 . T A . . .
+17,7676734,C,T,Benign,benign,17 7676734 . C T . . .
+17,7668134,G,A,Benign,benign,17 7668134 . G A . . .
+17,7675238,T,G,Uncertain significance,VUS,17 7675238 . T G . . .
+17,7674276,A,G,Benign/Likely benign,likely_benign,17 7674276 . A G . . .
+17,7676625,G,C,Uncertain significance,VUS,17 7676625 . G C . . .
+17,7674215,G,A,Uncertain significance,VUS,17 7674215 . G A . . .
+17,7674192,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674192 . C T . . .
+17,7676172,A,G,Uncertain significance,VUS,17 7676172 . A G . . .
+17,7675337,T,A,Benign,benign,17 7675337 . T A . . .
+17,7676034,C,T,Uncertain significance,VUS,17 7676034 . C T . . .
+17,7674811,C,A,Likely benign,likely_benign,17 7674811 . C A . . .
+17,7676203,C,A,Likely pathogenic,likely_pathogenic,17 7676203 . C A . . .
+17,7676186,A,G,Likely benign,likely_benign,17 7676186 . A G . . .
+17,7676601,G,C,Uncertain significance,VUS,17 7676601 . G C . . .
+17,7676081,A,G,Likely benign,likely_benign,17 7676081 . A G . . .
+17,7673719,G,C,Uncertain significance,VUS,17 7673719 . G C . . .
+17,7689619,A,C,Uncertain significance,VUS,17 7689619 . A C . . .
+17,7688998,A,C,Uncertain significance,VUS,17 7688998 . A C . . .
+17,7688983,G,A,Uncertain significance,VUS,17 7688983 . G A . . .
+17,7689079,C,G,Uncertain significance,VUS,17 7689079 . C G . . .
+17,7675196,T,G,Uncertain significance,VUS,17 7675196 . T G . . .
+17,7676106,G,C,Uncertain significance,VUS,17 7676106 . G C . . .
+17,7674243,A,T,Uncertain significance,VUS,17 7674243 . A T . . .
+17,7675123,G,T,Pathogenic,pathogenic,17 7675123 . G T . . .
+17,7674274,G,A,Uncertain significance,VUS,17 7674274 . G A . . .
+17,7676222,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7676222 . A C . . .
+17,7673539,A,T,Uncertain significance,VUS,17 7673539 . A T . . .
+17,7676194,C,G,Uncertain significance,VUS,17 7676194 . C G . . .
+17,7674212,T,A,Likely pathogenic,likely_pathogenic,17 7674212 . T A . . .
+17,7673755,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7673755 . G T . . .
+17,7673739,T,G,Uncertain significance,VUS,17 7673739 . T G . . .
+17,7674182,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7674182 . T C . . .
+17,7674859,C,G,Uncertain significance,VUS,17 7674859 . C G . . .
+17,7673797,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7673797 . A C . . .
+17,7670646,C,A,Uncertain significance,VUS,17 7670646 . C A . . .
+17,7670607,A,T,Likely pathogenic,likely_pathogenic,17 7670607 . A T . . .
+17,7674882,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674882 . C A . . .
+17,7669688,T,C,Uncertain significance,VUS,17 7669688 . T C . . .
+17,7673728,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7673728 . C G . . .
+17,7675211,A,T,Uncertain significance,VUS,17 7675211 . A T . . .
+17,7670629,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7670629 . C A . . .
+17,7670619,C,T,Uncertain significance,VUS,17 7670619 . C T . . .
+17,7673719,G,A,Uncertain significance,VUS,17 7673719 . G A . . .
+17,7676184,T,G,Uncertain significance,VUS,17 7676184 . T G . . .
+17,7687376,C,T,Uncertain significance,VUS,17 7687376 . C T . . .
+17,7676543,T,A,Uncertain significance,VUS,17 7676543 . T A . . .
+17,7676222,A,T,Uncertain significance,VUS,17 7676222 . A T . . .
+17,7675977,C,A,Likely benign,likely_benign,17 7675977 . C A . . .
+17,7687376,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7687376 . C G . . .
+17,7673547,A,T,Pathogenic,pathogenic,17 7673547 . A T . . .
+17,7673833,T,A,Uncertain significance,VUS,17 7673833 . T A . . .
+17,7670604,C,G,Uncertain significance,VUS,17 7670604 . C G . . .
+17,7673532,T,A,Uncertain significance,VUS,17 7673532 . T A . . .
+17,7674175,C,G,Uncertain significance,VUS,17 7674175 . C G . . .
+17,7676187,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7676187 . T A . . .
+17,7674188,C,G,Uncertain significance,VUS,17 7674188 . C G . . .
+17,7673816,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7673816 . G C . . .
+17,7676245,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7676245 . C T . . .
+17,7675194,T,A,Uncertain significance,VUS,17 7675194 . T A . . .
+17,7675252,G,A,Likely benign,likely_benign,17 7675252 . G A . . .
+17,7674899,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7674899 . G A . . .
+17,7673810,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7673810 . A T . . .
+17,7676188,C,A,Uncertain significance,VUS,17 7676188 . C A . . .
+17,7674984,A,T,Uncertain significance,VUS,17 7674984 . A T . . .
+17,7670688,A,T,Uncertain significance,VUS,17 7670688 . A T . . .
+17,7674281,C,T,Uncertain significance,VUS,17 7674281 . C T . . .
+17,7675168,A,C,Uncertain significance,VUS,17 7675168 . A C . . .
+17,7674971,C,G,Uncertain significance,VUS,17 7674971 . C G . . .
+17,7676199,T,G,Uncertain significance,VUS,17 7676199 . T G . . .
+17,7674846,T,C,Likely benign,likely_benign,17 7674846 . T C . . .
+17,7676399,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676399 . G C . . .
+17,7669679,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7669679 . G T . . .
+17,7675239,G,A,Uncertain significance,VUS,17 7675239 . G A . . .
+17,7673539,A,C,Uncertain significance,VUS,17 7673539 . A C . . .
+17,7674853,C,G,Uncertain significance,VUS,17 7674853 . C G . . .
+17,7675072,C,G,Uncertain significance,VUS,17 7675072 . C G . . .
+17,7675072,C,A,Uncertain significance,VUS,17 7675072 . C A . . .
+17,7669611,A,G,Uncertain significance,VUS,17 7669611 . A G . . .
+17,7676004,A,G,Uncertain significance,VUS,17 7676004 . A G . . .
+17,7676046,C,T,Uncertain significance,VUS,17 7676046 . C T . . .
+17,7675234,G,T,Pathogenic,pathogenic,17 7675234 . G T . . .
+17,7676136,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676136 . G A . . .
+17,7676215,G,A,Pathogenic,pathogenic,17 7676215 . G A . . .
+17,7669682,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7669682 . T G . . .
+17,7673844,A,G,Likely benign,likely_benign,17 7673844 . A G . . .
+17,7676585,G,A,Uncertain significance,VUS,17 7676585 . G A . . .
+17,7675163,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7675163 . G A . . .
+17,7675199,G,C,Uncertain significance,VUS,17 7675199 . G C . . .
+17,7674189,T,G,Uncertain significance,VUS,17 7674189 . T G . . .
+17,7676010,T,C,Uncertain significance,VUS,17 7676010 . T C . . .
+17,7676032,A,T,Pathogenic/Likely pathogenic,likely_pathogenic,17 7676032 . A T . . .
+17,7673535,C,G,Uncertain significance,VUS,17 7673535 . C G . . .
+17,7676149,C,A,Uncertain significance,VUS,17 7676149 . C A . . .
+17,7676369,C,A,Uncertain significance,VUS,17 7676369 . C A . . .
+17,7676047,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7676047 . C A . . .
+17,7676076,G,C,Uncertain significance,VUS,17 7676076 . G C . . .
+17,7673602,G,A,Uncertain significance,VUS,17 7673602 . G A . . .
+17,7674909,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7674909 . C A . . .
+17,7675172,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675172 . A T . . .
+17,7674965,G,C,Uncertain significance,VUS,17 7674965 . G C . . .
+17,7673784,C,A,Uncertain significance,VUS,17 7673784 . C A . . .
+17,7674866,G,T,Uncertain significance,VUS,17 7674866 . G T . . .
+17,7675068,A,C,Uncertain significance,VUS,17 7675068 . A C . . .
+17,7675127,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7675127 . A T . . .
+17,7676212,A,T,Uncertain significance,VUS,17 7676212 . A T . . .
+17,7675196,T,C,Uncertain significance,VUS,17 7675196 . T C . . .
+17,7673743,C,G,Uncertain significance,VUS,17 7673743 . C G . . .
+17,7674237,G,T,Pathogenic,pathogenic,17 7674237 . G T . . .
+17,7676001,G,C,Uncertain significance,VUS,17 7676001 . G C . . .
+17,7676389,T,A,Uncertain significance,VUS,17 7676389 . T A . . .
+17,7675143,C,G,Uncertain significance,VUS,17 7675143 . C G . . .
+17,7676020,C,G,Uncertain significance,VUS,17 7676020 . C G . . .
+17,7676077,G,T,Uncertain significance,VUS,17 7676077 . G T . . .
+17,7673529,T,C,Uncertain significance,VUS,17 7673529 . T C . . .
+17,7675146,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7675146 . G C . . .
+17,7669641,T,A,Uncertain significance,VUS,17 7669641 . T A . . .
+17,7675211,A,G,Uncertain significance,VUS,17 7675211 . A G . . .
+17,7673607,T,C,Benign/Likely benign,likely_benign,17 7673607 . T C . . .
+17,7675246,G,A,Likely benign,likely_benign,17 7675246 . G A . . .
+17,7676422,A,T,Likely benign,likely_benign,17 7676422 . A T . . .
+17,7673574,T,C,Benign/Likely benign,likely_benign,17 7673574 . T C . . .
+17,7675046,T,C,Likely benign,likely_benign,17 7675046 . T C . . .
+17,7675096,A,G,Benign/Likely benign,likely_benign,17 7675096 . A G . . .
+17,7674270,G,A,Likely benign,likely_benign,17 7674270 . G A . . .
+17,7675063,T,G,Likely benign,likely_benign,17 7675063 . T G . . .
+17,7676108,T,G,Likely benign,likely_benign,17 7676108 . T G . . .
+17,7673592,G,T,Likely benign,likely_benign,17 7673592 . G T . . .
+17,7670629,C,G,Benign/Likely benign,likely_benign,17 7670629 . C G . . .
+17,7669612,G,A,Benign/Likely benign,likely_benign,17 7669612 . G A . . .
+17,7669705,A,G,Likely benign,likely_benign,17 7669705 . A G . . .
+17,7669707,C,T,Likely benign,likely_benign,17 7669707 . C T . . .
+17,7674216,C,T,Benign/Likely benign,likely_benign,17 7674216 . C T . . .
+17,7675138,G,T,Benign/Likely benign,likely_benign,17 7675138 . G T . . .
+17,7676291,A,T,Likely benign,likely_benign,17 7676291 . A T . . .
+17,7670595,C,T,Likely benign,likely_benign,17 7670595 . C T . . .
+17,7669618,G,A,Likely benign,likely_benign,17 7669618 . G A . . .
+17,7676418,C,T,Likely benign,likely_benign,17 7676418 . C T . . .
+17,7674163,T,C,Likely benign,likely_benign,17 7674163 . T C . . .
+17,7674198,G,A,Likely benign,likely_benign,17 7674198 . G A . . .
+17,7675247,A,C,Likely benign,likely_benign,17 7675247 . A C . . .
+17,7670732,G,T,Likely benign,likely_benign,17 7670732 . G T . . .
+17,7675039,C,T,Likely benign,likely_benign,17 7675039 . C T . . .
+17,7674305,A,C,Likely benign,likely_benign,17 7674305 . A C . . .
+17,7674308,C,T,Likely benign,likely_benign,17 7674308 . C T . . .
+17,7673521,C,G,Likely benign,likely_benign,17 7673521 . C G . . .
+17,7674985,G,A,Likely benign,likely_benign,17 7674985 . G A . . .
+17,7675087,G,A,Benign/Likely benign,likely_benign,17 7675087 . G A . . .
+17,7674302,C,T,Likely benign,likely_benign,17 7674302 . C T . . .
+17,7675231,G,A,Benign/Likely benign,likely_benign,17 7675231 . G A . . .
+17,7675093,C,G,Benign/Likely benign,likely_benign,17 7675093 . C G . . .
+17,7673681,T,C,Likely benign,likely_benign,17 7673681 . T C . . .
+17,7674961,A,G,Likely benign,likely_benign,17 7674961 . A G . . .
+17,7676504,C,T,Likely benign,likely_benign,17 7676504 . C T . . .
+17,7675982,A,G,Likely benign,likely_benign,17 7675982 . A G . . .
+17,7673621,C,T,Likely benign,likely_benign,17 7673621 . C T . . .
+17,7676419,A,C,Likely benign,likely_benign,17 7676419 . A C . . .
+17,7673601,G,A,Benign/Likely benign,likely_benign,17 7673601 . G A . . .
+17,7673688,C,T,Likely benign,likely_benign,17 7673688 . C T . . .
+17,7674989,G,A,Likely benign,likely_benign,17 7674989 . G A . . .
+17,7673705,C,T,Likely benign,likely_benign,17 7673705 . C T . . .
+17,7676562,C,T,Likely benign,likely_benign,17 7676562 . C T . . .
+17,7670721,G,C,Likely benign,likely_benign,17 7670721 . G C . . .
+17,7673522,C,T,Likely benign,likely_benign,17 7673522 . C T . . .
+17,7673807,C,T,Likely benign,likely_benign,17 7673807 . C T . . .
+17,7673621,C,A,Likely benign,likely_benign,17 7673621 . C A . . .
+17,7675165,G,A,Benign/Likely benign,likely_benign,17 7675165 . G A . . .
+17,7675041,C,G,Likely benign,likely_benign,17 7675041 . C G . . .
+17,7673849,A,G,Likely benign,likely_benign,17 7673849 . A G . . .
+17,7673776,G,T,Likely benign,likely_benign,17 7673776 . G T . . .
+17,7676597,C,T,Uncertain significance,VUS,17 7676597 . C T . . .
+17,7676341,T,C,Likely benign,likely_benign,17 7676341 . T C . . .
+17,7674255,G,C,Pathogenic,pathogenic,17 7674255 . G C . . .
+17,7676240,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7676240 . C G . . .
+17,7675197,T,G,Uncertain significance,VUS,17 7675197 . T G . . .
+17,7673750,G,A,Uncertain significance,VUS,17 7673750 . G A . . .
+17,7676498,G,A,Likely benign,likely_benign,17 7676498 . G A . . .
+17,7673593,G,A,Uncertain significance,VUS,17 7673593 . G A . . .
+17,7673853,A,C,Uncertain significance,VUS,17 7673853 . A C . . .
+17,7676475,G,A,Likely benign,likely_benign,17 7676475 . G A . . .
+17,7670578,G,A,Likely benign,likely_benign,17 7670578 . G A . . .
+17,7674176,C,G,Uncertain significance,VUS,17 7674176 . C G . . .
+17,7670642,C,G,Uncertain significance,VUS,17 7670642 . C G . . .
+17,7676256,T,C,Uncertain significance,VUS,17 7676256 . T C . . .
+17,7676172,A,C,Uncertain significance,VUS,17 7676172 . A C . . .
+17,7676140,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676140 . G C . . .
+17,7675229,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7675229 . G C . . .
+17,7673744,T,G,Uncertain significance,VUS,17 7673744 . T G . . .
+17,7673599,T,A,Uncertain significance,VUS,17 7673599 . T A . . .
+17,7673564,G,C,Uncertain significance,VUS,17 7673564 . G C . . .
+17,7676230,G,C,Uncertain significance,VUS,17 7676230 . G C . . .
+17,7675206,G,A,Pathogenic,pathogenic,17 7675206 . G A . . .
+17,7676046,C,A,Uncertain significance,VUS,17 7676046 . C A . . .
+17,7676013,G,T,Uncertain significance,VUS,17 7676013 . G T . . .
+17,7675996,T,C,Uncertain significance,VUS,17 7675996 . T C . . .
+17,7675225,G,A,Benign/Likely benign,likely_benign,17 7675225 . G A . . .
+17,7669627,T,A,Likely benign,likely_benign,17 7669627 . T A . . .
+17,7675203,G,A,Likely benign,likely_benign,17 7675203 . G A . . .
+17,7669646,T,A,Uncertain significance,VUS,17 7669646 . T A . . .
+17,7675228,A,T,Likely benign,likely_benign,17 7675228 . A T . . .
+17,7675226,G,T,Benign,benign,17 7675226 . G T . . .
+17,7669629,C,G,Likely benign,likely_benign,17 7669629 . C G . . .
+17,7675174,C,G,Uncertain significance,VUS,17 7675174 . C G . . .
+17,7676054,G,T,Likely benign,likely_benign,17 7676054 . G T . . .
+17,7676038,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676038 . G C . . .
+17,7676558,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676558 . G C . . .
+17,7669636,G,T,Likely benign,likely_benign,17 7669636 . G T . . .
+17,7669636,G,A,Likely benign,likely_benign,17 7669636 . G A . . .
+17,7676042,G,A,Likely benign,likely_benign,17 7676042 . G A . . .
+17,7675241,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7675241 . A C . . .
+17,7675236,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7675236 . A G . . .
+17,7675146,G,T,Uncertain significance,VUS,17 7675146 . G T . . .
+17,7669609,T,C,Uncertain significance,VUS,17 7669609 . T C . . .
+17,7675093,C,A,Likely benign,likely_benign,17 7675093 . C A . . .
+17,7676599,G,C,Uncertain significance,VUS,17 7676599 . G C . . .
+17,7674930,A,T,Uncertain significance,VUS,17 7674930 . A T . . .
+17,7675152,C,A,Uncertain significance,VUS,17 7675152 . C A . . .
+17,7675128,T,C,Uncertain significance,VUS,17 7675128 . T C . . .
+17,7675102,C,G,Likely benign,likely_benign,17 7675102 . C G . . .
+17,7675100,T,C,Pathogenic,pathogenic,17 7675100 . T C . . .
+17,7674938,T,C,Uncertain significance,VUS,17 7674938 . T C . . .
+17,7674934,T,G,Likely benign,likely_benign,17 7674934 . T G . . .
+17,7674909,C,T,Likely benign,likely_benign,17 7674909 . C T . . .
+17,7674906,T,G,Likely benign,likely_benign,17 7674906 . T G . . .
+17,7674878,A,T,Likely pathogenic,likely_pathogenic,17 7674878 . A T . . .
+17,7674877,C,A,Likely benign,likely_benign,17 7674877 . C A . . .
+17,7675156,C,A,Benign/Likely benign,likely_benign,17 7675156 . C A . . .
+17,7675109,T,A,Pathogenic,pathogenic,17 7675109 . T A . . .
+17,7675108,G,C,Uncertain significance,VUS,17 7675108 . G C . . .
+17,7675084,G,T,Pathogenic,pathogenic,17 7675084 . G T . . .
+17,7675057,G,C,Likely benign,likely_benign,17 7675057 . G C . . .
+17,7674920,T,A,Uncertain significance,VUS,17 7674920 . T A . . .
+17,7674888,T,A,Uncertain significance,VUS,17 7674888 . T A . . .
+17,7669614,C,A,Likely benign,likely_benign,17 7669614 . C A . . .
+17,7675111,C,T,Likely benign,likely_benign,17 7675111 . C T . . .
+17,7674871,A,G,Likely benign,likely_benign,17 7674871 . A G . . .
+17,7674240,G,A,Benign/Likely benign,likely_benign,17 7674240 . G A . . .
+17,7674236,T,A,Uncertain significance,VUS,17 7674236 . T A . . .
+17,7674209,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7674209 . G C . . .
+17,7674207,G,A,Benign/Likely benign,likely_benign,17 7674207 . G A . . .
+17,7674202,A,G,Pathogenic,pathogenic,17 7674202 . A G . . .
+17,7673828,T,A,Likely benign,likely_benign,17 7673828 . T A . . .
+17,7673821,G,C,Pathogenic,pathogenic,17 7673821 . G C . . .
+17,7673789,A,C,Uncertain significance,VUS,17 7673789 . A C . . .
+17,7676391,G,A,Benign/Likely benign,likely_benign,17 7676391 . G A . . .
+17,7673701,C,G,Uncertain significance,VUS,17 7673701 . C G . . .
+17,7673599,T,C,Likely benign,likely_benign,17 7673599 . T C . . .
+17,7674215,G,T,Uncertain significance,VUS,17 7674215 . G T . . .
+17,7674215,G,C,Uncertain significance,VUS,17 7674215 . G C . . .
+17,7676521,A,C,Uncertain significance,VUS,17 7676521 . A C . . .
+17,7674212,T,C,Uncertain significance,VUS,17 7674212 . T C . . .
+17,7670689,C,A,Likely benign,likely_benign,17 7670689 . C A . . .
+17,7674177,T,G,Uncertain significance,VUS,17 7674177 . T G . . .
+17,7673840,A,G,Uncertain significance,VUS,17 7673840 . A G . . .
+17,7673840,A,C,Uncertain significance,VUS,17 7673840 . A C . . .
+17,7673836,C,G,Uncertain significance,VUS,17 7673836 . C G . . .
+17,7676397,A,C,Likely benign,likely_benign,17 7676397 . A C . . .
+17,7673792,G,T,Benign/Likely benign,likely_benign,17 7673792 . G T . . .
+17,7676378,T,C,Uncertain significance,VUS,17 7676378 . T C . . .
+17,7676242,A,G,Likely benign,likely_benign,17 7676242 . A G . . .
+17,7673559,C,G,Likely benign,likely_benign,17 7673559 . C G . . .
+17,7674254,T,G,Uncertain significance,VUS,17 7674254 . T G . . .
+17,7674252,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674252 . C G . . .
+17,7674225,C,G,Likely pathogenic,likely_pathogenic,17 7674225 . C G . . .
+17,7674219,C,T,Likely benign,likely_benign,17 7674219 . C T . . .
+17,7674218,T,G,Likely benign,likely_benign,17 7674218 . T G . . .
+17,7673770,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7673770 . T G . . .
+17,7673759,C,T,Likely benign,likely_benign,17 7673759 . C T . . .
+17,7673723,C,T,Benign/Likely benign,likely_benign,17 7673723 . C T . . .
+17,7673723,C,A,Likely benign,likely_benign,17 7673723 . C A . . .
+17,7673721,G,A,Likely benign,likely_benign,17 7673721 . G A . . .
+17,7676384,G,C,Likely benign,likely_benign,17 7676384 . G C . . .
+17,7674334,G,A,Benign,benign,17 7674334 . G A . . .
+17,7676523,T,C,Likely benign,likely_benign,17 7676523 . T C . . .
+17,7674195,T,G,Likely benign,likely_benign,17 7674195 . T G . . .
+17,7673819,C,A,Likely benign,likely_benign,17 7673819 . C A . . .
+17,7673732,G,A,Likely benign,likely_benign,17 7673732 . G A . . .
+17,7673593,G,T,Likely benign,likely_benign,17 7673593 . G T . . .
+17,7673598,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673598 . G A . . .
+17,7676277,A,G,Uncertain significance,VUS,17 7676277 . A G . . .
+17,7670714,A,T,Likely pathogenic,likely_pathogenic,17 7670714 . A T . . .
+17,7670714,A,G,Uncertain significance,VUS,17 7670714 . A G . . .
+17,7670685,G,C,Uncertain significance,VUS,17 7670685 . G C . . .
+17,7676212,A,G,Uncertain significance,VUS,17 7676212 . A G . . .
+17,7676211,C,A,Conflicting classifications of pathogenicity,pathogenic,17 7676211 . C A . . .
+17,7670650,G,T,Likely benign,likely_benign,17 7670650 . G T . . .
+17,7673508,T,C,Uncertain significance,VUS,17 7673508 . T C . . .
+17,7670670,C,A,Uncertain significance,VUS,17 7670670 . C A . . .
+17,7670663,T,C,Likely benign,likely_benign,17 7670663 . T C . . .
+17,7670653,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7670653 . A C . . .
+17,7676197,G,C,Likely benign,likely_benign,17 7676197 . G C . . .
+17,7676189,T,C,Likely benign,likely_benign,17 7676189 . T C . . .
+17,7676238,A,T,Uncertain significance,VUS,17 7676238 . A T . . .
+17,7676238,A,G,Uncertain significance,VUS,17 7676238 . A G . . .
+17,7670659,G,A,Likely benign,likely_benign,17 7670659 . G A . . .
+17,7676199,T,A,Likely benign,likely_benign,17 7676199 . T A . . .
+17,7670679,G,T,Uncertain significance,VUS,17 7670679 . G T . . .
+17,7676194,C,T,Uncertain significance,VUS,17 7676194 . C T . . .
+17,7676192,A,T,Likely benign,likely_benign,17 7676192 . A T . . .
+17,7670646,C,T,Likely benign,likely_benign,17 7670646 . C T . . .
+17,7676173,T,C,Likely benign,likely_benign,17 7676173 . T C . . .
+17,7670631,C,G,Uncertain significance,VUS,17 7670631 . C G . . .
+17,7676261,C,A,Likely benign,likely_benign,17 7676261 . C A . . .
+17,7676141,T,C,Benign/Likely benign,likely_benign,17 7676141 . T C . . .
+17,7676132,A,G,Benign/Likely benign,likely_benign,17 7676132 . A G . . .
+17,7676130,G,A,Uncertain significance,VUS,17 7676130 . G A . . .
+17,7676572,G,C,Likely benign,likely_benign,17 7676572 . G C . . .
+17,7669694,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7669694 . T C . . .
+17,7669690,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7669690 . G A . . .
+17,7676118,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7676118 . G A . . .
+17,7670615,T,G,Uncertain significance,VUS,17 7670615 . T G . . .
+17,7676123,C,G,Benign/Likely benign,likely_benign,17 7676123 . C G . . .
+17,7676111,T,C,Likely benign,likely_benign,17 7676111 . T C . . .
+17,7676109,G,C,Uncertain significance,VUS,17 7676109 . G C . . .
+17,7676148,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676148 . G C . . .
+17,7676126,T,A,Likely benign,likely_benign,17 7676126 . T A . . .
+17,7676113,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7676113 . C G . . .
+17,7676099,G,C,Likely benign,likely_benign,17 7676099 . G C . . .
+17,7676576,C,T,Uncertain significance,VUS,17 7676576 . C T . . .
+17,7676595,G,A,Uncertain significance,VUS,17 7676595 . G A . . .
+17,7669682,T,A,Uncertain significance,VUS,17 7669682 . T A . . .
+17,7676259,G,C,Uncertain significance,VUS,17 7676259 . G C . . .
+17,7676088,G,T,Pathogenic,pathogenic,17 7676088 . G T . . .
+17,7676088,G,A,Likely benign,likely_benign,17 7676088 . G A . . .
+17,7669670,C,A,Likely benign,likely_benign,17 7669670 . C A . . .
+17,7676079,A,G,Uncertain significance,VUS,17 7676079 . A G . . .
+17,7676078,G,T,Likely benign,likely_benign,17 7676078 . G T . . .
+17,7676065,T,C,Uncertain significance,VUS,17 7676065 . T C . . .
+17,7676063,G,T,Likely benign,likely_benign,17 7676063 . G T . . .
+17,7676085,G,A,Uncertain significance,VUS,17 7676085 . G A . . .
+17,7676081,A,C,Likely benign,likely_benign,17 7676081 . A C . . .
+17,7669666,C,A,Uncertain significance,VUS,17 7669666 . C A . . .
+17,7669668,G,T,Likely benign,likely_benign,17 7669668 . G T . . .
+17,7669691,C,G,Pathogenic,pathogenic,17 7669691 . C G . . .
+17,7670732,G,C,Likely benign,likely_benign,17 7670732 . G C . . .
+17,7675260,A,T,Likely benign,likely_benign,17 7675260 . A T . . .
+17,7673691,G,C,Uncertain significance,VUS,17 7673691 . G C . . .
+17,7676283,G,T,Likely benign,likely_benign,17 7676283 . G T . . .
+17,7674955,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7674955 . C T . . .
+17,7674965,G,T,Uncertain significance,VUS,17 7674965 . G T . . .
+17,7676060,G,T,Pathogenic,pathogenic,17 7676060 . G T . . .
+17,7673518,G,A,Likely benign,likely_benign,17 7673518 . G A . . .
+17,7676151,A,G,Uncertain significance,VUS,17 7676151 . A G . . .
+17,7674237,G,A,Likely benign,likely_benign,17 7674237 . G A . . .
+17,7675095,C,G,Conflicting classifications of pathogenicity,pathogenic,17 7675095 . C G . . .
+17,7674839,A,T,Likely benign,likely_benign,17 7674839 . A T . . .
+17,7676501,C,T,Likely benign,likely_benign,17 7676501 . C T . . .
+17,7675248,G,A,Likely benign,likely_benign,17 7675248 . G A . . .
+17,7675137,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7675137 . C T . . .
+17,7675162,T,A,Likely benign,likely_benign,17 7675162 . T A . . .
+17,7673731,G,A,Uncertain significance,VUS,17 7673731 . G A . . .
+17,7676142,G,A,Uncertain significance,VUS,17 7676142 . G A . . .
+17,7673537,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7673537 . G C . . .
+17,7675201,C,T,Likely benign,likely_benign,17 7675201 . C T . . .
+17,7670626,C,A,Benign/Likely benign,likely_benign,17 7670626 . C A . . .
+17,7670628,C,T,Uncertain significance,VUS,17 7670628 . C T . . .
+17,7673526,A,G,Likely benign,likely_benign,17 7673526 . A G . . .
+17,7673527,C,G,Likely benign,likely_benign,17 7673527 . C G . . .
+17,7670629,C,T,Benign/Likely benign,likely_benign,17 7670629 . C T . . .
+17,7673562,T,G,Likely benign,likely_benign,17 7673562 . T G . . .
+17,7673541,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7673541 . G A . . .
+17,7676146,G,T,Uncertain significance,VUS,17 7676146 . G T . . .
+17,7670613,A,T,Uncertain significance,VUS,17 7670613 . A T . . .
+17,7674982,T,C,Likely benign,likely_benign,17 7674982 . T C . . .
+17,7675127,A,G,Uncertain significance,VUS,17 7675127 . A G . . .
+17,7673852,A,G,Likely benign,likely_benign,17 7673852 . A G . . .
+17,7670643,C,A,Uncertain significance,VUS,17 7670643 . C A . . .
+17,7673774,C,G,Likely benign,likely_benign,17 7673774 . C G . . .
+17,7676365,C,T,Likely benign,likely_benign,17 7676365 . C T . . .
+17,7675975,G,C,Likely benign,likely_benign,17 7675975 . G C . . .
+17,7673747,C,T,Likely benign,likely_benign,17 7673747 . C T . . .
+17,7674174,T,A,Likely benign,likely_benign,17 7674174 . T A . . .
+17,7675978,C,A,Likely benign,likely_benign,17 7675978 . C A . . .
+17,7674933,T,G,Uncertain significance,VUS,17 7674933 . T G . . .
+17,7670733,G,A,Likely benign,likely_benign,17 7670733 . G A . . .
+17,7675218,T,A,Pathogenic,pathogenic,17 7675218 . T A . . .
+17,7674285,G,A,Benign/Likely benign,likely_benign,17 7674285 . G A . . .
+17,7676254,C,A,Uncertain significance,VUS,17 7676254 . C A . . .
+17,7675189,G,A,Benign/Likely benign,likely_benign,17 7675189 . G A . . .
+17,7673702,T,A,Uncertain significance,VUS,17 7673702 . T A . . .
+17,7674886,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7674886 . A T . . .
+17,7675986,C,G,Likely benign,likely_benign,17 7675986 . C G . . .
+17,7674971,C,A,Uncertain significance,VUS,17 7674971 . C A . . .
+17,7675081,G,T,Likely benign,likely_benign,17 7675081 . G T . . .
+17,7675983,G,A,Likely benign,likely_benign,17 7675983 . G A . . .
+17,7675130,G,A,Uncertain significance,VUS,17 7675130 . G A . . .
+17,7674228,G,A,Likely benign,likely_benign,17 7674228 . G A . . .
+17,7673685,T,C,Likely benign,likely_benign,17 7673685 . T C . . .
+17,7676554,A,T,Conflicting classifications of pathogenicity,pathogenic,17 7676554 . A T . . .
+17,7676365,C,A,Likely benign,likely_benign,17 7676365 . C A . . .
+17,7676122,C,T,Uncertain significance,VUS,17 7676122 . C T . . .
+17,7673724,A,G,Conflicting classifications of pathogenicity,pathogenic,17 7673724 . A G . . .
+17,7674979,C,A,Likely benign,likely_benign,17 7674979 . C A . . .
+17,7674306,G,A,Likely benign,likely_benign,17 7674306 . G A . . .
+17,7676055,C,G,Uncertain significance,VUS,17 7676055 . C G . . .
+17,7676385,A,T,Likely benign,likely_benign,17 7676385 . A T . . .
+17,7676231,G,A,Benign/Likely benign,likely_benign,17 7676231 . G A . . .
+17,7673842,T,G,Likely benign,likely_benign,17 7673842 . T G . . .
+17,7676507,A,T,Likely benign,likely_benign,17 7676507 . A T . . .
+17,7675181,T,C,Uncertain significance,VUS,17 7675181 . T C . . .
+17,7676239,T,G,Uncertain significance,VUS,17 7676239 . T G . . .
+17,7670623,G,T,Uncertain significance,VUS,17 7670623 . G T . . .
+17,7673575,G,C,Uncertain significance,VUS,17 7673575 . G C . . .
+17,7675997,G,A,Uncertain significance,VUS,17 7675997 . G A . . .
+17,7673618,A,T,Likely benign,likely_benign,17 7673618 . A T . . .
+17,7673856,G,A,Likely benign,likely_benign,17 7673856 . G A . . .
+17,7673562,T,C,Benign/Likely benign,likely_benign,17 7673562 . T C . . .
+17,7674243,A,G,Likely benign,likely_benign,17 7674243 . A G . . .
+17,7669617,A,G,Uncertain significance,VUS,17 7669617 . A G . . .
+17,7673516,A,T,Likely benign,likely_benign,17 7673516 . A T . . .
+17,7676570,T,C,Uncertain significance,VUS,17 7676570 . T C . . .
+17,7674854,C,G,Uncertain significance,VUS,17 7674854 . C G . . .
+17,7673813,G,C,Uncertain significance,VUS,17 7673813 . G C . . .
+17,7673604,C,A,Likely benign,likely_benign,17 7673604 . C A . . .
+17,7670730,G,A,Likely benign,likely_benign,17 7670730 . G A . . .
+17,7673515,G,A,Likely benign,likely_benign,17 7673515 . G A . . .
+17,7674290,C,A,Uncertain significance,VUS,17 7674290 . C A . . .
+17,7676005,C,A,Uncertain significance,VUS,17 7676005 . C A . . .
+17,7676030,G,T,Likely pathogenic,likely_pathogenic,17 7676030 . G T . . .
+17,7673757,T,G,Uncertain significance,VUS,17 7673757 . T G . . .
+17,7669652,T,C,Uncertain significance,VUS,17 7669652 . T C . . .
+17,7670652,C,A,Uncertain significance,VUS,17 7670652 . C A . . .
+17,7676205,G,C,Uncertain significance,VUS,17 7676205 . G C . . .
+17,7669621,A,C,Benign/Likely benign,likely_benign,17 7669621 . A C . . .
+17,7673830,G,A,Likely benign,likely_benign,17 7673830 . G A . . .
+17,7674201,G,C,Uncertain significance,VUS,17 7674201 . G C . . .
+17,7675214,A,T,Uncertain significance,VUS,17 7675214 . A T . . .
+17,7670003,C,T,Uncertain significance,VUS,17 7670003 . C T . . .
+17,7670658,T,A,Pathogenic,pathogenic,17 7670658 . T A . . .
+17,7674400,C,T,Uncertain significance,VUS,17 7674400 . C T . . .
+17,7674179,A,G,Likely pathogenic,likely_pathogenic,17 7674179 . A G . . .
+17,7675099,C,A,Pathogenic,pathogenic,17 7675099 . C A . . .
+17,7674933,T,A,Uncertain significance,VUS,17 7674933 . T A . . .
+17,7676584,G,T,Likely benign,likely_benign,17 7676584 . G T . . .
+17,7676019,C,T,Uncertain significance,VUS,17 7676019 . C T . . .
+17,7674904,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674904 . T G . . .
+17,7673590,C,T,Likely benign,likely_benign,17 7673590 . C T . . .
+17,7670660,A,G,Uncertain significance,VUS,17 7670660 . A G . . .
+17,7670703,C,G,Likely benign,likely_benign,17 7670703 . C G . . .
+17,7676036,C,G,Likely benign,likely_benign,17 7676036 . C G . . .
+17,7673556,A,T,Likely benign,likely_benign,17 7673556 . A T . . .
+17,7674281,C,A,Likely benign,likely_benign,17 7674281 . C A . . .
+17,7673610,T,A,Likely pathogenic,likely_pathogenic,17 7673610 . T A . . .
+17,7674179,A,T,Likely pathogenic,likely_pathogenic,17 7674179 . A T . . .
+17,7676078,G,A,Uncertain significance,VUS,17 7676078 . G A . . .
+17,7674858,C,G,Pathogenic/Likely pathogenic,likely_pathogenic,17 7674858 . C G . . .
+17,7674244,C,T,Pathogenic,pathogenic,17 7674244 . C T . . .
+17,7675063,T,A,Pathogenic,pathogenic,17 7675063 . T A . . .
+17,7675118,T,A,Pathogenic,pathogenic,17 7675118 . T A . . .
+17,7670612,G,A,Uncertain significance,VUS,17 7670612 . G A . . .
+17,7676075,A,T,Benign/Likely benign,likely_benign,17 7676075 . A T . . .
+17,7676377,C,G,Uncertain significance,VUS,17 7676377 . C G . . .
+17,7675237,C,G,-,other,17 7675237 . C G . . .
+17,7673814,C,A,Likely pathogenic,likely_pathogenic,17 7673814 . C A . . .
+17,7673576,G,A,Benign,benign,17 7673576 . G A . . .
+17,7673574,T,A,Benign,benign,17 7673574 . T A . . .
+17,7673819,C,G,Likely pathogenic,likely_pathogenic,17 7673819 . C G . . .
+17,7673815,T,A,Benign,benign,17 7673815 . T A . . .
+17,7673491,G,T,Uncertain significance,VUS,17 7673491 . G T . . .
+17,7682425,C,G,Uncertain significance,VUS,17 7682425 . C G . . .
+17,7682463,C,A,Uncertain significance,VUS,17 7682463 . C A . . .
+17,7682348,T,C,Uncertain significance,VUS,17 7682348 . T C . . .
+17,7682350,T,A,Uncertain significance,VUS,17 7682350 . T A . . .
+17,7675945,C,T,Likely benign,likely_benign,17 7675945 . C T . . .
+17,7676316,C,T,Likely benign,likely_benign,17 7676316 . C T . . .
+17,7673551,T,A,Likely pathogenic,likely_pathogenic,17 7673551 . T A . . .
+17,7673550,T,C,Benign,benign,17 7673550 . T C . . .
+17,7673558,C,T,Benign,benign,17 7673558 . C T . . .
+17,7682469,C,G,Uncertain significance,VUS,17 7682469 . C G . . .
+17,7682470,C,A,Uncertain significance,VUS,17 7682470 . C A . . .
+17,7682238,G,T,Uncertain significance,VUS,17 7682238 . G T . . .
+17,7670686,G,C,Likely benign,likely_benign,17 7670686 . G C . . .
+17,7676153,G,C,Benign/Likely benign,likely_benign,17 7676153 . G C . . .
+17,7669632,T,G,Likely benign,likely_benign,17 7669632 . T G . . .
+17,7675083,G,C,Uncertain significance,VUS,17 7675083 . G C . . .
+17,7676380,A,C,Likely pathogenic,likely_pathogenic,17 7676380 . A C . . .
+17,7673714,C,T,Likely benign,likely_benign,17 7673714 . C T . . .
+17,7670607,A,G,Uncertain significance,VUS,17 7670607 . A G . . .
+17,7676044,A,T,Likely pathogenic,likely_pathogenic,17 7676044 . A T . . .
+17,7674261,G,T,Pathogenic,pathogenic,17 7674261 . G T . . .
+17,7670680,C,G,Uncertain significance,VUS,17 7670680 . C G . . .
+17,7673563,G,C,Uncertain significance,VUS,17 7673563 . G C . . .
+17,7674914,A,C,Uncertain significance,VUS,17 7674914 . A C . . .
+17,7673769,G,C,Uncertain significance,VUS,17 7673769 . G C . . .
+17,7673594,T,C,Uncertain significance,VUS,17 7673594 . T C . . .
+17,7675167,A,G,Uncertain significance,VUS,17 7675167 . A G . . .
+17,7673847,A,C,Uncertain significance,VUS,17 7673847 . A C . . .
+17,7673561,G,C,Uncertain significance,VUS,17 7673561 . G C . . .
+17,7673744,T,A,Uncertain significance,VUS,17 7673744 . T A . . .
+17,7674957,G,C,Uncertain significance,VUS,17 7674957 . G C . . .
+17,7673727,T,G,Uncertain significance,VUS,17 7673727 . T G . . .
+17,7674187,T,G,Pathogenic,pathogenic,17 7674187 . T G . . .
+17,7674255,G,T,Pathogenic,pathogenic,17 7674255 . G T . . .
+17,7670669,G,C,Likely benign,likely_benign,17 7670669 . G C . . .
+17,7675245,A,G,Uncertain significance,VUS,17 7675245 . A G . . .
+17,7675042,C,A,Uncertain significance,VUS,17 7675042 . C A . . .
+17,7675171,A,C,Benign/Likely benign,likely_benign,17 7675171 . A C . . .
+17,7675222,G,C,Uncertain significance,VUS,17 7675222 . G C . . .
+17,7675159,G,T,Benign,benign,17 7675159 . G T . . .
+17,7675110,G,T,Uncertain significance,VUS,17 7675110 . G T . . .
+17,7675230,G,A,Uncertain significance,VUS,17 7675230 . G A . . .
+17,7675214,A,C,Uncertain significance,VUS,17 7675214 . A C . . .
+17,7675155,G,C,Uncertain significance,VUS,17 7675155 . G C . . .
+17,7675062,C,G,Uncertain significance,VUS,17 7675062 . C G . . .
+17,7675185,C,G,Uncertain significance,VUS,17 7675185 . C G . . .
+17,7675184,A,T,Uncertain significance,VUS,17 7675184 . A T . . .
+17,7675169,T,A,Uncertain significance,VUS,17 7675169 . T A . . .
+17,7675158,G,T,Uncertain significance,VUS,17 7675158 . G T . . .
+17,7675122,T,G,Uncertain significance,VUS,17 7675122 . T G . . .
+17,7675116,A,C,Uncertain significance,VUS,17 7675116 . A C . . .
+17,7675018,C,T,Uncertain significance,VUS,17 7675018 . C T . . .
+17,7675242,G,C,Uncertain significance,VUS,17 7675242 . G C . . .
+17,7675247,A,G,Benign/Likely benign,likely_benign,17 7675247 . A G . . .
+17,7675240,T,G,Uncertain significance,VUS,17 7675240 . T G . . .
+17,7675284,A,T,Uncertain significance,VUS,17 7675284 . A T . . .
+17,7676199,T,C,Uncertain significance,VUS,17 7676199 . T C . . .
+17,7676030,G,C,Pathogenic,pathogenic,17 7676030 . G C . . .
+17,7674959,G,A,Uncertain significance,VUS,17 7674959 . G A . . .
+17,7676206,T,G,Uncertain significance,VUS,17 7676206 . T G . . .
+17,7676532,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7676532 . G C . . .
+17,7673686,G,A,Likely benign,likely_benign,17 7673686 . G A . . .
+17,7674964,G,C,Benign/Likely benign,likely_benign,17 7674964 . G C . . .
+17,7676413,A,G,Likely benign,likely_benign,17 7676413 . A G . . .
+17,7670641,C,G,Likely benign,likely_benign,17 7670641 . C G . . .
+17,7687376,C,A,Likely pathogenic,likely_pathogenic,17 7687376 . C A . . .
+17,7673520,C,G,Likely benign,likely_benign,17 7673520 . C G . . .
+17,7669670,C,T,Uncertain significance,VUS,17 7669670 . C T . . .
+17,7673692,C,G,Likely benign,likely_benign,17 7673692 . C G . . .
+17,7676123,C,A,Benign/Likely benign,likely_benign,17 7676123 . C A . . .
+17,7676414,A,G,Likely benign,likely_benign,17 7676414 . A G . . .
+17,7676061,T,G,Uncertain significance,VUS,17 7676061 . T G . . .
+17,7675113,G,T,Uncertain significance,VUS,17 7675113 . G T . . .
+17,7670665,C,T,Likely benign,likely_benign,17 7670665 . C T . . .
+17,7674982,T,G,Likely benign,likely_benign,17 7674982 . T G . . .
+17,7674845,G,A,Likely benign,likely_benign,17 7674845 . G A . . .
+17,7675183,C,T,Likely benign,likely_benign,17 7675183 . C T . . .
+17,7673834,A,G,Likely benign,likely_benign,17 7673834 . A G . . .
+17,7676193,C,G,Uncertain significance,VUS,17 7676193 . C G . . .
+17,7674285,G,C,Likely benign,likely_benign,17 7674285 . G C . . .
+17,7674937,T,C,Likely benign,likely_benign,17 7674937 . T C . . .
+17,7670678,A,C,Conflicting classifications of pathogenicity,pathogenic,17 7670678 . A C . . .
+17,7674876,G,T,Uncertain significance,VUS,17 7674876 . G T . . .
+17,7675243,G,T,Likely benign,likely_benign,17 7675243 . G T . . .
+17,7670666,A,G,Uncertain significance,VUS,17 7670666 . A G . . .
+17,7670632,T,G,Likely benign,likely_benign,17 7670632 . T G . . .
+17,7673821,G,T,Benign/Likely benign,likely_benign,17 7673821 . G T . . .
+17,7675124,T,G,Uncertain significance,VUS,17 7675124 . T G . . .
+17,7669700,A,G,Likely benign,likely_benign,17 7669700 . A G . . .
+17,7675166,G,T,Uncertain significance,VUS,17 7675166 . G T . . .
+17,7674908,T,G,Uncertain significance,VUS,17 7674908 . T G . . .
+17,7674247,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674247 . T A . . .
+17,7673791,A,C,Likely pathogenic,likely_pathogenic,17 7673791 . A C . . .
+17,7674184,G,A,Uncertain significance,VUS,17 7674184 . G A . . .
+17,7673623,A,G,Likely benign,likely_benign,17 7673623 . A G . . .
+17,7669696,G,C,Likely benign,likely_benign,17 7669696 . G C . . .
+17,7670612,G,T,Uncertain significance,VUS,17 7670612 . G T . . .
+17,7676371,C,T,Likely benign,likely_benign,17 7676371 . C T . . .
+17,7673826,A,C,Uncertain significance,VUS,17 7673826 . A C . . .
+17,7673767,C,A,Pathogenic,pathogenic,17 7673767 . C A . . .
+17,7675149,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7675149 . T G . . .
+17,7673620,G,A,Likely benign,likely_benign,17 7673620 . G A . . .
+17,7670605,T,A,Uncertain significance,VUS,17 7670605 . T A . . .
+17,7670643,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7670643 . C T . . .
+17,7670645,G,T,Uncertain significance,VUS,17 7670645 . G T . . .
+17,7673615,A,C,Likely benign,likely_benign,17 7673615 . A C . . .
+17,7674254,T,A,Uncertain significance,VUS,17 7674254 . T A . . .
+17,7675068,A,G,Uncertain significance,VUS,17 7675068 . A G . . .
+17,7675179,G,C,Conflicting classifications of pathogenicity,pathogenic,17 7675179 . G C . . .
+17,7676179,G,A,Uncertain significance,VUS,17 7676179 . G A . . .
+17,7676242,A,C,Uncertain significance,VUS,17 7676242 . A C . . .
+17,7673548,T,C,Uncertain significance,VUS,17 7673548 . T C . . .
+17,7675186,A,G,Likely benign,likely_benign,17 7675186 . A G . . .
+17,7675079,T,C,Uncertain significance,VUS,17 7675079 . T C . . .
+17,7670733,G,T,Likely benign,likely_benign,17 7670733 . G T . . .
+17,7676226,T,C,Likely benign,likely_benign,17 7676226 . T C . . .
+17,7674190,T,A,Uncertain significance,VUS,17 7674190 . T A . . .
+17,7673701,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7673701 . C T . . .
+17,7675159,G,C,Benign/Likely benign,likely_benign,17 7675159 . G C . . .
+17,7676566,A,T,Uncertain significance,VUS,17 7676566 . A T . . .
+17,7676115,G,A,Uncertain significance,VUS,17 7676115 . G A . . .
+17,7674172,G,T,Likely benign,likely_benign,17 7674172 . G T . . .
+17,7676194,C,A,Uncertain significance,VUS,17 7676194 . C A . . .
+17,7675072,C,T,Benign/Likely benign,likely_benign,17 7675072 . C T . . .
+17,7674310,C,A,Likely benign,likely_benign,17 7674310 . C A . . .
+17,7676029,A,G,Likely benign,likely_benign,17 7676029 . A G . . .
+17,7676091,A,C,Uncertain significance,VUS,17 7676091 . A C . . .
+17,7674196,G,T,Uncertain significance,VUS,17 7674196 . G T . . .
+17,7670639,T,G,Uncertain significance,VUS,17 7670639 . T G . . .
+17,7676369,C,G,Likely benign,likely_benign,17 7676369 . C G . . .
+17,7673541,G,T,Likely benign,likely_benign,17 7673541 . G T . . .
+17,7674269,T,A,Conflicting classifications of pathogenicity,pathogenic,17 7674269 . T A . . .
+17,7676423,A,G,Likely benign,likely_benign,17 7676423 . A G . . .
+17,7673711,G,A,Likely benign,likely_benign,17 7673711 . G A . . .
+17,7675036,C,T,Likely benign,likely_benign,17 7675036 . C T . . .
+17,7676287,A,C,Likely benign,likely_benign,17 7676287 . A C . . .
+17,7676110,G,A,Uncertain significance,VUS,17 7676110 . G A . . .
+17,7676116,G,C,Uncertain significance,VUS,17 7676116 . G C . . .
+17,7673520,C,T,Likely benign,likely_benign,17 7673520 . C T . . .
+17,7673535,C,A,Uncertain significance,VUS,17 7673535 . C A . . .
+17,7670728,A,C,Uncertain significance,VUS,17 7670728 . A C . . .
+17,7670723,A,T,Uncertain significance,VUS,17 7670723 . A T . . .
+17,7673565,T,C,Benign/Likely benign,likely_benign,17 7673565 . T C . . .
+17,7676406,G,A,Uncertain significance,VUS,17 7676406 . G A . . .
+17,7675151,C,G,Uncertain significance,VUS,17 7675151 . C G . . .
+17,7673817,T,C,Uncertain significance,VUS,17 7673817 . T C . . .
+17,7673600,T,G,Uncertain significance,VUS,17 7673600 . T G . . .
+17,7675129,G,A,Likely benign,likely_benign,17 7675129 . G A . . .
+17,7670731,A,C,Likely benign,likely_benign,17 7670731 . A C . . .
+17,7674987,G,A,Likely benign,likely_benign,17 7674987 . G A . . .
+17,7670655,C,G,Uncertain significance,VUS,17 7670655 . C G . . .
+17,7676585,G,C,Uncertain significance,VUS,17 7676585 . G C . . .
+17,7669710,G,A,Likely benign,likely_benign,17 7669710 . G A . . .
+17,7675120,C,A,Uncertain significance,VUS,17 7675120 . C A . . .
+17,7674876,G,C,Uncertain significance,VUS,17 7674876 . G C . . .
+17,7676110,G,C,Uncertain significance,VUS,17 7676110 . G C . . .
+17,7673624,G,A,Likely benign,likely_benign,17 7673624 . G A . . .
+17,7673688,C,A,Likely benign,likely_benign,17 7673688 . C A . . .
+17,7676063,G,C,Benign/Likely benign,likely_benign,17 7676063 . G C . . .
+17,7673808,T,C,Uncertain significance,VUS,17 7673808 . T C . . .
+17,7675976,C,A,Likely benign,likely_benign,17 7675976 . C A . . .
+17,7673614,A,G,Likely benign,likely_benign,17 7673614 . A G . . .
+17,7673726,C,G,Uncertain significance,VUS,17 7673726 . C G . . .
+17,7669633,C,T,Benign/Likely benign,likely_benign,17 7669633 . C T . . .
+17,7676221,T,G,Uncertain significance,VUS,17 7676221 . T G . . .
+17,7675107,T,A,Uncertain significance,VUS,17 7675107 . T A . . .
+17,7673585,A,G,Uncertain significance,VUS,17 7673585 . A G . . .
+17,7674273,G,A,Benign/Likely benign,likely_benign,17 7674273 . G A . . .
+17,7670589,A,G,Likely benign,likely_benign,17 7670589 . A G . . .
+17,7675133,A,G,Uncertain significance,VUS,17 7675133 . A G . . .
+17,7674204,G,A,Likely benign,likely_benign,17 7674204 . G A . . .
+17,7675034,T,A,Likely benign,likely_benign,17 7675034 . T A . . .
+17,7674912,C,T,Uncertain significance,VUS,17 7674912 . C T . . .
+17,7674171,G,T,Likely benign,likely_benign,17 7674171 . G T . . .
+17,7676117,G,T,Benign/Likely benign,likely_benign,17 7676117 . G T . . .
+17,7673835,C,T,Uncertain significance,VUS,17 7673835 . C T . . .
+17,7676370,C,T,Likely benign,likely_benign,17 7676370 . C T . . .
+17,7670672,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7670672 . T C . . .
+17,7674335,G,A,Likely benign,likely_benign,17 7674335 . G A . . .
+17,7668194,C,T,Likely benign,likely_benign,17 7668194 . C T . . .
+17,7668195,G,A,Likely benign,likely_benign,17 7668195 . G A . . .
+17,7668440,T,C,Likely benign,likely_benign,17 7668440 . T C . . .
+17,7669658,G,T,Uncertain significance,VUS,17 7669658 . G T . . .
+17,7675251,A,G,Likely benign,likely_benign,17 7675251 . A G . . .
+17,7676177,G,A,Likely benign,likely_benign,17 7676177 . G A . . .
+17,7676266,A,G,Likely benign,likely_benign,17 7676266 . A G . . .
+17,7676170,G,C,Uncertain significance,VUS,17 7676170 . G C . . .
+17,7673614,A,C,Uncertain significance,VUS,17 7673614 . A C . . .
+17,7670720,A,C,Uncertain significance,VUS,17 7670720 . A C . . .
+17,7670686,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7670686 . G T . . .
+17,7673569,T,G,Uncertain significance,VUS,17 7673569 . T G . . .
+17,7676277,A,C,Uncertain significance,VUS,17 7676277 . A C . . .
+17,7673814,C,T,Uncertain significance,VUS,17 7673814 . C T . . .
+17,7673808,T,A,Likely pathogenic,likely_pathogenic,17 7673808 . T A . . .
+17,7676257,G,A,Pathogenic,pathogenic,17 7676257 . G A . . .
+17,7674973,T,C,Likely pathogenic,likely_pathogenic,17 7674973 . T C . . .
+17,7674180,C,G,Likely pathogenic,likely_pathogenic,17 7674180 . C G . . .
+17,7676274,T,G,Pathogenic,pathogenic,17 7676274 . T G . . .
+17,7674972,C,A,Likely pathogenic,likely_pathogenic,17 7674972 . C A . . .
+17,7674914,A,T,Pathogenic,pathogenic,17 7674914 . A T . . .
+17,7670608,C,A,Likely pathogenic,likely_pathogenic,17 7670608 . C A . . .
+17,7673610,T,G,Likely pathogenic,likely_pathogenic,17 7673610 . T G . . .
+17,7674206,T,G,Conflicting classifications of pathogenicity,pathogenic,17 7674206 . T G . . .
+17,7670648,T,A,Benign,benign,17 7670648 . T A . . .
+17,7669643,A,G,Uncertain significance,VUS,17 7669643 . A G . . .
+17,7669620,C,T,Conflicting classifications of pathogenicity,pathogenic,17 7669620 . C T . . .
+17,7669610,C,A,Uncertain significance,VUS,17 7669610 . C A . . .
+17,7676203,C,T,Uncertain significance,VUS,17 7676203 . C T . . .
+17,7676097,C,G,Uncertain significance,VUS,17 7676097 . C G . . .
+17,7675177,C,T,Likely benign,likely_benign,17 7675177 . C T . . .
+17,7674902,T,C,Likely benign,likely_benign,17 7674902 . T C . . .
+17,7674249,A,T,Pathogenic,pathogenic,17 7674249 . A T . . .
+17,7673735,A,T,Likely benign,likely_benign,17 7673735 . A T . . .
+17,7673503,T,A,Uncertain significance,VUS,17 7673503 . T A . . .
+17,7670655,C,T,Uncertain significance,VUS,17 7670655 . C T . . .
+17,7674200,T,C,-,other,17 7674200 . T C . . .
+17,7670689,C,G,Likely benign,likely_benign,17 7670689 . C G . . .
+17,7673678,C,T,Likely benign,likely_benign,17 7673678 . C T . . .
+17,7674835,A,G,Likely benign,likely_benign,17 7674835 . A G . . .
+17,7674973,T,A,-,other,17 7674973 . T A . . .
+17,7675131,C,G,-,other,17 7675131 . C G . . .
+17,7675065,A,G,Likely benign,likely_benign,17 7675065 . A G . . .
+17,7675109,T,G,Likely pathogenic,likely_pathogenic,17 7675109 . T G . . .
+17,7670705,C,A,Likely benign,likely_benign,17 7670705 . C A . . .
+17,7673715,C,G,Likely benign,likely_benign,17 7673715 . C G . . .
+17,7675166,G,C,Uncertain significance,VUS,17 7675166 . G C . . .
+17,7669672,C,G,Uncertain significance,VUS,17 7669672 . C G . . .
+17,7673572,T,G,Likely benign,likely_benign,17 7673572 . T G . . .
+17,7670648,T,G,Likely benign,likely_benign,17 7670648 . T G . . .
+17,7674970,A,C,Likely benign,likely_benign,17 7674970 . A C . . .
+17,7673704,G,C,Uncertain significance,VUS,17 7673704 . G C . . .
+17,7673736,G,T,Uncertain significance,VUS,17 7673736 . G T . . .
+17,7673746,T,A,Pathogenic,pathogenic,17 7673746 . T A . . .
+17,7674319,G,C,Likely benign,likely_benign,17 7674319 . G C . . .
+17,7676091,A,G,Uncertain significance,VUS,17 7676091 . A G . . .
+17,7675244,A,G,Likely benign,likely_benign,17 7675244 . A G . . .
+17,7674941,A,G,Uncertain significance,VUS,17 7674941 . A G . . .
+17,7676239,T,C,Conflicting classifications of pathogenicity,pathogenic,17 7676239 . T C . . .
+17,7676261,C,G,Likely benign,likely_benign,17 7676261 . C G . . .
+17,7674919,C,G,Likely benign,likely_benign,17 7674919 . C G . . .
+17,7676219,A,G,Likely benign,likely_benign,17 7676219 . A G . . .
+17,7676089,A,C,Likely benign,likely_benign,17 7676089 . A C . . .
+17,7676000,A,T,Likely benign,likely_benign,17 7676000 . A T . . .
+17,7676234,C,G,Likely benign,likely_benign,17 7676234 . C G . . .
+17,7676151,A,T,Likely benign,likely_benign,17 7676151 . A T . . .
+17,7674925,A,T,Likely benign,likely_benign,17 7674925 . A T . . .
+17,7676016,G,C,Uncertain significance,VUS,17 7676016 . G C . . .
+17,7675192,G,C,Benign/Likely benign,likely_benign,17 7675192 . G C . . .
+17,7675104,T,A,Uncertain significance,VUS,17 7675104 . T A . . .
+17,7673800,C,T,Benign,benign,17 7673800 . C T . . .
+17,7676195,T,A,Likely benign,likely_benign,17 7676195 . T A . . .
+17,7670680,C,A,Benign,benign,17 7670680 . C A . . .
+17,7670608,C,T,Uncertain significance,VUS,17 7670608 . C T . . .
+17,7676142,G,C,Benign,benign,17 7676142 . G C . . .
+17,7670653,A,G,Likely benign,likely_benign,17 7670653 . A G . . .
+17,7670642,C,T,Likely benign,likely_benign,17 7670642 . C T . . .
+17,7674896,A,G,Likely benign,likely_benign,17 7674896 . A G . . .
+17,7676153,G,T,Likely benign,likely_benign,17 7676153 . G T . . .
+17,7673708,A,C,Likely benign,likely_benign,17 7673708 . A C . . .
+17,7675068,A,T,Uncertain significance,VUS,17 7675068 . A T . . .
+17,7669605,A,C,Uncertain significance,VUS,17 7669605 . A C . . .
+17,7675172,A,C,Likely pathogenic,likely_pathogenic,17 7675172 . A C . . .
+17,7670703,C,A,Likely pathogenic,likely_pathogenic,17 7670703 . C A . . .
+17,7676552,T,C,Uncertain significance,VUS,17 7676552 . T C . . .
+17,7673524,A,G,Likely benign,likely_benign,17 7673524 . A G . . .
+17,7675228,A,C,Benign/Likely benign,likely_benign,17 7675228 . A C . . .
+17,7673702,T,C,Likely benign,likely_benign,17 7673702 . T C . . .
+17,7669613,T,C,Uncertain significance,VUS,17 7669613 . T C . . .
+17,7674165,G,A,Likely benign,likely_benign,17 7674165 . G A . . .
+17,7669613,T,A,Uncertain significance,VUS,17 7669613 . T A . . .
+17,7669662,T,A,Uncertain significance,VUS,17 7669662 . T A . . .
+17,7673603,G,T,Uncertain significance,VUS,17 7673603 . G T . . .
+17,7673709,G,C,Uncertain significance,VUS,17 7673709 . G C . . .
+17,7673722,G,A,Uncertain significance,VUS,17 7673722 . G A . . .
+17,7673809,C,G,Uncertain significance,VUS,17 7673809 . C G . . .
+17,7674188,C,T,Uncertain significance,VUS,17 7674188 . C T . . .
+17,7674283,G,A,Uncertain significance,VUS,17 7674283 . G A . . .
+17,7675119,G,C,Uncertain significance,VUS,17 7675119 . G C . . .
+17,7676032,A,G,Pathogenic,pathogenic,17 7676032 . A G . . .
+17,7676034,C,G,Uncertain significance,VUS,17 7676034 . C G . . .
+17,7676089,A,T,Uncertain significance,VUS,17 7676089 . A T . . .
+17,7676094,G,T,Uncertain significance,VUS,17 7676094 . G T . . .
+17,7676152,C,A,Uncertain significance,VUS,17 7676152 . C A . . .
+17,7676178,G,A,Uncertain significance,VUS,17 7676178 . G A . . .
+17,7676390,T,C,Uncertain significance,VUS,17 7676390 . T C . . .
+17,7676396,C,T,Uncertain significance,VUS,17 7676396 . C T . . .
+17,7676534,C,T,Uncertain significance,VUS,17 7676534 . C T . . .
+17,7670635,C,T,Likely benign,likely_benign,17 7670635 . C T . . .
+17,7674162,G,T,Likely benign,likely_benign,17 7674162 . G T . . .
+17,7676018,C,G,Likely benign,likely_benign,17 7676018 . C G . . .
+17,7674300,A,G,Likely benign,likely_benign,17 7674300 . A G . . .
+17,7676159,A,C,Likely benign,likely_benign,17 7676159 . A C . . .
+17,7675254,A,C,Likely benign,likely_benign,17 7675254 . A C . . .
+17,7676574,A,G,Benign/Likely benign,likely_benign,17 7676574 . A G . . .
+17,7675207,G,T,Pathogenic,pathogenic,17 7675207 . G T . . .
+17,7676291,A,G,Likely benign,likely_benign,17 7676291 . A G . . .
+17,7676279,A,G,Likely benign,likely_benign,17 7676279 . A G . . .
+17,7670733,G,C,Likely benign,likely_benign,17 7670733 . G C . . .
+17,7675115,G,T,Pathogenic,pathogenic,17 7675115 . G T . . .
+17,7676012,G,C,Likely benign,likely_benign,17 7676012 . G C . . .
+17,7670718,G,C,Uncertain significance,VUS,17 7670718 . G C . . .
+17,7674293,A,C,Uncertain significance,VUS,17 7674293 . A C . . .
+17,7670727,G,C,Likely benign,likely_benign,17 7670727 . G C . . .
+17,7676526,C,T,Pathogenic,pathogenic,17 7676526 . C T . . .
+17,7674259,T,A,Uncertain significance,VUS,17 7674259 . T A . . .
+17,7673687,T,A,Likely benign,likely_benign,17 7673687 . T A . . .
+17,7676506,A,G,Likely benign,likely_benign,17 7676506 . A G . . .
+17,7670675,T,C,Uncertain significance,VUS,17 7670675 . T C . . .
+17,7675986,C,T,Likely benign,likely_benign,17 7675986 . C T . . .
+17,7674841,C,T,Likely benign,likely_benign,17 7674841 . C T . . .
+17,7674985,G,C,Uncertain significance,VUS,17 7674985 . G C . . .
+17,7676147,G,C,Benign/Likely benign,likely_benign,17 7676147 . G C . . .
+17,7675084,G,A,Likely benign,likely_benign,17 7675084 . G A . . .
+17,7676506,A,C,Likely benign,likely_benign,17 7676506 . A C . . .
+17,7676179,G,T,Uncertain significance,VUS,17 7676179 . G T . . .
+17,7674182,T,G,Uncertain significance,VUS,17 7674182 . T G . . .
+17,7673517,G,C,Likely benign,likely_benign,17 7673517 . G C . . .
+17,7670722,C,T,Likely benign,likely_benign,17 7670722 . C T . . .
+17,7673856,G,C,Likely benign,likely_benign,17 7673856 . G C . . .
+17,7673519,T,C,Likely benign,likely_benign,17 7673519 . T C . . .
+17,7675041,C,A,Likely benign,likely_benign,17 7675041 . C A . . .
+17,7676371,C,G,Likely benign,likely_benign,17 7676371 . C G . . .
+17,7673628,A,T,Likely benign,likely_benign,17 7673628 . A T . . .
+17,7676292,G,C,Likely benign,likely_benign,17 7676292 . G C . . .
+17,7670708,C,A,-,other,17 7670708 . C A . . .
+17,7669716,G,A,Likely benign,likely_benign,17 7669716 . G A . . .
+17,7669733,G,A,Likely benign,likely_benign,17 7669733 . G A . . .
+17,7673669,C,T,Likely benign,likely_benign,17 7673669 . C T . . .
+17,7674319,G,A,Likely benign,likely_benign,17 7674319 . G A . . .
+17,7674323,G,A,Likely benign,likely_benign,17 7674323 . G A . . .
+17,7674825,C,T,Likely benign,likely_benign,17 7674825 . C T . . .
+17,7675021,G,T,Likely benign,likely_benign,17 7675021 . G T . . .
+17,7675968,G,T,Likely benign,likely_benign,17 7675968 . G T . . .
+17,7676453,A,G,Likely benign,likely_benign,17 7676453 . A G . . .
+17,7676482,T,G,Likely benign,likely_benign,17 7676482 . T G . . .
+17,7676620,C,T,Uncertain significance,VUS,17 7676620 . C T . . .
+17,7670702,T,C,Uncertain significance,VUS,17 7670702 . T C . . .
+17,7676010,T,G,Uncertain significance,VUS,17 7676010 . T G . . .
+17,7674846,T,G,Likely benign,likely_benign,17 7674846 . T G . . .
+17,7674329,C,T,Likely pathogenic,likely_pathogenic,17 7674329 . C T . . .
+17,7669601,G,A,Conflicting classifications of pathogenicity,pathogenic,17 7669601 . G A . . .
+17,7674943,T,C,Likely benign,likely_benign,17 7674943 . T C . . .
+17,7674279,G,A,Benign/Likely benign,likely_benign,17 7674279 . G A . . .
+17,7675066,G,T,Pathogenic,pathogenic,17 7675066 . G T . . .
+17,7675116,A,T,Likely benign,likely_benign,17 7675116 . A T . . .
+17,7675997,G,C,Likely benign,likely_benign,17 7675997 . G C . . .
+17,7676184,T,C,Likely benign,likely_benign,17 7676184 . T C . . .
+17,7674910,A,C,Likely benign,likely_benign,17 7674910 . A C . . .
+17,7675188,G,C,Uncertain significance,VUS,17 7675188 . G C . . .
+17,7673698,T,A,Uncertain significance,VUS,17 7673698 . T A . . .
+17,7676561,G,A,Uncertain significance,VUS,17 7676561 . G A . . .
+17,7673793,G,A,Uncertain significance,VUS,17 7673793 . G A . . .
+17,7673566,T,G,Uncertain significance,VUS,17 7673566 . T G . . .
+17,7675208,C,G,Likely pathogenic,likely_pathogenic,17 7675208 . C G . . .
+17,7673762,T,G,Uncertain significance,VUS,17 7673762 . T G . . .
+17,7676202,T,C,Uncertain significance,VUS,17 7676202 . T C . . .
+17,7676122,C,A,Uncertain significance,VUS,17 7676122 . C A . . .
+17,7673838,C,G,Likely pathogenic,likely_pathogenic,17 7673838 . C G . . .
+17,7666193,C,T,Likely benign,likely_benign,17 7666193 . C T . . .
+17,7675205,T,A,Uncertain significance,VUS,17 7675205 . T A . . .
+17,7674966,C,T,Uncertain significance,VUS,17 7674966 . C T . . .
+17,7675188,G,T,Uncertain significance,VUS,17 7675188 . G T . . .
+17,7676122,C,G,Likely benign,likely_benign,17 7676122 . C G . . .
+17,7669659,A,T,Likely benign,likely_benign,17 7669659 . A T . . .
+17,7674907,G,C,Uncertain significance,VUS,17 7674907 . G C . . .
+17,7674913,C,G,Uncertain significance,VUS,17 7674913 . C G . . .
+17,7675192,G,A,Likely benign,likely_benign,17 7675192 . G A . . .
+17,7676533,T,G,Likely benign,likely_benign,17 7676533 . T G . . .
+17,7674854,C,A,Uncertain significance,VUS,17 7674854 . C A . . .
+17,7673550,T,G,Likely benign,likely_benign,17 7673550 . T G . . .
+17,7675202,A,T,Uncertain significance,VUS,17 7675202 . A T . . .
+17,7674245,T,A,Likely pathogenic,likely_pathogenic,17 7674245 . T A . . .
+17,7676117,G,A,Likely benign,likely_benign,17 7676117 . G A . . .
+17,7674911,T,C,Uncertain significance,VUS,17 7674911 . T C . . .
+17,7675999,A,G,Likely pathogenic,likely_pathogenic,17 7675999 . A G . . .
+17,7676090,C,G,Benign,benign,17 7676090 . C G . . .
+17,7676421,A,G,Likely benign,likely_benign,17 7676421 . A G . . .
+17,7673627,A,G,Likely benign,likely_benign,17 7673627 . A G . . .
+17,7673607,T,G,Benign,benign,17 7673607 . T G . . .
+17,7676216,T,C,Benign,benign,17 7676216 . T C . . .
+17,7674988,A,G,Likely benign,likely_benign,17 7674988 . A G . . .
+17,7676375,T,C,Likely benign,likely_benign,17 7676375 . T C . . .
+17,7673780,T,C,Benign,benign,17 7673780 . T C . . .
+17,7669621,A,G,Benign,benign,17 7669621 . A G . . .
+17,7676292,G,A,Likely benign,likely_benign,17 7676292 . G A . . .
+17,7674946,G,A,Benign,benign,17 7674946 . G A . . .
+17,7675153,G,T,Benign,benign,17 7675153 . G T . . .
+17,7674186,G,A,Benign,benign,17 7674186 . G A . . .
+17,7675043,A,G,Likely benign,likely_benign,17 7675043 . A G . . .
+17,7674981,A,G,Likely benign,likely_benign,17 7674981 . A G . . .
+17,7676286,A,G,Likely benign,likely_benign,17 7676286 . A G . . .
+17,7670662,T,C,Benign,benign,17 7670662 . T C . . .
+17,7676512,T,C,Likely benign,likely_benign,17 7676512 . T C . . .
+17,7676270,G,A,Benign,benign,17 7676270 . G A . . .
+17,7673529,T,A,Likely benign,likely_benign,17 7673529 . T A . . .
+17,7676374,G,A,Likely benign,likely_benign,17 7676374 . G A . . .
+17,7676529,T,A,Benign,benign,17 7676529 . T A . . .
+17,7669608,G,A,Benign,benign,17 7669608 . G A . . .
+17,7675126,G,A,Benign,benign,17 7675126 . G A . . .
+17,7676012,G,A,Benign,benign,17 7676012 . G A . . .
+17,7670734,G,A,Likely benign,likely_benign,17 7670734 . G A . . .
+17,7676054,G,A,Benign,benign,17 7676054 . G A . . .
+17,7673798,A,G,Benign,benign,17 7673798 . A G . . .
+17,7676027,C,T,Benign,benign,17 7676027 . C T . . .
+17,7669624,C,T,Benign,benign,17 7669624 . C T . . .
+17,7675150,G,C,Benign,benign,17 7675150 . G C . . .
+17,7674304,C,T,Likely benign,likely_benign,17 7674304 . C T . . .
+17,7674302,C,A,Likely benign,likely_benign,17 7674302 . C A . . .
+17,7676105,G,T,Benign,benign,17 7676105 . G T . . .
+17,7676129,A,C,Benign,benign,17 7676129 . A C . . .
+17,7674892,T,G,Benign,benign,17 7674892 . T G . . .
+17,7676419,A,G,Likely benign,likely_benign,17 7676419 . A G . . .
+17,7676513,C,G,Likely benign,likely_benign,17 7676513 . C G . . .
+17,7676228,C,G,Benign,benign,17 7676228 . C G . . .
+17,7676513,C,A,Likely benign,likely_benign,17 7676513 . C A . . .
+17,7673695,G,A,Likely benign,likely_benign,17 7673695 . G A . . .
+17,7676180,A,C,Benign,benign,17 7676180 . A C . . .
+17,7674986,T,C,Likely benign,likely_benign,17 7674986 . T C . . .
+17,7675123,G,A,Benign,benign,17 7675123 . G A . . .
+17,7674978,G,A,Likely benign,likely_benign,17 7674978 . G A . . .
+17,7675141,G,C,Benign,benign,17 7675141 . G C . . .
+17,7675171,A,G,Benign,benign,17 7675171 . A G . . .
+17,7674172,G,C,Likely benign,likely_benign,17 7674172 . G C . . .
+17,7676285,G,A,Likely benign,likely_benign,17 7676285 . G A . . .
+17,7674983,C,A,Likely benign,likely_benign,17 7674983 . C A . . .
+17,7675177,C,A,Benign,benign,17 7675177 . C A . . .
+17,7676060,G,A,Benign,benign,17 7676060 . G A . . .
+17,7670719,C,T,Likely benign,likely_benign,17 7670719 . C T . . .
+17,7675985,G,T,Likely benign,likely_benign,17 7675985 . G T . . .
+17,7670723,A,G,Likely benign,likely_benign,17 7670723 . A G . . .
+17,7676120,C,G,Benign,benign,17 7676120 . C G . . .
+17,7676514,C,T,Likely benign,likely_benign,17 7676514 . C T . . .
+17,7673589,G,A,Benign,benign,17 7673589 . G A . . .
+17,7669678,G,T,Benign,benign,17 7669678 . G T . . .
+17,7676111,T,G,Benign,benign,17 7676111 . T G . . .
+17,7674294,G,A,Likely benign,likely_benign,17 7674294 . G A . . .
+17,7676045,A,G,Benign/Likely benign,likely_benign,17 7676045 . A G . . .
+17,7674852,A,C,Likely benign,likely_benign,17 7674852 . A C . . .
+17,7673708,A,T,Benign,benign,17 7673708 . A T . . .
+17,7669663,A,G,Benign,benign,17 7669663 . A G . . .
+17,7670601,T,A,Likely benign,likely_benign,17 7670601 . T A . . .
+17,7675195,C,T,Benign,benign,17 7675195 . C T . . .
+17,7674898,A,G,Benign,benign,17 7674898 . A G . . .
+17,7676126,T,G,Benign,benign,17 7676126 . T G . . .
+17,7674874,G,A,Benign,benign,17 7674874 . G A . . .
+17,7579817,G,C,Benign,benign,17 7579817 . G C . . .
+17,7669763,C,G,Benign,benign,17 7669763 . C G . . .
+17,7679754,A,G,Likely benign,likely_benign,17 7679754 . A G . . .
+17,7673202,C,A,Likely benign,likely_benign,17 7673202 . C A . . .
+17,7670660,A,C,Likely benign,likely_benign,17 7670660 . A C . . .
+17,7676382,C,G,Uncertain significance,VUS,17 7676382 . C G . . .
+17,7675052,C,G,Pathogenic,pathogenic,17 7675052 . C G . . .
+17,7674246,G,T,Pathogenic,pathogenic,17 7674246 . G T . . .
+17,7676086,A,T,Likely benign,likely_benign,17 7676086 . A T . . .
+17,7669689,G,C,Uncertain significance,VUS,17 7669689 . G C . . .
+17,7670715,T,G,Likely benign,likely_benign,17 7670715 . T G . . .
+17,7675089,G,T,Conflicting classifications of pathogenicity,pathogenic,17 7675089 . G T . . .
+17,7674968,A,G,Uncertain significance,VUS,17 7674968 . A G . . .
+17,7676133,G,A,Likely benign,likely_benign,17 7676133 . G A . . .
+17,7676070,T,G,Uncertain significance,VUS,17 7676070 . T G . . .
+17,7673762,T,C,Likely benign,likely_benign,17 7673762 . T C . . .
+17,7669609,T,G,Uncertain significance,VUS,17 7669609 . T G . . .
+17,7675221,T,G,Likely pathogenic,likely_pathogenic,17 7675221 . T G . . .
+17,7677724,A,G,Likely benign,likely_benign,17 7677724 . A G . . .
+17,7670712,G,C,-,other,17 7670712 . G C . . .
+17,7673223,G,C,-,other,17 7673223 . G C . . .
+17,7673843,C,A,-,other,17 7673843 . C A . . .
+17,7673847,A,T,-,other,17 7673847 . A T . . .
+17,7674050,G,A,-,other,17 7674050 . G A . . .
+17,7674181,C,T,-,other,17 7674181 . C T . . .
+17,7674297,G,C,-,other,17 7674297 . G C . . .
+17,7674945,G,T,-,other,17 7674945 . G T . . .
+17,7675051,A,C,-,other,17 7675051 . A C . . .
+17,7675051,A,G,-,other,17 7675051 . A G . . .
+17,7675996,T,A,-,other,17 7675996 . T A . . .
+17,7676006,A,T,-,other,17 7676006 . A T . . .
+17,7676007,G,T,-,other,17 7676007 . G T . . .
+17,7676273,C,G,-,other,17 7676273 . C G . . .
+17,7676274,T,A,-,other,17 7676274 . T A . . .
+17,7676351,T,A,-,other,17 7676351 . T A . . .
+17,7676405,T,G,-,other,17 7676405 . T G . . .
+17,7676517,T,C,-,other,17 7676517 . T C . . .
+17,7673785,C,A,-,other,17 7673785 . C A . . .
+17,7676139,G,A,Uncertain significance,VUS,17 7676139 . G A . . .
